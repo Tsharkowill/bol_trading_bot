@@ -53,24 +53,36 @@ def upload_to_s3(local_file, bucket_name, s3_key):
         print(f"Error uploading to S3: {e}")
 
 
-def process_order_responses(json_file_path, parquet_file_path, bucket_name, s3_key_parquet):
-    """Process order responses from a JSON file and upload to S3."""
+def process_order_responses(json_file_paths, parquet_file_path, bucket_name, s3_key_parquet):
+    """Process order responses from multiple JSON files and upload to S3."""
     try:
-        if not os.path.exists(json_file_path):
-            raise FileNotFoundError(f"{json_file_path} does not exist.")
+        all_dataframes = []
 
-        with open(json_file_path, "r") as f:
-            responses = json.load(f)
+        for json_file_path, strategy_name in json_file_paths.items():
+            if not os.path.exists(json_file_path):
+                print(f"Warning: {json_file_path} does not exist. Skipping...")
+                continue
 
-        df = pd.DataFrame([resp['data'] for resp in responses])
-        df['strategy'] = 'mean_reversion'
+            with open(json_file_path, "r") as f:
+                responses = json.load(f)
 
-        df.to_parquet(parquet_file_path, index=False)
+            df = pd.DataFrame([resp['data'] for resp in responses])
+            df['strategy'] = strategy_name
+            all_dataframes.append(df)
+
+            os.remove(json_file_path)
+            print(f"JSON file deleted: {json_file_path}")
+
+        if not all_dataframes:
+            print("No data to process. Exiting...")
+            return
+
+        combined_df = pd.concat(all_dataframes, ignore_index=True)
+
+        combined_df.to_parquet(parquet_file_path, index=False)
         print(f"Parquet file saved to: {parquet_file_path}")
 
         upload_to_s3(parquet_file_path, bucket_name, s3_key_parquet)
-        os.remove(json_file_path)
-        print(f"JSON file deleted: {json_file_path}")
     except FileNotFoundError as fnf_error:
         print(f"Error: {fnf_error}")
     except Exception as e:
@@ -90,25 +102,16 @@ def main():
     # Initialize the API
     order_api = maxOrderApi.OrderApi(api_key, secret_key, passphrase)
 
-    # Fetch historical trades
-    orders_df = fetch_historical_trades(order_api, SCALP_MARKETS, unix_time_minus_24h, current_unix_time)
-
-    if not orders_df.empty:
-        # Save Parquet file locally
-        parquet_file = f"/tmp/trades_{datetime.now().strftime('%Y%m%d')}.parquet"
-        orders_df.to_parquet(parquet_file, index=False)
-
-        # Upload to S3
-        s3_key = f"trades/daily/trades_{datetime.now().strftime('%Y%m%d')}.parquet"
-        upload_to_s3(parquet_file, bucket_name, s3_key)
-    else:
-        print("No historical trade data to upload.")
 
     # Process order responses
-    json_file_path = "order_responses.json"
     parquet_file_path = f"/tmp/response_{datetime.now().strftime('%Y%m%d')}.parquet"
     s3_key_parquet = f"response/daily/response_{datetime.now().strftime('%Y%m%d')}.parquet"
-    process_order_responses(json_file_path, parquet_file_path, bucket_name, s3_key_parquet)
+    json_file_paths = {
+        "momentum_order_responses_normalized.json": "normalized_slope_momentum",
+        "momentum_order_responses_percentage.json": "percentage_slope_momentum"
+    }
+    process_order_responses(json_file_paths, "order_responses.parquet", bucket_name, "s3-key/order_responses.parquet")
+
 
 
 if __name__ == "__main__":
