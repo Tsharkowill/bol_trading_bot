@@ -1,0 +1,3502 @@
+[
+    {
+        "returns": -13.495429497067562,
+        "window": 251,
+        "position_size": 1,
+        "entry_threshold": 0.2929693079240887,
+        "exit_threshold": -0.014692981524997345
+    },
+    {
+        "returns": -3.5907054289546068,
+        "window": 195,
+        "position_size": 1,
+        "entry_threshold": 0.22376285124731432,
+        "exit_threshold": 0.0028099645232460527
+    },
+    {
+        "returns": -114.05806066308241,
+        "window": 195,
+        "position_size": 1,
+        "entry_threshold": 0.1604802244234837,
+        "exit_threshold": 0.0049715449050085495
+    },
+    {
+        "returns": 119.30307686845299,
+        "window": 109,
+        "position_size": 1,
+        "entry_threshold": 0.07069587553390096,
+        "exit_threshold": -0.011341643495344169
+    },
+    {
+        "returns": -96.52328769211158,
+        "window": 229,
+        "position_size": 1,
+        "entry_threshold": 0.05403527726859823,
+        "exit_threshold": -0.016331270525192242
+    },
+    {
+        "returns": -106.73247631926051,
+        "window": 198,
+        "position_size": 1,
+        "entry_threshold": 0.09176457196548189,
+        "exit_threshold": -0.013642993485387875
+    },
+    {
+        "returns": -63.50079053081913,
+        "window": 262,
+        "position_size": 1,
+        "entry_threshold": 0.1265933244528884,
+        "exit_threshold": -0.007975682707796746
+    },
+    {
+        "returns": 180.98730715809506,
+        "window": 119,
+        "position_size": 1,
+        "entry_threshold": 0.050917463494696474,
+        "exit_threshold": -0.03686113267899101
+    },
+    {
+        "returns": 26.7896868192056,
+        "window": 112,
+        "position_size": 1,
+        "entry_threshold": 0.262176914593245,
+        "exit_threshold": -0.031846303165123435
+    },
+    {
+        "returns": -124.26539263806853,
+        "window": 113,
+        "position_size": 1,
+        "entry_threshold": 0.17131760323597636,
+        "exit_threshold": -0.012237216354196378
+    },
+    {
+        "returns": -241.05647542757129,
+        "window": 295,
+        "position_size": 1,
+        "entry_threshold": 0.05067262244005016,
+        "exit_threshold": -0.04388324583773174
+    },
+    {
+        "returns": 6.1318347549133705,
+        "window": 163,
+        "position_size": 1,
+        "entry_threshold": 0.2906272957660901,
+        "exit_threshold": -0.004907814983123815
+    },
+    {
+        "returns": 1.669063218419069,
+        "window": 194,
+        "position_size": 1,
+        "entry_threshold": 0.23190396546856323,
+        "exit_threshold": 0.0002845922064984789
+    },
+    {
+        "returns": 61.268846702009796,
+        "window": 129,
+        "position_size": 1,
+        "entry_threshold": 0.08985978704202723,
+        "exit_threshold": -0.042243995434312474
+    },
+    {
+        "returns": -23.541559518669146,
+        "window": 279,
+        "position_size": 1,
+        "entry_threshold": 0.1583987119887667,
+        "exit_threshold": -0.05383932768198057
+    },
+    {
+        "returns": -97.34688129992105,
+        "window": 189,
+        "position_size": 1,
+        "entry_threshold": 0.10330505066874042,
+        "exit_threshold": -0.03422164499929056
+    },
+    {
+        "returns": -12.181321859344052,
+        "window": 259,
+        "position_size": 1,
+        "entry_threshold": 0.27279999966588875,
+        "exit_threshold": 0.0021243732176864606
+    },
+    {
+        "returns": -0.30318584168003326,
+        "window": 238,
+        "position_size": 1,
+        "entry_threshold": 0.19227644541512817,
+        "exit_threshold": -0.028356609040454894
+    },
+    {
+        "returns": -66.0447967262096,
+        "window": 276,
+        "position_size": 1,
+        "entry_threshold": 0.1268294822592562,
+        "exit_threshold": -0.020475501777788594
+    },
+    {
+        "returns": -3.654878701219559,
+        "window": 263,
+        "position_size": 1,
+        "entry_threshold": 0.1942040307924514,
+        "exit_threshold": -0.011820933803611874
+    },
+    {
+        "returns": -65.66216968217168,
+        "window": 278,
+        "position_size": 1,
+        "entry_threshold": 0.11174476268084256,
+        "exit_threshold": -0.011536386879090954
+    },
+    {
+        "returns": -36.46504125650472,
+        "window": 241,
+        "position_size": 1,
+        "entry_threshold": 0.13444319612166747,
+        "exit_threshold": -0.008313847290472643
+    },
+    {
+        "returns": -11.388266921243712,
+        "window": 225,
+        "position_size": 1,
+        "entry_threshold": 0.1874062406339774,
+        "exit_threshold": -0.018925432671327555
+    },
+    {
+        "returns": -12.571915242498335,
+        "window": 203,
+        "position_size": 1,
+        "entry_threshold": 0.18494865291148316,
+        "exit_threshold": -0.033231427038027075
+    },
+    {
+        "returns": -60.68276866349697,
+        "window": 299,
+        "position_size": 1,
+        "entry_threshold": 0.04422209876902789,
+        "exit_threshold": 0.0047580120017453546
+    },
+    {
+        "returns": -159.83198534172948,
+        "window": 223,
+        "position_size": 1,
+        "entry_threshold": 0.0679562155808641,
+        "exit_threshold": -0.04124480913812466
+    },
+    {
+        "returns": -71.75102303578319,
+        "window": 214,
+        "position_size": 1,
+        "entry_threshold": 0.14124478928701736,
+        "exit_threshold": -0.05058837105514641
+    },
+    {
+        "returns": 23.177932382310928,
+        "window": 269,
+        "position_size": 1,
+        "entry_threshold": 0.03621322868706623,
+        "exit_threshold": -0.0018012584095694767
+    },
+    {
+        "returns": -18.28190595467595,
+        "window": 276,
+        "position_size": 1,
+        "entry_threshold": 0.2900940424822452,
+        "exit_threshold": -0.019514931524407458
+    },
+    {
+        "returns": -15.961372202467828,
+        "window": 184,
+        "position_size": 1,
+        "entry_threshold": 0.06985536260055748,
+        "exit_threshold": -0.040756595611442195
+    },
+    {
+        "returns": -346.5055187786795,
+        "window": 228,
+        "position_size": 1,
+        "entry_threshold": 0.017112073370248764,
+        "exit_threshold": -0.05862520950500937
+    },
+    {
+        "returns": 116.55474977825793,
+        "window": 114,
+        "position_size": 1,
+        "entry_threshold": 0.10396283738595782,
+        "exit_threshold": -0.03486735533442538
+    },
+    {
+        "returns": 30.801039893913867,
+        "window": 131,
+        "position_size": 1,
+        "entry_threshold": 0.2630085884594589,
+        "exit_threshold": -0.04544498205152569
+    },
+    {
+        "returns": -283.00802234464754,
+        "window": 204,
+        "position_size": 1,
+        "entry_threshold": 0.12186703066008256,
+        "exit_threshold": -0.05521243411722285
+    },
+    {
+        "returns": 6.244032722380098,
+        "window": 187,
+        "position_size": 1,
+        "entry_threshold": 0.20959874681362295,
+        "exit_threshold": -0.04156925386258058
+    },
+    {
+        "returns": -10.208249025748273,
+        "window": 256,
+        "position_size": 1,
+        "entry_threshold": 0.2326778829787956,
+        "exit_threshold": -0.03620481366380726
+    },
+    {
+        "returns": 79.49814744995433,
+        "window": 245,
+        "position_size": 1,
+        "entry_threshold": 0.03612326449995605,
+        "exit_threshold": -0.006554359313761521
+    },
+    {
+        "returns": -11.940294257272853,
+        "window": 230,
+        "position_size": 1,
+        "entry_threshold": 0.1696722334729554,
+        "exit_threshold": -0.016797054784423043
+    },
+    {
+        "returns": -197.18749519464654,
+        "window": 166,
+        "position_size": 1,
+        "entry_threshold": 0.16963400114218502,
+        "exit_threshold": -0.011428869838199959
+    },
+    {
+        "returns": -83.78636674878703,
+        "window": 216,
+        "position_size": 1,
+        "entry_threshold": 0.07177380624517453,
+        "exit_threshold": 0.0003244755497498457
+    },
+    {
+        "returns": -89.38537115056238,
+        "window": 153,
+        "position_size": 1,
+        "entry_threshold": 0.07827191941511812,
+        "exit_threshold": -0.03494882134893696
+    },
+    {
+        "returns": 2.8724705384931895,
+        "window": 253,
+        "position_size": 1,
+        "entry_threshold": 0.2115718088427679,
+        "exit_threshold": -0.022929338663761883
+    },
+    {
+        "returns": -15.58132896119696,
+        "window": 278,
+        "position_size": 1,
+        "entry_threshold": 0.22395584814175198,
+        "exit_threshold": -0.026648148044457004
+    },
+    {
+        "returns": -15.532071821471845,
+        "window": 280,
+        "position_size": 1,
+        "entry_threshold": 0.2589182593360393,
+        "exit_threshold": -0.04624353229612035
+    },
+    {
+        "returns": -4.641522963643638,
+        "window": 209,
+        "position_size": 1,
+        "entry_threshold": 0.2154130294318036,
+        "exit_threshold": -0.05108928469735449
+    },
+    {
+        "returns": -188.2415665834319,
+        "window": 187,
+        "position_size": 1,
+        "entry_threshold": 0.11792855641532862,
+        "exit_threshold": -0.0018792490162547974
+    },
+    {
+        "returns": -152.0135801095198,
+        "window": 290,
+        "position_size": 1,
+        "entry_threshold": 0.025550095582813324,
+        "exit_threshold": -0.04195054323674063
+    },
+    {
+        "returns": -24.149268828063896,
+        "window": 293,
+        "position_size": 1,
+        "entry_threshold": 0.2840102572937223,
+        "exit_threshold": -0.015984443933427704
+    },
+    {
+        "returns": 29.435433564314735,
+        "window": 144,
+        "position_size": 1,
+        "entry_threshold": 0.2245522667934299,
+        "exit_threshold": -0.0003309952800363797
+    },
+    {
+        "returns": -0.950664874743552,
+        "window": 248,
+        "position_size": 1,
+        "entry_threshold": 0.2073286050635656,
+        "exit_threshold": -0.058014449548046514
+    },
+    {
+        "returns": -91.73843891234583,
+        "window": 198,
+        "position_size": 1,
+        "entry_threshold": 0.07795704903310653,
+        "exit_threshold": -0.030610527507981995
+    },
+    {
+        "returns": -484.4620477992087,
+        "window": 103,
+        "position_size": 1,
+        "entry_threshold": 0.0200369261859272,
+        "exit_threshold": 0.0009732943185837287
+    },
+    {
+        "returns": 59.95006851879339,
+        "window": 110,
+        "position_size": 1,
+        "entry_threshold": 0.0816803908292104,
+        "exit_threshold": -0.04807213093764563
+    },
+    {
+        "returns": -175.28306805783564,
+        "window": 298,
+        "position_size": 1,
+        "entry_threshold": 0.06661522541405508,
+        "exit_threshold": -0.004903082775355592
+    },
+    {
+        "returns": -255.32971702933173,
+        "window": 209,
+        "position_size": 1,
+        "entry_threshold": 0.10411742071206412,
+        "exit_threshold": -0.05863833747559966
+    },
+    {
+        "returns": -1.9816842156183156,
+        "window": 193,
+        "position_size": 1,
+        "entry_threshold": 0.22541542564419575,
+        "exit_threshold": -0.009192043419409062
+    },
+    {
+        "returns": -24.708641773958107,
+        "window": 267,
+        "position_size": 1,
+        "entry_threshold": 0.1401511042211375,
+        "exit_threshold": 0.002006562261435051
+    },
+    {
+        "returns": -174.98187242182348,
+        "window": 261,
+        "position_size": 1,
+        "entry_threshold": 0.10272080310187756,
+        "exit_threshold": -0.006020206362088021
+    },
+    {
+        "returns": 5.74649258627619,
+        "window": 176,
+        "position_size": 1,
+        "entry_threshold": 0.23390475370962416,
+        "exit_threshold": -0.03384172044800713
+    },
+    {
+        "returns": 130.61158957950897,
+        "window": 126,
+        "position_size": 1,
+        "entry_threshold": 0.025318863119887732,
+        "exit_threshold": -0.04325828755365799
+    },
+    {
+        "returns": 24.39980565280416,
+        "window": 107,
+        "position_size": 1,
+        "entry_threshold": 0.24742213709014158,
+        "exit_threshold": -0.024043669885211328
+    },
+    {
+        "returns": -11.5034732252318,
+        "window": 240,
+        "position_size": 1,
+        "entry_threshold": 0.2679903321036127,
+        "exit_threshold": -0.024555619508734534
+    },
+    {
+        "returns": 2.4240555808678437,
+        "window": 160,
+        "position_size": 1,
+        "entry_threshold": 0.23180550501318734,
+        "exit_threshold": -0.04774504353868245
+    },
+    {
+        "returns": 354.71415258946536,
+        "window": 134,
+        "position_size": 1,
+        "entry_threshold": 0.014536333392507808,
+        "exit_threshold": -0.02124132234340354
+    },
+    {
+        "returns": -227.08056132060233,
+        "window": 249,
+        "position_size": 1,
+        "entry_threshold": 0.05708122424775452,
+        "exit_threshold": -0.04894638521781612
+    },
+    {
+        "returns": -24.284416632068087,
+        "window": 170,
+        "position_size": 1,
+        "entry_threshold": 0.201504566204564,
+        "exit_threshold": -0.05363888855295541
+    },
+    {
+        "returns": -77.30114916451089,
+        "window": 162,
+        "position_size": 1,
+        "entry_threshold": 0.1947896752682602,
+        "exit_threshold": -0.05526133460337257
+    },
+    {
+        "returns": -49.31564305578445,
+        "window": 128,
+        "position_size": 1,
+        "entry_threshold": 0.05502819616089189,
+        "exit_threshold": -0.058214304005645236
+    },
+    {
+        "returns": 0.01077995287550948,
+        "window": 181,
+        "position_size": 1,
+        "entry_threshold": 0.2322802775050769,
+        "exit_threshold": -0.04727193793543729
+    },
+    {
+        "returns": 5.631272584936596,
+        "window": 197,
+        "position_size": 1,
+        "entry_threshold": 0.035419919986376884,
+        "exit_threshold": -0.02631739079064334
+    },
+    {
+        "returns": 21.30204501756907,
+        "window": 149,
+        "position_size": 1,
+        "entry_threshold": 0.25061984836597795,
+        "exit_threshold": -0.04052037640523496
+    },
+    {
+        "returns": -8.23823451614976,
+        "window": 214,
+        "position_size": 1,
+        "entry_threshold": 0.1952468366267198,
+        "exit_threshold": -0.02364286245982589
+    },
+    {
+        "returns": -135.52722829683216,
+        "window": 220,
+        "position_size": 1,
+        "entry_threshold": 0.12420512921899858,
+        "exit_threshold": -0.051867379849521576
+    },
+    {
+        "returns": -17.2075493773948,
+        "window": 287,
+        "position_size": 1,
+        "entry_threshold": 0.27092669740891845,
+        "exit_threshold": -0.02376609153810305
+    },
+    {
+        "returns": 82.42350049333527,
+        "window": 167,
+        "position_size": 1,
+        "entry_threshold": 0.02054780045856349,
+        "exit_threshold": -0.04399163386599304
+    },
+    {
+        "returns": 18.90847571992299,
+        "window": 124,
+        "position_size": 1,
+        "entry_threshold": 0.21371215340958596,
+        "exit_threshold": -0.01677147197592332
+    },
+    {
+        "returns": 25.27826033601241,
+        "window": 136,
+        "position_size": 1,
+        "entry_threshold": 0.2453418411470646,
+        "exit_threshold": 0.0045132603060802235
+    },
+    {
+        "returns": -21.684441933722383,
+        "window": 233,
+        "position_size": 1,
+        "entry_threshold": 0.2991795690909456,
+        "exit_threshold": -0.033714160373274474
+    },
+    {
+        "returns": -21.803031560299814,
+        "window": 270,
+        "position_size": 1,
+        "entry_threshold": 0.24393416825235908,
+        "exit_threshold": -0.032796715173819074
+    },
+    {
+        "returns": -6.708292236882926,
+        "window": 201,
+        "position_size": 1,
+        "entry_threshold": 0.29209787089369454,
+        "exit_threshold": -0.023216100923050088
+    },
+    {
+        "returns": -244.4885968610481,
+        "window": 289,
+        "position_size": 1,
+        "entry_threshold": 0.04494928517080898,
+        "exit_threshold": -0.055853013738708865
+    },
+    {
+        "returns": 23.63766170504914,
+        "window": 119,
+        "position_size": 1,
+        "entry_threshold": 0.23584886863280935,
+        "exit_threshold": -0.0175898847210287
+    },
+    {
+        "returns": -106.92937628772188,
+        "window": 238,
+        "position_size": 1,
+        "entry_threshold": 0.0685078619076307,
+        "exit_threshold": -0.005076739270158454
+    },
+    {
+        "returns": -142.41038703752906,
+        "window": 162,
+        "position_size": 1,
+        "entry_threshold": 0.1847237589837206,
+        "exit_threshold": 0.0067825518768870946
+    },
+    {
+        "returns": -2.057140274799167,
+        "window": 223,
+        "position_size": 1,
+        "entry_threshold": 0.2193537626610296,
+        "exit_threshold": -0.010579826033954607
+    },
+    {
+        "returns": 29.94637033411709,
+        "window": 126,
+        "position_size": 1,
+        "entry_threshold": 0.2526811066467787,
+        "exit_threshold": -0.023946235349749823
+    },
+    {
+        "returns": 314.8295858669949,
+        "window": 133,
+        "position_size": 1,
+        "entry_threshold": 0.014135432238747936,
+        "exit_threshold": -0.02184637236033778
+    },
+    {
+        "returns": -13.292498677961248,
+        "window": 215,
+        "position_size": 1,
+        "entry_threshold": 0.29904785571121534,
+        "exit_threshold": -0.006150419148619065
+    },
+    {
+        "returns": 19.790003436439747,
+        "window": 140,
+        "position_size": 1,
+        "entry_threshold": 0.2715152298263485,
+        "exit_threshold": 0.004864148713977387
+    },
+    {
+        "returns": -8.599949055779916,
+        "window": 159,
+        "position_size": 1,
+        "entry_threshold": 0.21231542142872042,
+        "exit_threshold": -0.046459423273045225
+    },
+    {
+        "returns": 52.26348708629962,
+        "window": 141,
+        "position_size": 1,
+        "entry_threshold": 0.20422367759874213,
+        "exit_threshold": -0.0345956936101956
+    },
+    {
+        "returns": -240.90053413432884,
+        "window": 144,
+        "position_size": 1,
+        "entry_threshold": 0.11604760010911878,
+        "exit_threshold": -0.05348378415799097
+    },
+    {
+        "returns": 30.31003457326551,
+        "window": 129,
+        "position_size": 1,
+        "entry_threshold": 0.20855843761637702,
+        "exit_threshold": -0.01846618353852742
+    },
+    {
+        "returns": -15.592807215541143,
+        "window": 274,
+        "position_size": 1,
+        "entry_threshold": 0.27288040885574716,
+        "exit_threshold": -0.020631667828829806
+    },
+    {
+        "returns": -67.08337647051576,
+        "window": 275,
+        "position_size": 1,
+        "entry_threshold": 0.12028076255306595,
+        "exit_threshold": -0.022348479111683712
+    },
+    {
+        "returns": -184.09852463370726,
+        "window": 285,
+        "position_size": 1,
+        "entry_threshold": 0.11750029844235908,
+        "exit_threshold": -0.05508357014924233
+    },
+    {
+        "returns": 2.543703576567623,
+        "window": 191,
+        "position_size": 1,
+        "entry_threshold": 0.21000188073179787,
+        "exit_threshold": -0.049416673727504246
+    },
+    {
+        "returns": -17.553672769620334,
+        "window": 278,
+        "position_size": 1,
+        "entry_threshold": 0.28191559710055886,
+        "exit_threshold": -0.05935620403265716
+    },
+    {
+        "returns": 130.6495048779443,
+        "window": 252,
+        "position_size": 1,
+        "entry_threshold": 0.020136741868352178,
+        "exit_threshold": -0.014146864063954566
+    },
+    {
+        "returns": -24.077056448151325,
+        "window": 222,
+        "position_size": 1,
+        "entry_threshold": 0.14889697393914725,
+        "exit_threshold": -0.034860547187669434
+    },
+    {
+        "returns": -24.516865850757995,
+        "window": 274,
+        "position_size": 1,
+        "entry_threshold": 0.13105090655340418,
+        "exit_threshold": -0.012760578458127092
+    },
+    {
+        "returns": -201.49702907408732,
+        "window": 239,
+        "position_size": 1,
+        "entry_threshold": 0.020728705762763807,
+        "exit_threshold": -0.05670090297432446
+    },
+    {
+        "returns": -12.743558864277702,
+        "window": 242,
+        "position_size": 1,
+        "entry_threshold": 0.2952945177126686,
+        "exit_threshold": -0.021627071902964486
+    },
+    {
+        "returns": -41.16616941677057,
+        "window": 158,
+        "position_size": 1,
+        "entry_threshold": 0.17955956546603613,
+        "exit_threshold": -0.04459847531446497
+    },
+    {
+        "returns": -48.51604972661994,
+        "window": 161,
+        "position_size": 1,
+        "entry_threshold": 0.20399242448233218,
+        "exit_threshold": 0.006002545530697988
+    },
+    {
+        "returns": -60.719371397554596,
+        "window": 289,
+        "position_size": 1,
+        "entry_threshold": 0.10703688901427125,
+        "exit_threshold": -0.00935422961821225
+    },
+    {
+        "returns": 30.222828139066223,
+        "window": 132,
+        "position_size": 1,
+        "entry_threshold": 0.19783350652116208,
+        "exit_threshold": -0.0024707152032160443
+    },
+    {
+        "returns": 13.23981408417535,
+        "window": 149,
+        "position_size": 1,
+        "entry_threshold": 0.27095952570924814,
+        "exit_threshold": -0.057892925957890855
+    },
+    {
+        "returns": 58.747725845787045,
+        "window": 130,
+        "position_size": 1,
+        "entry_threshold": 0.09480926572321537,
+        "exit_threshold": -0.03414597974343934
+    },
+    {
+        "returns": -39.55375100088963,
+        "window": 166,
+        "position_size": 1,
+        "entry_threshold": 0.05256081225072267,
+        "exit_threshold": -0.059657235627069836
+    },
+    {
+        "returns": -73.40037323711203,
+        "window": 110,
+        "position_size": 1,
+        "entry_threshold": 0.12890256024464428,
+        "exit_threshold": -0.03958152322313604
+    },
+    {
+        "returns": 2.5444873909930266,
+        "window": 295,
+        "position_size": 1,
+        "entry_threshold": 0.17140752563783335,
+        "exit_threshold": -0.013564234652873638
+    },
+    {
+        "returns": 22.972993639051992,
+        "window": 143,
+        "position_size": 1,
+        "entry_threshold": 0.2787497360156897,
+        "exit_threshold": -0.01836911119439934
+    },
+    {
+        "returns": -7.357393210546206,
+        "window": 267,
+        "position_size": 1,
+        "entry_threshold": 0.22211340735206414,
+        "exit_threshold": -0.018290936252502568
+    },
+    {
+        "returns": 80.7121582358825,
+        "window": 183,
+        "position_size": 1,
+        "entry_threshold": 0.014123111006404973,
+        "exit_threshold": -0.05027067762483162
+    },
+    {
+        "returns": -19.808991948980065,
+        "window": 271,
+        "position_size": 1,
+        "entry_threshold": 0.2294201035396336,
+        "exit_threshold": -0.05524065183043121
+    },
+    {
+        "returns": 22.922481400726156,
+        "window": 147,
+        "position_size": 1,
+        "entry_threshold": 0.22646958540588172,
+        "exit_threshold": -0.0455327981793075
+    },
+    {
+        "returns": 27.022317574529097,
+        "window": 134,
+        "position_size": 1,
+        "entry_threshold": 0.22732817074140704,
+        "exit_threshold": -0.008634775197841074
+    },
+    {
+        "returns": 8.056835815251588,
+        "window": 255,
+        "position_size": 1,
+        "entry_threshold": 0.19088074978914643,
+        "exit_threshold": -0.05430297240052879
+    },
+    {
+        "returns": 27.247256993945484,
+        "window": 123,
+        "position_size": 1,
+        "entry_threshold": 0.23621417631920327,
+        "exit_threshold": -0.03997411945287209
+    },
+    {
+        "returns": -109.96588487596,
+        "window": 245,
+        "position_size": 1,
+        "entry_threshold": 0.12976845492100209,
+        "exit_threshold": -0.04453136808509506
+    },
+    {
+        "returns": 1.6222402522100765,
+        "window": 291,
+        "position_size": 1,
+        "entry_threshold": 0.15651525801829336,
+        "exit_threshold": -0.018611753328014458
+    },
+    {
+        "returns": -223.03713599428647,
+        "window": 245,
+        "position_size": 1,
+        "entry_threshold": 0.036516175629619056,
+        "exit_threshold": -0.05518063540685843
+    },
+    {
+        "returns": 3.0371565554933113,
+        "window": 172,
+        "position_size": 1,
+        "entry_threshold": 0.2493645373359415,
+        "exit_threshold": -0.026697514782775968
+    },
+    {
+        "returns": 174.22260963740905,
+        "window": 185,
+        "position_size": 1,
+        "entry_threshold": 0.02075669167325823,
+        "exit_threshold": 0.008844243467964804
+    },
+    {
+        "returns": -13.814951321548733,
+        "window": 285,
+        "position_size": 1,
+        "entry_threshold": 0.1860267417763465,
+        "exit_threshold": -0.011540587382083106
+    },
+    {
+        "returns": -124.58432778195538,
+        "window": 226,
+        "position_size": 1,
+        "entry_threshold": 0.05849838140654039,
+        "exit_threshold": -0.018579459448720203
+    },
+    {
+        "returns": -61.47910529710998,
+        "window": 113,
+        "position_size": 1,
+        "entry_threshold": 0.1256850174625289,
+        "exit_threshold": -0.04850281071629037
+    },
+    {
+        "returns": 27.89348366577542,
+        "window": 133,
+        "position_size": 1,
+        "entry_threshold": 0.22799853172972398,
+        "exit_threshold": 0.003353383431004927
+    },
+    {
+        "returns": -112.07546717736204,
+        "window": 181,
+        "position_size": 1,
+        "entry_threshold": 0.1112288462006514,
+        "exit_threshold": -0.017425371766782577
+    },
+    {
+        "returns": -13.064640166196341,
+        "window": 284,
+        "position_size": 1,
+        "entry_threshold": 0.22191150415656233,
+        "exit_threshold": -0.047137171160574164
+    },
+    {
+        "returns": -2.8040398833211384,
+        "window": 208,
+        "position_size": 1,
+        "entry_threshold": 0.17849135992954523,
+        "exit_threshold": 0.0028144836867883528
+    },
+    {
+        "returns": -101.20776115233616,
+        "window": 262,
+        "position_size": 1,
+        "entry_threshold": 0.05037663054084528,
+        "exit_threshold": -0.02957814455683798
+    },
+    {
+        "returns": -142.18463983199877,
+        "window": 107,
+        "position_size": 1,
+        "entry_threshold": 0.14104378822008906,
+        "exit_threshold": -0.058981830772080385
+    },
+    {
+        "returns": -0.8036006886843552,
+        "window": 185,
+        "position_size": 1,
+        "entry_threshold": 0.24332882066874925,
+        "exit_threshold": -0.04933306328510265
+    },
+    {
+        "returns": 30.47745413427174,
+        "window": 108,
+        "position_size": 1,
+        "entry_threshold": 0.2838728125422097,
+        "exit_threshold": 0.001139365520028899
+    },
+    {
+        "returns": -156.99967269593776,
+        "window": 202,
+        "position_size": 1,
+        "entry_threshold": 0.09790269700784264,
+        "exit_threshold": -0.03053161960330132
+    },
+    {
+        "returns": -7.764489542274532,
+        "window": 125,
+        "position_size": 1,
+        "entry_threshold": 0.19993808688589523,
+        "exit_threshold": 0.0009083097367551955
+    },
+    {
+        "returns": -18.363605048393765,
+        "window": 234,
+        "position_size": 1,
+        "entry_threshold": 0.29525985158751633,
+        "exit_threshold": -0.00860691062600223
+    },
+    {
+        "returns": -288.1349682641137,
+        "window": 282,
+        "position_size": 1,
+        "entry_threshold": 0.0555296971063259,
+        "exit_threshold": -0.05060969330088947
+    },
+    {
+        "returns": -11.419285780039445,
+        "window": 192,
+        "position_size": 1,
+        "entry_threshold": 0.27857810141345607,
+        "exit_threshold": -0.027852511810590553
+    },
+    {
+        "returns": -16.689605051595436,
+        "window": 299,
+        "position_size": 1,
+        "entry_threshold": 0.26427021212259405,
+        "exit_threshold": -0.05001792823016179
+    },
+    {
+        "returns": -3.868518322020691,
+        "window": 238,
+        "position_size": 1,
+        "entry_threshold": 0.22843811282063503,
+        "exit_threshold": -0.02582987630869673
+    },
+    {
+        "returns": -12.965977081348,
+        "window": 286,
+        "position_size": 1,
+        "entry_threshold": 0.21996128242270524,
+        "exit_threshold": -0.049379582120818166
+    },
+    {
+        "returns": -200.73067468870977,
+        "window": 164,
+        "position_size": 1,
+        "entry_threshold": 0.12406604283380804,
+        "exit_threshold": -0.011410567724760871
+    },
+    {
+        "returns": -134.99730308409016,
+        "window": 290,
+        "position_size": 1,
+        "entry_threshold": 0.08067595356625623,
+        "exit_threshold": -0.030965686736770595
+    },
+    {
+        "returns": -152.5675532260757,
+        "window": 112,
+        "position_size": 1,
+        "entry_threshold": 0.19079386885692504,
+        "exit_threshold": -0.012574825625755624
+    },
+    {
+        "returns": -17.10083795411174,
+        "window": 207,
+        "position_size": 1,
+        "entry_threshold": 0.29318526947043555,
+        "exit_threshold": -0.011636519446508382
+    },
+    {
+        "returns": -151.2430824616947,
+        "window": 288,
+        "position_size": 1,
+        "entry_threshold": 0.09897143788824903,
+        "exit_threshold": -0.02888165977528294
+    },
+    {
+        "returns": 7.912412860107224,
+        "window": 199,
+        "position_size": 1,
+        "entry_threshold": 0.03864463472956524,
+        "exit_threshold": -0.02391611876475785
+    },
+    {
+        "returns": 0.021483566738197624,
+        "window": 221,
+        "position_size": 1,
+        "entry_threshold": 0.22302931653700533,
+        "exit_threshold": -0.025502953484556938
+    },
+    {
+        "returns": -24.383669756774452,
+        "window": 299,
+        "position_size": 1,
+        "entry_threshold": 0.2836072382406485,
+        "exit_threshold": -0.01119987273975522
+    },
+    {
+        "returns": -168.43535823376328,
+        "window": 228,
+        "position_size": 1,
+        "entry_threshold": 0.12176783604349066,
+        "exit_threshold": -0.05597139913122247
+    },
+    {
+        "returns": 3.988425681025319,
+        "window": 191,
+        "position_size": 1,
+        "entry_threshold": 0.2361402326878307,
+        "exit_threshold": -0.005537986750035107
+    },
+    {
+        "returns": -17.10083795411174,
+        "window": 207,
+        "position_size": 1,
+        "entry_threshold": 0.28943705237155365,
+        "exit_threshold": -0.012357765119978584
+    },
+    {
+        "returns": -24.395202477778867,
+        "window": 140,
+        "position_size": 1,
+        "entry_threshold": 0.17992275854609574,
+        "exit_threshold": -0.03303176735714749
+    },
+    {
+        "returns": -6.684586830015405,
+        "window": 223,
+        "position_size": 1,
+        "entry_threshold": 0.2403988087578879,
+        "exit_threshold": -0.019404860426869733
+    },
+    {
+        "returns": 151.08369459269989,
+        "window": 128,
+        "position_size": 1,
+        "entry_threshold": 0.0411165795192021,
+        "exit_threshold": -0.04723714267044596
+    },
+    {
+        "returns": -25.965827119939377,
+        "window": 167,
+        "position_size": 1,
+        "entry_threshold": 0.20355545108227116,
+        "exit_threshold": -0.022411382932741693
+    },
+    {
+        "returns": -5.1895623710991,
+        "window": 189,
+        "position_size": 1,
+        "entry_threshold": 0.256463831367552,
+        "exit_threshold": 0.003060335403624448
+    },
+    {
+        "returns": -173.82325872230604,
+        "window": 288,
+        "position_size": 1,
+        "entry_threshold": 0.08528113020812278,
+        "exit_threshold": 0.009195036367246874
+    },
+    {
+        "returns": -12.973748009787414,
+        "window": 208,
+        "position_size": 1,
+        "entry_threshold": 0.2979652432754925,
+        "exit_threshold": 0.0029233980569258215
+    },
+    {
+        "returns": 189.19675885628067,
+        "window": 135,
+        "position_size": 1,
+        "entry_threshold": 0.0568559185156743,
+        "exit_threshold": -0.016203211360072068
+    },
+    {
+        "returns": -209.06818330330157,
+        "window": 102,
+        "position_size": 1,
+        "entry_threshold": 0.1674869582725282,
+        "exit_threshold": -0.05335001604758323
+    },
+    {
+        "returns": -212.7585632776295,
+        "window": 267,
+        "position_size": 1,
+        "entry_threshold": 0.10417845256988842,
+        "exit_threshold": -0.04662845530036501
+    },
+    {
+        "returns": 33.8185266246503,
+        "window": 115,
+        "position_size": 1,
+        "entry_threshold": 0.2575268659662407,
+        "exit_threshold": -0.05664553807982194
+    },
+    {
+        "returns": 23.546065337843856,
+        "window": 158,
+        "position_size": 1,
+        "entry_threshold": 0.03436519589254206,
+        "exit_threshold": -0.02422756777663724
+    },
+    {
+        "returns": -3.5496903764073977,
+        "window": 265,
+        "position_size": 1,
+        "entry_threshold": 0.2149624100801774,
+        "exit_threshold": -0.032501691550226655
+    },
+    {
+        "returns": -3.9971441839516046,
+        "window": 249,
+        "position_size": 1,
+        "entry_threshold": 0.23669850699716388,
+        "exit_threshold": -0.013488224118275197
+    },
+    {
+        "returns": -17.131965091487018,
+        "window": 227,
+        "position_size": 1,
+        "entry_threshold": 0.29693763870794726,
+        "exit_threshold": 0.0030784056134008555
+    },
+    {
+        "returns": -150.47723640545814,
+        "window": 276,
+        "position_size": 1,
+        "entry_threshold": 0.09757970593290666,
+        "exit_threshold": -0.007190912788976168
+    },
+    {
+        "returns": 212.19157234403815,
+        "window": 120,
+        "position_size": 1,
+        "entry_threshold": 0.035820646306680186,
+        "exit_threshold": -0.021615941472343827
+    },
+    {
+        "returns": -126.55218945430488,
+        "window": 106,
+        "position_size": 1,
+        "entry_threshold": 0.2086752204564441,
+        "exit_threshold": -0.03731172307579815
+    },
+    {
+        "returns": -10.146216919180688,
+        "window": 232,
+        "position_size": 1,
+        "entry_threshold": 0.24099147421958417,
+        "exit_threshold": -0.04466127425247564
+    },
+    {
+        "returns": -280.2877152923593,
+        "window": 272,
+        "position_size": 1,
+        "entry_threshold": 0.06467932091816044,
+        "exit_threshold": -0.04474234078553425
+    },
+    {
+        "returns": -16.824963544985394,
+        "window": 103,
+        "position_size": 1,
+        "entry_threshold": 0.06036221387909677,
+        "exit_threshold": -0.044031970422514485
+    },
+    {
+        "returns": -1.931210229648741,
+        "window": 254,
+        "position_size": 1,
+        "entry_threshold": 0.15782252743883637,
+        "exit_threshold": -0.0172337360651649
+    },
+    {
+        "returns": -116.20629980757803,
+        "window": 259,
+        "position_size": 1,
+        "entry_threshold": 0.11275246542627615,
+        "exit_threshold": -0.019913119875419712
+    },
+    {
+        "returns": -9.953736645773006,
+        "window": 287,
+        "position_size": 1,
+        "entry_threshold": 0.1853326945980899,
+        "exit_threshold": 0.007101471881289825
+    },
+    {
+        "returns": -146.3063117142865,
+        "window": 110,
+        "position_size": 1,
+        "entry_threshold": 0.19664305201305438,
+        "exit_threshold": -0.04400490467827704
+    },
+    {
+        "returns": -40.41021697926681,
+        "window": 294,
+        "position_size": 1,
+        "entry_threshold": 0.04444418708240457,
+        "exit_threshold": -0.027590828981393967
+    },
+    {
+        "returns": 63.180165601369254,
+        "window": 264,
+        "position_size": 1,
+        "entry_threshold": 0.04648480595404336,
+        "exit_threshold": 0.003502292605122253
+    },
+    {
+        "returns": -15.532071821471845,
+        "window": 280,
+        "position_size": 1,
+        "entry_threshold": 0.26838075280603474,
+        "exit_threshold": -0.05403635150471729
+    },
+    {
+        "returns": 33.96942111743624,
+        "window": 117,
+        "position_size": 1,
+        "entry_threshold": 0.11256173470953725,
+        "exit_threshold": -0.04949274783541404
+    },
+    {
+        "returns": -3.07812369602766,
+        "window": 218,
+        "position_size": 1,
+        "entry_threshold": 0.22362585599903897,
+        "exit_threshold": 0.003941069571761499
+    },
+    {
+        "returns": 118.50179012592116,
+        "window": 242,
+        "position_size": 1,
+        "entry_threshold": 0.03447639544615695,
+        "exit_threshold": 0.006252427263692061
+    },
+    {
+        "returns": -8.058045190314488,
+        "window": 213,
+        "position_size": 1,
+        "entry_threshold": 0.24118337069076973,
+        "exit_threshold": -0.030622985362379746
+    },
+    {
+        "returns": -106.52816385401297,
+        "window": 116,
+        "position_size": 1,
+        "entry_threshold": 0.15564390675143994,
+        "exit_threshold": -0.0599108988437931
+    },
+    {
+        "returns": -150.34367973359826,
+        "window": 167,
+        "position_size": 1,
+        "entry_threshold": 0.12089082474477016,
+        "exit_threshold": -0.019079381732020954
+    },
+    {
+        "returns": -185.8979695508524,
+        "window": 157,
+        "position_size": 1,
+        "entry_threshold": 0.13905667006805628,
+        "exit_threshold": -0.050058599059068516
+    },
+    {
+        "returns": -18.093338044572647,
+        "window": 276,
+        "position_size": 1,
+        "entry_threshold": 0.2928880103495093,
+        "exit_threshold": -0.027304320482595616
+    },
+    {
+        "returns": -3.3032693770087462,
+        "window": 184,
+        "position_size": 1,
+        "entry_threshold": 0.23281088342923445,
+        "exit_threshold": -0.01895833231910143
+    },
+    {
+        "returns": -16.065915833845793,
+        "window": 258,
+        "position_size": 1,
+        "entry_threshold": 0.25948182387551616,
+        "exit_threshold": -0.012492897167857167
+    },
+    {
+        "returns": -54.92124974131707,
+        "window": 285,
+        "position_size": 1,
+        "entry_threshold": 0.13801006589871273,
+        "exit_threshold": -0.058230796843955455
+    },
+    {
+        "returns": -28.536059770561224,
+        "window": 132,
+        "position_size": 1,
+        "entry_threshold": 0.09745545860773426,
+        "exit_threshold": -0.05824128348396897
+    },
+    {
+        "returns": -13.663899391134237,
+        "window": 226,
+        "position_size": 1,
+        "entry_threshold": 0.2700112805792648,
+        "exit_threshold": -0.024342414788439938
+    },
+    {
+        "returns": 9.32233409356786,
+        "window": 149,
+        "position_size": 1,
+        "entry_threshold": 0.18784186209850579,
+        "exit_threshold": -0.04606576775853507
+    },
+    {
+        "returns": -6.702586388425971,
+        "window": 189,
+        "position_size": 1,
+        "entry_threshold": 0.26370076958924366,
+        "exit_threshold": -0.023498161276946185
+    },
+    {
+        "returns": -46.26723063752729,
+        "window": 297,
+        "position_size": 1,
+        "entry_threshold": 0.11959091880756827,
+        "exit_threshold": -0.025664980063787427
+    },
+    {
+        "returns": -127.78631125133302,
+        "window": 217,
+        "position_size": 1,
+        "entry_threshold": 0.12170403002617029,
+        "exit_threshold": -0.012752399618372223
+    },
+    {
+        "returns": -3.867921991543426,
+        "window": 204,
+        "position_size": 1,
+        "entry_threshold": 0.22923965905438137,
+        "exit_threshold": -0.052726195946875026
+    },
+    {
+        "returns": -2.646547071984287,
+        "window": 259,
+        "position_size": 1,
+        "entry_threshold": 0.21668881896749784,
+        "exit_threshold": 0.0042976520406815015
+    },
+    {
+        "returns": 43.42924848192024,
+        "window": 116,
+        "position_size": 1,
+        "entry_threshold": 0.27089763671399025,
+        "exit_threshold": -0.053114353007107505
+    },
+    {
+        "returns": 14.903057580051382,
+        "window": 147,
+        "position_size": 1,
+        "entry_threshold": 0.28295553708665117,
+        "exit_threshold": -0.03770779342335001
+    },
+    {
+        "returns": -13.19690260424295,
+        "window": 245,
+        "position_size": 1,
+        "entry_threshold": 0.2890735372270939,
+        "exit_threshold": 0.003540567247056009
+    },
+    {
+        "returns": -20.8063827852734,
+        "window": 280,
+        "position_size": 1,
+        "entry_threshold": 0.297474566514454,
+        "exit_threshold": 0.007593955789779978
+    },
+    {
+        "returns": -133.1690958996587,
+        "window": 158,
+        "position_size": 1,
+        "entry_threshold": 0.10802473977079341,
+        "exit_threshold": -0.0356089707854045
+    },
+    {
+        "returns": -92.32811497020111,
+        "window": 257,
+        "position_size": 1,
+        "entry_threshold": 0.1187398742708956,
+        "exit_threshold": -0.03033068960658896
+    },
+    {
+        "returns": -64.85743465926339,
+        "window": 229,
+        "position_size": 1,
+        "entry_threshold": 0.13974060238587885,
+        "exit_threshold": -0.044612663446935374
+    },
+    {
+        "returns": -16.04859768026563,
+        "window": 221,
+        "position_size": 1,
+        "entry_threshold": 0.28511159533994646,
+        "exit_threshold": -0.006477518261709332
+    },
+    {
+        "returns": 21.91028607244243,
+        "window": 227,
+        "position_size": 1,
+        "entry_threshold": 0.03076432862279021,
+        "exit_threshold": -0.008837291243727728
+    },
+    {
+        "returns": -11.394137546926004,
+        "window": 245,
+        "position_size": 1,
+        "entry_threshold": 0.2563134097866469,
+        "exit_threshold": -0.0394729860634393
+    },
+    {
+        "returns": -107.16424594959949,
+        "window": 168,
+        "position_size": 1,
+        "entry_threshold": 0.10487942714810433,
+        "exit_threshold": -0.01339416977959294
+    },
+    {
+        "returns": 17.244222884183273,
+        "window": 144,
+        "position_size": 1,
+        "entry_threshold": 0.25555671674423464,
+        "exit_threshold": -0.008250308829519888
+    },
+    {
+        "returns": -119.39908797262933,
+        "window": 247,
+        "position_size": 1,
+        "entry_threshold": 0.11324204415166364,
+        "exit_threshold": -0.002589354971840431
+    },
+    {
+        "returns": -7.057111271426038,
+        "window": 210,
+        "position_size": 1,
+        "entry_threshold": 0.208337896743013,
+        "exit_threshold": -0.04335668528030516
+    },
+    {
+        "returns": -37.57299428698116,
+        "window": 214,
+        "position_size": 1,
+        "entry_threshold": 0.17261339818502688,
+        "exit_threshold": -0.012527875277320483
+    },
+    {
+        "returns": 1.6979224121473635,
+        "window": 244,
+        "position_size": 1,
+        "entry_threshold": 0.16253715549833334,
+        "exit_threshold": -0.005084278991377946
+    },
+    {
+        "returns": -46.0357354168666,
+        "window": 214,
+        "position_size": 1,
+        "entry_threshold": 0.14917370808771893,
+        "exit_threshold": -0.016271229340579306
+    },
+    {
+        "returns": -113.8441204380099,
+        "window": 186,
+        "position_size": 1,
+        "entry_threshold": 0.1106328841070561,
+        "exit_threshold": -0.015111960605483987
+    },
+    {
+        "returns": -156.5307904771978,
+        "window": 215,
+        "position_size": 1,
+        "entry_threshold": 0.061396476469714446,
+        "exit_threshold": -0.05022801323330055
+    },
+    {
+        "returns": 1.6279518185476718,
+        "window": 157,
+        "position_size": 1,
+        "entry_threshold": 0.01929862580572734,
+        "exit_threshold": -0.012288747600838364
+    },
+    {
+        "returns": 30.1308163270769,
+        "window": 113,
+        "position_size": 1,
+        "entry_threshold": 0.25005704095239906,
+        "exit_threshold": -0.0278479804557627
+    },
+    {
+        "returns": -7.584855231844585,
+        "window": 240,
+        "position_size": 1,
+        "entry_threshold": 0.15896939176879143,
+        "exit_threshold": -0.02487294517207108
+    },
+    {
+        "returns": -16.065915833845793,
+        "window": 258,
+        "position_size": 1,
+        "entry_threshold": 0.26013612177386586,
+        "exit_threshold": -0.005563771764575454
+    },
+    {
+        "returns": -8.65980047152243,
+        "window": 188,
+        "position_size": 1,
+        "entry_threshold": 0.2761097803695277,
+        "exit_threshold": -0.023173575381282244
+    },
+    {
+        "returns": -119.24310831285061,
+        "window": 284,
+        "position_size": 1,
+        "entry_threshold": 0.12764508720652892,
+        "exit_threshold": -0.050948055579710716
+    },
+    {
+        "returns": 30.58947180187579,
+        "window": 119,
+        "position_size": 1,
+        "entry_threshold": 0.2286075651661322,
+        "exit_threshold": -0.05964613234850715
+    },
+    {
+        "returns": -24.839957768543627,
+        "window": 221,
+        "position_size": 1,
+        "entry_threshold": 0.17017579132576716,
+        "exit_threshold": -0.052626313181656094
+    },
+    {
+        "returns": -109.99604536543302,
+        "window": 216,
+        "position_size": 1,
+        "entry_threshold": 0.0764650314974032,
+        "exit_threshold": -0.026290582109009496
+    },
+    {
+        "returns": -247.1737643755141,
+        "window": 169,
+        "position_size": 1,
+        "entry_threshold": 0.14501271385802178,
+        "exit_threshold": -0.005014181315016044
+    },
+    {
+        "returns": 32.493416164235896,
+        "window": 138,
+        "position_size": 1,
+        "entry_threshold": 0.10774069017216349,
+        "exit_threshold": -0.019502780919415784
+    },
+    {
+        "returns": -7.566377013188458,
+        "window": 185,
+        "position_size": 1,
+        "entry_threshold": 0.05630863595015267,
+        "exit_threshold": -0.054807575355763596
+    },
+    {
+        "returns": -16.354753124421904,
+        "window": 273,
+        "position_size": 1,
+        "entry_threshold": 0.2960939016117324,
+        "exit_threshold": 0.00672100832988236
+    },
+    {
+        "returns": 23.86096961391354,
+        "window": 101,
+        "position_size": 1,
+        "entry_threshold": 0.28380402607933525,
+        "exit_threshold": -0.012977844804387632
+    },
+    {
+        "returns": 27.352807405722388,
+        "window": 123,
+        "position_size": 1,
+        "entry_threshold": 0.2920295156192798,
+        "exit_threshold": -0.01651482287945513
+    },
+    {
+        "returns": -24.445682925427263,
+        "window": 217,
+        "position_size": 1,
+        "entry_threshold": 0.16131376783464718,
+        "exit_threshold": -0.03085250236808945
+    },
+    {
+        "returns": -264.8904693166887,
+        "window": 297,
+        "position_size": 1,
+        "entry_threshold": 0.042739056025048544,
+        "exit_threshold": -0.05669466096177146
+    },
+    {
+        "returns": -202.4672161771366,
+        "window": 140,
+        "position_size": 1,
+        "entry_threshold": 0.13037671811560758,
+        "exit_threshold": -0.044207331977492735
+    },
+    {
+        "returns": -88.60347326749229,
+        "window": 261,
+        "position_size": 1,
+        "entry_threshold": 0.1233712416600789,
+        "exit_threshold": -0.03040514209058905
+    },
+    {
+        "returns": 4.089742214317312,
+        "window": 158,
+        "position_size": 1,
+        "entry_threshold": 0.2952194437559484,
+        "exit_threshold": -0.004570236480508531
+    },
+    {
+        "returns": -78.39808506401937,
+        "window": 155,
+        "position_size": 1,
+        "entry_threshold": 0.05351617875032257,
+        "exit_threshold": -0.050543322938464134
+    },
+    {
+        "returns": -37.57392163661302,
+        "window": 214,
+        "position_size": 1,
+        "entry_threshold": 0.1476036918967162,
+        "exit_threshold": -0.04963007300075814
+    },
+    {
+        "returns": 7.992802617628286,
+        "window": 162,
+        "position_size": 1,
+        "entry_threshold": 0.2613230355126838,
+        "exit_threshold": -0.02499473010877294
+    },
+    {
+        "returns": 118.3494101009228,
+        "window": 113,
+        "position_size": 1,
+        "entry_threshold": 0.088888857878945,
+        "exit_threshold": -0.026195669343642817
+    },
+    {
+        "returns": 18.022945294427245,
+        "window": 100,
+        "position_size": 1,
+        "entry_threshold": 0.28653779758418263,
+        "exit_threshold": -0.0210281412782477
+    },
+    {
+        "returns": -16.256471378342212,
+        "window": 288,
+        "position_size": 1,
+        "entry_threshold": 0.2719955335248964,
+        "exit_threshold": -0.0076717157968731855
+    },
+    {
+        "returns": -28.698449187624192,
+        "window": 184,
+        "position_size": 1,
+        "entry_threshold": 0.08075108422393006,
+        "exit_threshold": -0.025858235494926024
+    },
+    {
+        "returns": 7.1407145273349215,
+        "window": 173,
+        "position_size": 1,
+        "entry_threshold": 0.2148412533441938,
+        "exit_threshold": -0.03309666663669535
+    },
+    {
+        "returns": -13.892996623598037,
+        "window": 271,
+        "position_size": 1,
+        "entry_threshold": 0.2345995463648932,
+        "exit_threshold": 0.009531295687763099
+    },
+    {
+        "returns": -171.87610282126752,
+        "window": 236,
+        "position_size": 1,
+        "entry_threshold": 0.09542796478280992,
+        "exit_threshold": 0.005300111721251529
+    },
+    {
+        "returns": -256.42835655069825,
+        "window": 144,
+        "position_size": 1,
+        "entry_threshold": 0.14184040671121007,
+        "exit_threshold": -0.05890931699448305
+    },
+    {
+        "returns": 32.263512236881525,
+        "window": 107,
+        "position_size": 1,
+        "entry_threshold": 0.26688053463064704,
+        "exit_threshold": -0.04124332994349791
+    },
+    {
+        "returns": -43.913938615700545,
+        "window": 149,
+        "position_size": 1,
+        "entry_threshold": 0.06252934240975268,
+        "exit_threshold": -0.04316865836156468
+    },
+    {
+        "returns": -16.71279724754936,
+        "window": 270,
+        "position_size": 1,
+        "entry_threshold": 0.23508034124597219,
+        "exit_threshold": -0.034972203365800314
+    },
+    {
+        "returns": -126.38634976582875,
+        "window": 225,
+        "position_size": 1,
+        "entry_threshold": 0.11095561302694051,
+        "exit_threshold": -0.01839219356925278
+    },
+    {
+        "returns": 122.81392637321528,
+        "window": 188,
+        "position_size": 1,
+        "entry_threshold": 0.04313950987557933,
+        "exit_threshold": -0.04285450441303032
+    },
+    {
+        "returns": -53.42354033028005,
+        "window": 215,
+        "position_size": 1,
+        "entry_threshold": 0.1380770013874928,
+        "exit_threshold": -0.018715885049970855
+    },
+    {
+        "returns": 93.11340194921263,
+        "window": 200,
+        "position_size": 1,
+        "entry_threshold": 0.05113327551038048,
+        "exit_threshold": 0.0021114095629771647
+    },
+    {
+        "returns": 88.77972905246884,
+        "window": 255,
+        "position_size": 1,
+        "entry_threshold": 0.015608207485275489,
+        "exit_threshold": -0.00438810670388263
+    },
+    {
+        "returns": -29.12666526708358,
+        "window": 178,
+        "position_size": 1,
+        "entry_threshold": 0.1725848232999968,
+        "exit_threshold": -0.02678700014049988
+    },
+    {
+        "returns": 221.30962328525584,
+        "window": 187,
+        "position_size": 1,
+        "entry_threshold": 0.04372749907148269,
+        "exit_threshold": 0.007710868289410884
+    },
+    {
+        "returns": -8.796465382091583,
+        "window": 183,
+        "position_size": 1,
+        "entry_threshold": 0.18069274566355065,
+        "exit_threshold": -0.05095463474298984
+    },
+    {
+        "returns": -34.122255694926025,
+        "window": 203,
+        "position_size": 1,
+        "entry_threshold": 0.1649503155543219,
+        "exit_threshold": -0.019912923297129587
+    },
+    {
+        "returns": -61.0052406863299,
+        "window": 246,
+        "position_size": 1,
+        "entry_threshold": 0.13852225329054169,
+        "exit_threshold": -0.033302095779770696
+    },
+    {
+        "returns": -132.2065779414363,
+        "window": 159,
+        "position_size": 1,
+        "entry_threshold": 0.17551272286441114,
+        "exit_threshold": 0.009309951156203696
+    },
+    {
+        "returns": -6.589934798248578,
+        "window": 222,
+        "position_size": 1,
+        "entry_threshold": 0.23054716145032886,
+        "exit_threshold": -0.019207485287686264
+    },
+    {
+        "returns": -133.8923078444418,
+        "window": 166,
+        "position_size": 1,
+        "entry_threshold": 0.1044659458973366,
+        "exit_threshold": -0.04648051934450985
+    },
+    {
+        "returns": -142.57396301828226,
+        "window": 144,
+        "position_size": 1,
+        "entry_threshold": 0.1667109978105856,
+        "exit_threshold": -0.04052299812573163
+    },
+    {
+        "returns": 1.211035403939377,
+        "window": 157,
+        "position_size": 1,
+        "entry_threshold": 0.22503242661104877,
+        "exit_threshold": -0.046543910482805685
+    },
+    {
+        "returns": -8.2778246558496,
+        "window": 220,
+        "position_size": 1,
+        "entry_threshold": 0.252906995065758,
+        "exit_threshold": -0.04942105354240248
+    },
+    {
+        "returns": -191.39341069633178,
+        "window": 242,
+        "position_size": 1,
+        "entry_threshold": 0.0890137916661522,
+        "exit_threshold": -0.034923935498341226
+    },
+    {
+        "returns": 6.286264036027433,
+        "window": 150,
+        "position_size": 1,
+        "entry_threshold": 0.044963725728399594,
+        "exit_threshold": -0.005123726762548185
+    },
+    {
+        "returns": 3.8292716124688013,
+        "window": 241,
+        "position_size": 1,
+        "entry_threshold": 0.19434133344508372,
+        "exit_threshold": -0.011687820025383393
+    },
+    {
+        "returns": 0.21626517808090284,
+        "window": 253,
+        "position_size": 1,
+        "entry_threshold": 0.21315529925661345,
+        "exit_threshold": -0.04516530425491093
+    },
+    {
+        "returns": -17.315664804531707,
+        "window": 268,
+        "position_size": 1,
+        "entry_threshold": 0.24250192175713267,
+        "exit_threshold": -0.041972502827129096
+    },
+    {
+        "returns": -45.20319985332708,
+        "window": 102,
+        "position_size": 1,
+        "entry_threshold": 0.1234749409554995,
+        "exit_threshold": -0.03088130965681874
+    },
+    {
+        "returns": -14.892682329049421,
+        "window": 287,
+        "position_size": 1,
+        "entry_threshold": 0.14805237659973322,
+        "exit_threshold": -0.03123436483623074
+    },
+    {
+        "returns": -42.905511015176444,
+        "window": 100,
+        "position_size": 1,
+        "entry_threshold": 0.09614363811505605,
+        "exit_threshold": -0.04282250228852528
+    },
+    {
+        "returns": -24.051737782924874,
+        "window": 288,
+        "position_size": 1,
+        "entry_threshold": 0.2942537281688738,
+        "exit_threshold": -0.042227011302366585
+    },
+    {
+        "returns": -4.02934347379869,
+        "window": 221,
+        "position_size": 1,
+        "entry_threshold": 0.21707702387590666,
+        "exit_threshold": -0.009625926934040309
+    },
+    {
+        "returns": 12.860822235976002,
+        "window": 156,
+        "position_size": 1,
+        "entry_threshold": 0.2663934475740051,
+        "exit_threshold": -0.05100807722788587
+    },
+    {
+        "returns": -190.5683410961401,
+        "window": 272,
+        "position_size": 1,
+        "entry_threshold": 0.06178312121716085,
+        "exit_threshold": -0.025533000040317243
+    },
+    {
+        "returns": -15.652539314189426,
+        "window": 235,
+        "position_size": 1,
+        "entry_threshold": 0.25197031486064253,
+        "exit_threshold": -0.05395837845291001
+    },
+    {
+        "returns": -345.73362768886454,
+        "window": 233,
+        "position_size": 1,
+        "entry_threshold": 0.02265983916732704,
+        "exit_threshold": -0.05861570705978583
+    },
+    {
+        "returns": -264.735226341842,
+        "window": 283,
+        "position_size": 1,
+        "entry_threshold": 0.07154575161879707,
+        "exit_threshold": -0.04648249008418041
+    },
+    {
+        "returns": -55.376355150276595,
+        "window": 295,
+        "position_size": 1,
+        "entry_threshold": 0.11520708986780011,
+        "exit_threshold": -0.010889347251868504
+    },
+    {
+        "returns": -67.00373866900895,
+        "window": 147,
+        "position_size": 1,
+        "entry_threshold": 0.08675381997469112,
+        "exit_threshold": -0.036575383045031856
+    },
+    {
+        "returns": -3.5052246061986807,
+        "window": 284,
+        "position_size": 1,
+        "entry_threshold": 0.198437866619264,
+        "exit_threshold": 0.003307295965028604
+    },
+    {
+        "returns": -156.77580140268287,
+        "window": 173,
+        "position_size": 1,
+        "entry_threshold": 0.15680321263992716,
+        "exit_threshold": -0.019182074555599324
+    },
+    {
+        "returns": 9.358543495438425,
+        "window": 157,
+        "position_size": 1,
+        "entry_threshold": 0.04180417793609532,
+        "exit_threshold": -0.024862568412757656
+    },
+    {
+        "returns": -1.8346420232437595,
+        "window": 295,
+        "position_size": 1,
+        "entry_threshold": 0.13511725833393778,
+        "exit_threshold": -0.006235887300903159
+    },
+    {
+        "returns": -94.72385544791882,
+        "window": 232,
+        "position_size": 1,
+        "entry_threshold": 0.1194386780728312,
+        "exit_threshold": -0.009786003985163032
+    },
+    {
+        "returns": -143.526280684531,
+        "window": 215,
+        "position_size": 1,
+        "entry_threshold": 0.08795257841417427,
+        "exit_threshold": -0.027644829428470553
+    },
+    {
+        "returns": -130.9642857785832,
+        "window": 155,
+        "position_size": 1,
+        "entry_threshold": 0.17228998307128754,
+        "exit_threshold": 0.0008163930712101001
+    },
+    {
+        "returns": -304.7005229924164,
+        "window": 238,
+        "position_size": 1,
+        "entry_threshold": 0.10543680676491529,
+        "exit_threshold": -0.052060444563230335
+    },
+    {
+        "returns": -81.02342181766448,
+        "window": 201,
+        "position_size": 1,
+        "entry_threshold": 0.040003789119059364,
+        "exit_threshold": -0.054344115582728475
+    },
+    {
+        "returns": -168.71496562868901,
+        "window": 197,
+        "position_size": 1,
+        "entry_threshold": 0.06477875255713816,
+        "exit_threshold": -0.05721767835766674
+    },
+    {
+        "returns": 109.57589889439214,
+        "window": 204,
+        "position_size": 1,
+        "entry_threshold": 0.018067841092057068,
+        "exit_threshold": -0.011779105562924051
+    },
+    {
+        "returns": -15.272436460673362,
+        "window": 297,
+        "position_size": 1,
+        "entry_threshold": 0.1394456501293638,
+        "exit_threshold": -0.05507294559322913
+    },
+    {
+        "returns": 41.314416222990985,
+        "window": 196,
+        "position_size": 1,
+        "entry_threshold": 0.015642197768146373,
+        "exit_threshold": -0.026141176639000382
+    },
+    {
+        "returns": -0.42749575081552393,
+        "window": 198,
+        "position_size": 1,
+        "entry_threshold": 0.2297764008509314,
+        "exit_threshold": 0.008964851747762063
+    },
+    {
+        "returns": -153.05361367642286,
+        "window": 298,
+        "position_size": 1,
+        "entry_threshold": 0.08034433040875734,
+        "exit_threshold": -0.033097438748696584
+    },
+    {
+        "returns": -156.66186402576045,
+        "window": 259,
+        "position_size": 1,
+        "entry_threshold": 0.09135413157211869,
+        "exit_threshold": -0.05716590245316055
+    },
+    {
+        "returns": -25.313859614075,
+        "window": 272,
+        "position_size": 1,
+        "entry_threshold": 0.012015370802512762,
+        "exit_threshold": -0.03449975463801398
+    },
+    {
+        "returns": -12.645134735545753,
+        "window": 192,
+        "position_size": 1,
+        "entry_threshold": 0.2628281681742193,
+        "exit_threshold": 0.0013363798634829698
+    },
+    {
+        "returns": -16.552784066928325,
+        "window": 263,
+        "position_size": 1,
+        "entry_threshold": 0.2898297479347864,
+        "exit_threshold": -0.0375721067826615
+    },
+    {
+        "returns": -19.215478520420902,
+        "window": 266,
+        "position_size": 1,
+        "entry_threshold": 0.23507310045284374,
+        "exit_threshold": -0.05834302130896471
+    },
+    {
+        "returns": -214.51829879311254,
+        "window": 150,
+        "position_size": 1,
+        "entry_threshold": 0.09721984536419193,
+        "exit_threshold": -0.04721011696627105
+    },
+    {
+        "returns": 5.921992798564361,
+        "window": 241,
+        "position_size": 1,
+        "entry_threshold": 0.17878441659561642,
+        "exit_threshold": -0.04009048009014756
+    },
+    {
+        "returns": -51.441652147075956,
+        "window": 110,
+        "position_size": 1,
+        "entry_threshold": 0.2190854279942104,
+        "exit_threshold": -0.03791240218613392
+    },
+    {
+        "returns": -127.50397260584714,
+        "window": 192,
+        "position_size": 1,
+        "entry_threshold": 0.14909254536277672,
+        "exit_threshold": -0.015041829611247112
+    },
+    {
+        "returns": 36.489584112635384,
+        "window": 115,
+        "position_size": 1,
+        "entry_threshold": 0.24095145592969675,
+        "exit_threshold": -0.0018389397627494256
+    },
+    {
+        "returns": -54.51860703856187,
+        "window": 122,
+        "position_size": 1,
+        "entry_threshold": 0.13071047991169255,
+        "exit_threshold": -0.05215591125386487
+    },
+    {
+        "returns": 85.64337442055466,
+        "window": 253,
+        "position_size": 1,
+        "entry_threshold": 0.03969441047103804,
+        "exit_threshold": -0.00981059459695708
+    },
+    {
+        "returns": -0.6622038787020301,
+        "window": 288,
+        "position_size": 1,
+        "entry_threshold": 0.1703177754938282,
+        "exit_threshold": -0.035989380645932795
+    },
+    {
+        "returns": -43.42218430965727,
+        "window": 112,
+        "position_size": 1,
+        "entry_threshold": 0.04422142819184527,
+        "exit_threshold": -0.05724136394027852
+    },
+    {
+        "returns": 0.416427350392496,
+        "window": 175,
+        "position_size": 1,
+        "entry_threshold": 0.265266794128121,
+        "exit_threshold": -0.01707325227572929
+    },
+    {
+        "returns": -155.73690787685678,
+        "window": 101,
+        "position_size": 1,
+        "entry_threshold": 0.15866409885693372,
+        "exit_threshold": -0.04778740649442729
+    },
+    {
+        "returns": 25.732146513222006,
+        "window": 126,
+        "position_size": 1,
+        "entry_threshold": 0.29034877785656393,
+        "exit_threshold": -0.027118263949217816
+    },
+    {
+        "returns": -18.22418108423608,
+        "window": 273,
+        "position_size": 1,
+        "entry_threshold": 0.28675844699566677,
+        "exit_threshold": -0.04752046680414333
+    },
+    {
+        "returns": -246.3805698226513,
+        "window": 253,
+        "position_size": 1,
+        "entry_threshold": 0.07003678412276784,
+        "exit_threshold": -0.04842736097127687
+    },
+    {
+        "returns": -2.828430222361476,
+        "window": 228,
+        "position_size": 1,
+        "entry_threshold": 0.21564801625100852,
+        "exit_threshold": 0.007505813316269797
+    },
+    {
+        "returns": -199.26276903504277,
+        "window": 266,
+        "position_size": 1,
+        "entry_threshold": 0.07838978072786493,
+        "exit_threshold": -0.005274061130888127
+    },
+    {
+        "returns": -140.3676508206804,
+        "window": 208,
+        "position_size": 1,
+        "entry_threshold": 0.0623752027884473,
+        "exit_threshold": -0.04687858205608406
+    },
+    {
+        "returns": 17.6678219140274,
+        "window": 103,
+        "position_size": 1,
+        "entry_threshold": 0.2670368530756933,
+        "exit_threshold": -0.033933655021213635
+    },
+    {
+        "returns": 2.530454398958682,
+        "window": 246,
+        "position_size": 1,
+        "entry_threshold": 0.1917927217100768,
+        "exit_threshold": 0.0021015372904423448
+    },
+    {
+        "returns": -14.08928280917712,
+        "window": 257,
+        "position_size": 1,
+        "entry_threshold": 0.28834782937975356,
+        "exit_threshold": 0.0026887494424615425
+    },
+    {
+        "returns": -156.18654823632414,
+        "window": 209,
+        "position_size": 1,
+        "entry_threshold": 0.015940979201315136,
+        "exit_threshold": -0.05374778803827593
+    },
+    {
+        "returns": -23.528504054850146,
+        "window": 104,
+        "position_size": 1,
+        "entry_threshold": 0.24831404768229287,
+        "exit_threshold": -0.03712579098846667
+    },
+    {
+        "returns": 31.995099082120532,
+        "window": 116,
+        "position_size": 1,
+        "entry_threshold": 0.23763680361114572,
+        "exit_threshold": -0.018853092285287434
+    },
+    {
+        "returns": 38.43321310336728,
+        "window": 123,
+        "position_size": 1,
+        "entry_threshold": 0.2507695002677902,
+        "exit_threshold": -0.02707625937654201
+    },
+    {
+        "returns": -16.660472347293307,
+        "window": 296,
+        "position_size": 1,
+        "entry_threshold": 0.033911791409728984,
+        "exit_threshold": -0.03188179554224389
+    },
+    {
+        "returns": 32.665360074063074,
+        "window": 130,
+        "position_size": 1,
+        "entry_threshold": 0.20220563418929752,
+        "exit_threshold": -0.00647035835768526
+    },
+    {
+        "returns": 23.9767853050962,
+        "window": 145,
+        "position_size": 1,
+        "entry_threshold": 0.2647111409097058,
+        "exit_threshold": -0.056698378804536986
+    },
+    {
+        "returns": 1.9722225726231954,
+        "window": 215,
+        "position_size": 1,
+        "entry_threshold": 0.18336661014370165,
+        "exit_threshold": -0.030284277320264733
+    },
+    {
+        "returns": -7.655079802101909,
+        "window": 292,
+        "position_size": 1,
+        "entry_threshold": 0.1497063507950527,
+        "exit_threshold": -0.043564905343023624
+    },
+    {
+        "returns": 31.709664556667803,
+        "window": 131,
+        "position_size": 1,
+        "entry_threshold": 0.2569544181120785,
+        "exit_threshold": -0.014849273764298974
+    },
+    {
+        "returns": -68.09736633253715,
+        "window": 120,
+        "position_size": 1,
+        "entry_threshold": 0.11591445445568764,
+        "exit_threshold": -0.05345785338892271
+    },
+    {
+        "returns": -141.96026382569676,
+        "window": 287,
+        "position_size": 1,
+        "entry_threshold": 0.08015726413276443,
+        "exit_threshold": -0.03397989854387661
+    },
+    {
+        "returns": 8.424105954560446,
+        "window": 232,
+        "position_size": 1,
+        "entry_threshold": 0.19777207697621405,
+        "exit_threshold": -0.02597964931853335
+    },
+    {
+        "returns": -175.50197009558246,
+        "window": 229,
+        "position_size": 1,
+        "entry_threshold": 0.09930983371424285,
+        "exit_threshold": -0.022246507608806563
+    },
+    {
+        "returns": -23.47765536102088,
+        "window": 128,
+        "position_size": 1,
+        "entry_threshold": 0.1277463953760828,
+        "exit_threshold": -0.049556659187709746
+    },
+    {
+        "returns": -9.364583403446659,
+        "window": 233,
+        "position_size": 1,
+        "entry_threshold": 0.2273433258101138,
+        "exit_threshold": -0.057186275381860635
+    },
+    {
+        "returns": -125.70416281499865,
+        "window": 191,
+        "position_size": 1,
+        "entry_threshold": 0.11066664230703963,
+        "exit_threshold": -0.02340707893742789
+    },
+    {
+        "returns": 34.25887040294492,
+        "window": 112,
+        "position_size": 1,
+        "entry_threshold": 0.2575664571182271,
+        "exit_threshold": -0.04834908453251717
+    },
+    {
+        "returns": 42.55346575376734,
+        "window": 109,
+        "position_size": 1,
+        "entry_threshold": 0.24744942512314583,
+        "exit_threshold": -0.04757961576575697
+    },
+    {
+        "returns": -42.97060978056379,
+        "window": 168,
+        "position_size": 1,
+        "entry_threshold": 0.20916748180864275,
+        "exit_threshold": -0.05473699380686225
+    },
+    {
+        "returns": 228.3233165368856,
+        "window": 184,
+        "position_size": 1,
+        "entry_threshold": 0.030184919671922886,
+        "exit_threshold": 0.0021867518251914666
+    },
+    {
+        "returns": -13.861429360240209,
+        "window": 252,
+        "position_size": 1,
+        "entry_threshold": 0.2381064182103426,
+        "exit_threshold": -0.023273226583990326
+    },
+    {
+        "returns": -3.5943940168997415,
+        "window": 274,
+        "position_size": 1,
+        "entry_threshold": 0.024860074982459443,
+        "exit_threshold": -0.029416282359226473
+    },
+    {
+        "returns": -14.900426002646327,
+        "window": 130,
+        "position_size": 1,
+        "entry_threshold": 0.13771187175360938,
+        "exit_threshold": -0.012299890058056524
+    },
+    {
+        "returns": 11.32321011830686,
+        "window": 218,
+        "position_size": 1,
+        "entry_threshold": 0.02442798411070062,
+        "exit_threshold": 0.004235329509443909
+    },
+    {
+        "returns": -16.31559929356831,
+        "window": 251,
+        "position_size": 1,
+        "entry_threshold": 0.26265326044938314,
+        "exit_threshold": -0.025746575951470493
+    },
+    {
+        "returns": -74.11039930006064,
+        "window": 150,
+        "position_size": 1,
+        "entry_threshold": 0.06638633683211365,
+        "exit_threshold": -0.04311659667230134
+    },
+    {
+        "returns": -91.04779973198606,
+        "window": 102,
+        "position_size": 1,
+        "entry_threshold": 0.14840387304008104,
+        "exit_threshold": -0.0034533531766619756
+    },
+    {
+        "returns": -91.35531344789297,
+        "window": 163,
+        "position_size": 1,
+        "entry_threshold": 0.10646765373493383,
+        "exit_threshold": -0.03431510893997811
+    },
+    {
+        "returns": -2.5286545247656704,
+        "window": 292,
+        "position_size": 1,
+        "entry_threshold": 0.19019899392556816,
+        "exit_threshold": -0.009959506656761164
+    },
+    {
+        "returns": 15.687058215336492,
+        "window": 157,
+        "position_size": 1,
+        "entry_threshold": 0.2630696654506171,
+        "exit_threshold": -0.04091656044184732
+    },
+    {
+        "returns": 107.14726229773919,
+        "window": 255,
+        "position_size": 1,
+        "entry_threshold": 0.02649595814696567,
+        "exit_threshold": -0.002031391715078316
+    },
+    {
+        "returns": -71.79075518558739,
+        "window": 263,
+        "position_size": 1,
+        "entry_threshold": 0.1281261768484308,
+        "exit_threshold": -0.0014205142362502814
+    },
+    {
+        "returns": -28.394724589353928,
+        "window": 121,
+        "position_size": 1,
+        "entry_threshold": 0.032144120350013364,
+        "exit_threshold": 0.009921743821142621
+    },
+    {
+        "returns": 144.48458701760478,
+        "window": 179,
+        "position_size": 1,
+        "entry_threshold": 0.02272778041059569,
+        "exit_threshold": -0.0363164190348235
+    },
+    {
+        "returns": -191.59062983620356,
+        "window": 203,
+        "position_size": 1,
+        "entry_threshold": 0.12270369460014971,
+        "exit_threshold": -0.026914729515301355
+    },
+    {
+        "returns": -193.33887157721756,
+        "window": 154,
+        "position_size": 1,
+        "entry_threshold": 0.13825333000187917,
+        "exit_threshold": -0.046754823417632624
+    },
+    {
+        "returns": -56.545497305724666,
+        "window": 185,
+        "position_size": 1,
+        "entry_threshold": 0.159779756905203,
+        "exit_threshold": -0.013001494011051226
+    },
+    {
+        "returns": 107.32980051772552,
+        "window": 200,
+        "position_size": 1,
+        "entry_threshold": 0.043341871526400996,
+        "exit_threshold": 0.0011368291239802466
+    },
+    {
+        "returns": -16.357970198399244,
+        "window": 279,
+        "position_size": 1,
+        "entry_threshold": 0.22828036104701757,
+        "exit_threshold": -0.005010466280679162
+    },
+    {
+        "returns": -9.691314961149828,
+        "window": 209,
+        "position_size": 1,
+        "entry_threshold": 0.18062768286450928,
+        "exit_threshold": -0.03953948187043591
+    },
+    {
+        "returns": -0.5562500950325102,
+        "window": 198,
+        "position_size": 1,
+        "entry_threshold": 0.2788314986009196,
+        "exit_threshold": -0.003253643032494309
+    },
+    {
+        "returns": -125.89182890292636,
+        "window": 163,
+        "position_size": 1,
+        "entry_threshold": 0.12174936807454718,
+        "exit_threshold": -0.03412013120803559
+    },
+    {
+        "returns": -45.99341496007037,
+        "window": 285,
+        "position_size": 1,
+        "entry_threshold": 0.13506730658951507,
+        "exit_threshold": 0.0009147858779042354
+    },
+    {
+        "returns": -34.3555060230276,
+        "window": 273,
+        "position_size": 1,
+        "entry_threshold": 0.13174067143733983,
+        "exit_threshold": -0.016348136942619863
+    },
+    {
+        "returns": 26.02755537106077,
+        "window": 120,
+        "position_size": 1,
+        "entry_threshold": 0.12473382323369966,
+        "exit_threshold": -0.01494613601287583
+    },
+    {
+        "returns": -219.56207403316398,
+        "window": 277,
+        "position_size": 1,
+        "entry_threshold": 0.058919923754382854,
+        "exit_threshold": -0.03987146964541039
+    },
+    {
+        "returns": -19.226858084663945,
+        "window": 284,
+        "position_size": 1,
+        "entry_threshold": 0.020235183226962564,
+        "exit_threshold": -0.000796518205516052
+    },
+    {
+        "returns": 32.57728302483952,
+        "window": 124,
+        "position_size": 1,
+        "entry_threshold": 0.23683662693093663,
+        "exit_threshold": 0.00033962294634663315
+    },
+    {
+        "returns": -4.958028315004185,
+        "window": 222,
+        "position_size": 1,
+        "entry_threshold": 0.22477666795233775,
+        "exit_threshold": -0.024177023311536896
+    },
+    {
+        "returns": -211.65090428465942,
+        "window": 174,
+        "position_size": 1,
+        "entry_threshold": 0.1275188278884902,
+        "exit_threshold": 0.00867352795288231
+    },
+    {
+        "returns": -14.846078804539957,
+        "window": 261,
+        "position_size": 1,
+        "entry_threshold": 0.23595456936079606,
+        "exit_threshold": -0.042743273766108245
+    },
+    {
+        "returns": 28.856195258453226,
+        "window": 137,
+        "position_size": 1,
+        "entry_threshold": 0.24074748423789474,
+        "exit_threshold": -0.0013190937511755923
+    },
+    {
+        "returns": -259.43411353050215,
+        "window": 192,
+        "position_size": 1,
+        "entry_threshold": 0.12570304574562965,
+        "exit_threshold": -0.05487747842169161
+    },
+    {
+        "returns": -67.39608125237305,
+        "window": 283,
+        "position_size": 1,
+        "entry_threshold": 0.12429727225024799,
+        "exit_threshold": 0.0030841951941438894
+    },
+    {
+        "returns": 4.5663929049992475,
+        "window": 148,
+        "position_size": 1,
+        "entry_threshold": 0.1928575375772884,
+        "exit_threshold": -0.04750070401061554
+    },
+    {
+        "returns": 2.3884843112300587,
+        "window": 152,
+        "position_size": 1,
+        "entry_threshold": 0.20677639158837988,
+        "exit_threshold": -0.013778461169674482
+    },
+    {
+        "returns": -69.76180801823443,
+        "window": 296,
+        "position_size": 1,
+        "entry_threshold": 0.1258973231591886,
+        "exit_threshold": -0.028734150037853175
+    },
+    {
+        "returns": -20.783943808995673,
+        "window": 156,
+        "position_size": 1,
+        "entry_threshold": 0.03271035577877493,
+        "exit_threshold": 0.0017143674950298618
+    },
+    {
+        "returns": -15.58232214328882,
+        "window": 285,
+        "position_size": 1,
+        "entry_threshold": 0.21545957620103184,
+        "exit_threshold": -0.02885048292798244
+    },
+    {
+        "returns": -171.2676201796478,
+        "window": 203,
+        "position_size": 1,
+        "entry_threshold": 0.11155062022852372,
+        "exit_threshold": -0.013436851022498255
+    },
+    {
+        "returns": 8.182392383246906,
+        "window": 173,
+        "position_size": 1,
+        "entry_threshold": 0.22533594322132533,
+        "exit_threshold": -0.024881371315053944
+    },
+    {
+        "returns": -7.125111142411242,
+        "window": 239,
+        "position_size": 1,
+        "entry_threshold": 0.23970989440997306,
+        "exit_threshold": -0.028842316958317907
+    },
+    {
+        "returns": 4.537835097372181,
+        "window": 277,
+        "position_size": 1,
+        "entry_threshold": 0.016204321280617134,
+        "exit_threshold": -0.003690843594588792
+    },
+    {
+        "returns": -179.88219049361896,
+        "window": 285,
+        "position_size": 1,
+        "entry_threshold": 0.07789656698332932,
+        "exit_threshold": -0.005409076252420358
+    },
+    {
+        "returns": -2.2381099233075474,
+        "window": 242,
+        "position_size": 1,
+        "entry_threshold": 0.15502289959210103,
+        "exit_threshold": -0.026033828364748955
+    },
+    {
+        "returns": 119.45989021525179,
+        "window": 124,
+        "position_size": 1,
+        "entry_threshold": 0.04487793258718498,
+        "exit_threshold": -0.037678572006406695
+    },
+    {
+        "returns": -247.19747151898173,
+        "window": 222,
+        "position_size": 1,
+        "entry_threshold": 0.11028761620731359,
+        "exit_threshold": -0.04901955747977377
+    },
+    {
+        "returns": -16.719585553186562,
+        "window": 225,
+        "position_size": 1,
+        "entry_threshold": 0.2949727315770373,
+        "exit_threshold": -0.056644577199110244
+    },
+    {
+        "returns": -3.3093450042426866,
+        "window": 223,
+        "position_size": 1,
+        "entry_threshold": 0.21779844073637866,
+        "exit_threshold": 0.0010125477045489688
+    },
+    {
+        "returns": 120.44027756824607,
+        "window": 197,
+        "position_size": 1,
+        "entry_threshold": 0.022438791547380498,
+        "exit_threshold": -0.00970334522580306
+    },
+    {
+        "returns": 0.03355356334168391,
+        "window": 215,
+        "position_size": 1,
+        "entry_threshold": 0.04615033565597915,
+        "exit_threshold": -0.007636071395384738
+    },
+    {
+        "returns": -13.475473528021212,
+        "window": 275,
+        "position_size": 1,
+        "entry_threshold": 0.27852211714488095,
+        "exit_threshold": -0.0027833258547689315
+    },
+    {
+        "returns": 21.37182453022524,
+        "window": 125,
+        "position_size": 1,
+        "entry_threshold": 0.09837292292438536,
+        "exit_threshold": -0.04911986185215057
+    },
+    {
+        "returns": 116.0772529866631,
+        "window": 138,
+        "position_size": 1,
+        "entry_threshold": 0.08193914890090587,
+        "exit_threshold": 0.007329156911370322
+    },
+    {
+        "returns": -7.349282268825391,
+        "window": 208,
+        "position_size": 1,
+        "entry_threshold": 0.26122257104098134,
+        "exit_threshold": -0.028853906689175167
+    },
+    {
+        "returns": 45.39640545189013,
+        "window": 148,
+        "position_size": 1,
+        "entry_threshold": 0.08166049038272241,
+        "exit_threshold": -0.00850474096661373
+    },
+    {
+        "returns": -6.30062682002017,
+        "window": 199,
+        "position_size": 1,
+        "entry_threshold": 0.25531493817542017,
+        "exit_threshold": 0.0045112248386612605
+    },
+    {
+        "returns": -113.07265583132175,
+        "window": 152,
+        "position_size": 1,
+        "entry_threshold": 0.12788667872002576,
+        "exit_threshold": 0.00012582328381796783
+    },
+    {
+        "returns": 17.628474173483482,
+        "window": 153,
+        "position_size": 1,
+        "entry_threshold": 0.02295744433323783,
+        "exit_threshold": -0.013175293355932843
+    },
+    {
+        "returns": -6.889208038742709,
+        "window": 279,
+        "position_size": 1,
+        "entry_threshold": 0.1500818470096538,
+        "exit_threshold": -0.04989622093277701
+    },
+    {
+        "returns": -135.14115317485857,
+        "window": 209,
+        "position_size": 1,
+        "entry_threshold": 0.1337894488655989,
+        "exit_threshold": -0.022156157442679247
+    },
+    {
+        "returns": 2.969941826564991,
+        "window": 291,
+        "position_size": 1,
+        "entry_threshold": 0.16672268370673682,
+        "exit_threshold": -0.05112536269850371
+    },
+    {
+        "returns": -4.557338993507756,
+        "window": 191,
+        "position_size": 1,
+        "entry_threshold": 0.2514677168603831,
+        "exit_threshold": -0.025473952642996428
+    },
+    {
+        "returns": 2.675575322945633,
+        "window": 224,
+        "position_size": 1,
+        "entry_threshold": 0.19413617219999957,
+        "exit_threshold": 0.001272995183895818
+    },
+    {
+        "returns": -209.92475701865555,
+        "window": 265,
+        "position_size": 1,
+        "entry_threshold": 0.08832186388677359,
+        "exit_threshold": -0.024169891977263862
+    },
+    {
+        "returns": -27.95367752849279,
+        "window": 124,
+        "position_size": 1,
+        "entry_threshold": 0.19165884549526446,
+        "exit_threshold": -0.03892635121985454
+    },
+    {
+        "returns": -66.56177492388588,
+        "window": 114,
+        "position_size": 1,
+        "entry_threshold": 0.20777871572919046,
+        "exit_threshold": -0.009169421214989695
+    },
+    {
+        "returns": -9.54962276288461,
+        "window": 206,
+        "position_size": 1,
+        "entry_threshold": 0.2618550515172842,
+        "exit_threshold": -0.05337410669383097
+    },
+    {
+        "returns": -8.174721420387868,
+        "window": 231,
+        "position_size": 1,
+        "entry_threshold": 0.23272554361480433,
+        "exit_threshold": -0.036101227583430956
+    },
+    {
+        "returns": -179.8993548025053,
+        "window": 154,
+        "position_size": 1,
+        "entry_threshold": 0.13502920170712712,
+        "exit_threshold": -0.032341298030065885
+    },
+    {
+        "returns": -155.46630536638872,
+        "window": 141,
+        "position_size": 1,
+        "entry_threshold": 0.07944351656200516,
+        "exit_threshold": -0.05765681281793106
+    },
+    {
+        "returns": 81.96821317118156,
+        "window": 115,
+        "position_size": 1,
+        "entry_threshold": 0.11835469500417375,
+        "exit_threshold": 0.008351986705546372
+    },
+    {
+        "returns": -16.062294373407212,
+        "window": 232,
+        "position_size": 1,
+        "entry_threshold": 0.29324106320281834,
+        "exit_threshold": 0.007645397826175185
+    },
+    {
+        "returns": -17.143208243676554,
+        "window": 130,
+        "position_size": 1,
+        "entry_threshold": 0.1755023588555025,
+        "exit_threshold": -0.026548092500004956
+    },
+    {
+        "returns": -123.22843651845233,
+        "window": 114,
+        "position_size": 1,
+        "entry_threshold": 0.19547065236405728,
+        "exit_threshold": 0.00027002210004231907
+    },
+    {
+        "returns": -7.657946002955214,
+        "window": 216,
+        "position_size": 1,
+        "entry_threshold": 0.2557071671898402,
+        "exit_threshold": 0.007099843782938606
+    },
+    {
+        "returns": 6.272231022972846,
+        "window": 262,
+        "position_size": 1,
+        "entry_threshold": 0.1855060014249805,
+        "exit_threshold": -0.033055776555173604
+    },
+    {
+        "returns": -155.37059387648856,
+        "window": 186,
+        "position_size": 1,
+        "entry_threshold": 0.13554377147194524,
+        "exit_threshold": -0.019065144643915583
+    },
+    {
+        "returns": -57.79573579773637,
+        "window": 255,
+        "position_size": 1,
+        "entry_threshold": 0.11957213973068681,
+        "exit_threshold": 0.005612084630227263
+    },
+    {
+        "returns": 28.080838183176184,
+        "window": 139,
+        "position_size": 1,
+        "entry_threshold": 0.2447516041545029,
+        "exit_threshold": -0.04532544536268138
+    },
+    {
+        "returns": -35.69130808666887,
+        "window": 245,
+        "position_size": 1,
+        "entry_threshold": 0.1409445110866288,
+        "exit_threshold": -0.04224355872006524
+    },
+    {
+        "returns": 10.712345304793644,
+        "window": 188,
+        "position_size": 1,
+        "entry_threshold": 0.1952439183372575,
+        "exit_threshold": -0.04248559796091232
+    },
+    {
+        "returns": -5.596089402709822,
+        "window": 180,
+        "position_size": 1,
+        "entry_threshold": 0.17909267189497244,
+        "exit_threshold": -0.02052898996604921
+    },
+    {
+        "returns": -88.08042491141373,
+        "window": 235,
+        "position_size": 1,
+        "entry_threshold": 0.12878423055774907,
+        "exit_threshold": -0.011697226315294356
+    },
+    {
+        "returns": -37.965805930914485,
+        "window": 299,
+        "position_size": 1,
+        "entry_threshold": 0.03887402773225273,
+        "exit_threshold": 0.008797304017425138
+    },
+    {
+        "returns": 37.343110464344136,
+        "window": 165,
+        "position_size": 1,
+        "entry_threshold": 0.010975051019662342,
+        "exit_threshold": -0.03177245038747589
+    },
+    {
+        "returns": -12.57387927358377,
+        "window": 215,
+        "position_size": 1,
+        "entry_threshold": 0.2066227697008536,
+        "exit_threshold": -0.047883866069085915
+    },
+    {
+        "returns": 1.3458017715079222,
+        "window": 254,
+        "position_size": 1,
+        "entry_threshold": 0.21585338163800835,
+        "exit_threshold": 0.0009912572206929452
+    },
+    {
+        "returns": -101.06092178202948,
+        "window": 249,
+        "position_size": 1,
+        "entry_threshold": 0.05431983069614276,
+        "exit_threshold": -0.038018397522338904
+    },
+    {
+        "returns": -191.7680518842758,
+        "window": 102,
+        "position_size": 1,
+        "entry_threshold": 0.026268790250211536,
+        "exit_threshold": -0.018363219986409073
+    },
+    {
+        "returns": -7.534471558743462,
+        "window": 167,
+        "position_size": 1,
+        "entry_threshold": 0.2923052150158037,
+        "exit_threshold": -0.038098762919174245
+    },
+    {
+        "returns": -240.74876188447683,
+        "window": 140,
+        "position_size": 1,
+        "entry_threshold": 0.14057142348475363,
+        "exit_threshold": -0.05066175906131852
+    },
+    {
+        "returns": -72.56103426829259,
+        "window": 247,
+        "position_size": 1,
+        "entry_threshold": 0.14058005443007449,
+        "exit_threshold": -0.04699535261644837
+    },
+    {
+        "returns": 128.42361731084156,
+        "window": 119,
+        "position_size": 1,
+        "entry_threshold": 0.09503784402216389,
+        "exit_threshold": -0.005459775609184281
+    },
+    {
+        "returns": -4.407394134896094,
+        "window": 213,
+        "position_size": 1,
+        "entry_threshold": 0.2297131247642135,
+        "exit_threshold": -0.006653387994938376
+    },
+    {
+        "returns": -171.9148350073424,
+        "window": 208,
+        "position_size": 1,
+        "entry_threshold": 0.1366840432383162,
+        "exit_threshold": 0.005269886664192906
+    },
+    {
+        "returns": 7.5449645093444815,
+        "window": 171,
+        "position_size": 1,
+        "entry_threshold": 0.23531913259509846,
+        "exit_threshold": -0.03435634780213561
+    },
+    {
+        "returns": 1.2110446576045888,
+        "window": 261,
+        "position_size": 1,
+        "entry_threshold": 0.15810148016776432,
+        "exit_threshold": 0.0031184572180549355
+    },
+    {
+        "returns": -0.1613045614190014,
+        "window": 271,
+        "position_size": 1,
+        "entry_threshold": 0.175508359869273,
+        "exit_threshold": -0.04637985214461285
+    },
+    {
+        "returns": 32.851986516013994,
+        "window": 122,
+        "position_size": 1,
+        "entry_threshold": 0.22091113325153536,
+        "exit_threshold": -0.03737718331621594
+    },
+    {
+        "returns": -121.77194746632154,
+        "window": 201,
+        "position_size": 1,
+        "entry_threshold": 0.01197732720341313,
+        "exit_threshold": -0.05628854857027284
+    },
+    {
+        "returns": -182.71188263333147,
+        "window": 261,
+        "position_size": 1,
+        "entry_threshold": 0.08222988502711875,
+        "exit_threshold": -0.007340687749381392
+    },
+    {
+        "returns": -16.94737760692078,
+        "window": 267,
+        "position_size": 1,
+        "entry_threshold": 0.28814558814127333,
+        "exit_threshold": -0.035704821539066206
+    },
+    {
+        "returns": 23.701386762768607,
+        "window": 153,
+        "position_size": 1,
+        "entry_threshold": 0.21265289934247156,
+        "exit_threshold": 0.0030973716479284832
+    },
+    {
+        "returns": -1.1938320231208763,
+        "window": 182,
+        "position_size": 1,
+        "entry_threshold": 0.25626952460467184,
+        "exit_threshold": -0.05877786383084391
+    },
+    {
+        "returns": -131.7954825729512,
+        "window": 167,
+        "position_size": 1,
+        "entry_threshold": 0.11388095403571281,
+        "exit_threshold": -0.038024415814763915
+    },
+    {
+        "returns": -132.57551394438838,
+        "window": 194,
+        "position_size": 1,
+        "entry_threshold": 0.15724836586387472,
+        "exit_threshold": -0.05873271019830704
+    },
+    {
+        "returns": -23.518623198619252,
+        "window": 204,
+        "position_size": 1,
+        "entry_threshold": 0.1753111801379549,
+        "exit_threshold": -0.04555813622580945
+    },
+    {
+        "returns": -16.08934039594692,
+        "window": 262,
+        "position_size": 1,
+        "entry_threshold": 0.2926965621890668,
+        "exit_threshold": -0.03286544425959238
+    },
+    {
+        "returns": 4.00658061309673,
+        "window": 185,
+        "position_size": 1,
+        "entry_threshold": 0.21423736290496265,
+        "exit_threshold": 0.0006365876934910023
+    },
+    {
+        "returns": -26.99509200817306,
+        "window": 188,
+        "position_size": 1,
+        "entry_threshold": 0.1732786289362117,
+        "exit_threshold": -0.0064517057588089136
+    },
+    {
+        "returns": -68.8986575242102,
+        "window": 268,
+        "position_size": 1,
+        "entry_threshold": 0.11702056683061633,
+        "exit_threshold": 0.0060013893301699905
+    },
+    {
+        "returns": -10.667711919928706,
+        "window": 238,
+        "position_size": 1,
+        "entry_threshold": 0.27367665687089715,
+        "exit_threshold": -0.019809358851387245
+    },
+    {
+        "returns": -112.51106883419084,
+        "window": 101,
+        "position_size": 1,
+        "entry_threshold": 0.06118581327739233,
+        "exit_threshold": -0.011361168802239634
+    },
+    {
+        "returns": 171.39434195384297,
+        "window": 254,
+        "position_size": 1,
+        "entry_threshold": 0.02151333282038893,
+        "exit_threshold": -0.029677880455929895
+    },
+    {
+        "returns": -14.244294732757226,
+        "window": 194,
+        "position_size": 1,
+        "entry_threshold": 0.19248746757121019,
+        "exit_threshold": -0.024957793930982807
+    },
+    {
+        "returns": 69.91486784367589,
+        "window": 114,
+        "position_size": 1,
+        "entry_threshold": 0.05828388294839313,
+        "exit_threshold": 0.00037687925761604335
+    },
+    {
+        "returns": -11.692263948814116,
+        "window": 271,
+        "position_size": 1,
+        "entry_threshold": 0.21716847470434247,
+        "exit_threshold": -0.017693863603399636
+    },
+    {
+        "returns": 0.41849380183862195,
+        "window": 218,
+        "position_size": 1,
+        "entry_threshold": 0.21282929271936837,
+        "exit_threshold": -0.024673226518901498
+    },
+    {
+        "returns": -11.892295536193842,
+        "window": 258,
+        "position_size": 1,
+        "entry_threshold": 0.281655558123772,
+        "exit_threshold": -0.005394538953067542
+    },
+    {
+        "returns": 8.935563496694158,
+        "window": 243,
+        "position_size": 1,
+        "entry_threshold": 0.17805683546581816,
+        "exit_threshold": -0.009993406712987882
+    },
+    {
+        "returns": -93.720607127206,
+        "window": 233,
+        "position_size": 1,
+        "entry_threshold": 0.12823233960212413,
+        "exit_threshold": -0.020834955589822336
+    },
+    {
+        "returns": 112.73468868311829,
+        "window": 126,
+        "position_size": 1,
+        "entry_threshold": 0.07639898053244251,
+        "exit_threshold": -0.02477713394975143
+    },
+    {
+        "returns": -12.763476782016596,
+        "window": 119,
+        "position_size": 1,
+        "entry_threshold": 0.03847631365960929,
+        "exit_threshold": -0.05929577859521988
+    },
+    {
+        "returns": -14.977460181305787,
+        "window": 221,
+        "position_size": 1,
+        "entry_threshold": 0.2889283647575241,
+        "exit_threshold": -0.054932007699271784
+    },
+    {
+        "returns": 122.14652581485734,
+        "window": 192,
+        "position_size": 1,
+        "entry_threshold": 0.05490131917197883,
+        "exit_threshold": 0.005503002451641691
+    },
+    {
+        "returns": -23.9853646726433,
+        "window": 269,
+        "position_size": 1,
+        "entry_threshold": 0.2548225206740623,
+        "exit_threshold": -0.05110819786210636
+    },
+    {
+        "returns": -95.58622797910175,
+        "window": 201,
+        "position_size": 1,
+        "entry_threshold": 0.05776475327482145,
+        "exit_threshold": -0.045576071333678754
+    },
+    {
+        "returns": 193.76375373872543,
+        "window": 178,
+        "position_size": 1,
+        "entry_threshold": 0.04693048515837105,
+        "exit_threshold": -0.0036721454027969784
+    },
+    {
+        "returns": 4.042907251418455,
+        "window": 191,
+        "position_size": 1,
+        "entry_threshold": 0.2152492375188599,
+        "exit_threshold": -0.011047483050227668
+    },
+    {
+        "returns": -133.59795275337683,
+        "window": 110,
+        "position_size": 1,
+        "entry_threshold": 0.13912785970866695,
+        "exit_threshold": -0.05339630005503287
+    },
+    {
+        "returns": -92.68772975273782,
+        "window": 161,
+        "position_size": 1,
+        "entry_threshold": 0.18020311300348518,
+        "exit_threshold": -0.05296312368170903
+    },
+    {
+        "returns": -70.80749594152826,
+        "window": 212,
+        "position_size": 1,
+        "entry_threshold": 0.13714240315933224,
+        "exit_threshold": -0.030111043578580007
+    },
+    {
+        "returns": -55.94656841170308,
+        "window": 103,
+        "position_size": 1,
+        "entry_threshold": 0.0730524642561812,
+        "exit_threshold": -0.043300439414799774
+    },
+    {
+        "returns": -17.2075493773948,
+        "window": 287,
+        "position_size": 1,
+        "entry_threshold": 0.2707938496253853,
+        "exit_threshold": -0.01979083115149604
+    },
+    {
+        "returns": -20.166705129310458,
+        "window": 196,
+        "position_size": 1,
+        "entry_threshold": 0.18458962617782007,
+        "exit_threshold": -0.056550634295009304
+    },
+    {
+        "returns": -1.8748066368489162,
+        "window": 257,
+        "position_size": 1,
+        "entry_threshold": 0.17562605750673085,
+        "exit_threshold": -0.059521355770473496
+    },
+    {
+        "returns": 236.00966771412982,
+        "window": 141,
+        "position_size": 1,
+        "entry_threshold": 0.025818163714336366,
+        "exit_threshold": 0.002028154087013409
+    },
+    {
+        "returns": -153.1822053845426,
+        "window": 129,
+        "position_size": 1,
+        "entry_threshold": 0.1628080342825598,
+        "exit_threshold": -0.05642358372580846
+    },
+    {
+        "returns": -21.473449362187466,
+        "window": 232,
+        "position_size": 1,
+        "entry_threshold": 0.17564636258713262,
+        "exit_threshold": -0.04987210121821166
+    },
+    {
+        "returns": -15.61528211433074,
+        "window": 196,
+        "position_size": 1,
+        "entry_threshold": 0.19546962994092915,
+        "exit_threshold": -0.013562460861191557
+    },
+    {
+        "returns": -189.82250648202967,
+        "window": 292,
+        "position_size": 1,
+        "entry_threshold": 0.06439279265814093,
+        "exit_threshold": -0.0020254542148572976
+    },
+    {
+        "returns": -123.13660110377737,
+        "window": 167,
+        "position_size": 1,
+        "entry_threshold": 0.1879095628861197,
+        "exit_threshold": 0.0066334263664108405
+    },
+    {
+        "returns": -163.4975732252242,
+        "window": 255,
+        "position_size": 1,
+        "entry_threshold": 0.10078376243573518,
+        "exit_threshold": -0.03249936065792767
+    },
+    {
+        "returns": -1.0234391612302716,
+        "window": 166,
+        "position_size": 1,
+        "entry_threshold": 0.25620107262137193,
+        "exit_threshold": -0.03296079291013586
+    },
+    {
+        "returns": -32.23523202522733,
+        "window": 173,
+        "position_size": 1,
+        "entry_threshold": 0.18398191408587594,
+        "exit_threshold": -0.03318525640543955
+    },
+    {
+        "returns": 21.710276576362958,
+        "window": 144,
+        "position_size": 1,
+        "entry_threshold": 0.24188672735902114,
+        "exit_threshold": -0.016009280655848886
+    },
+    {
+        "returns": 22.480749289067717,
+        "window": 150,
+        "position_size": 1,
+        "entry_threshold": 0.22169930654265288,
+        "exit_threshold": 0.0028350010318894028
+    },
+    {
+        "returns": -33.56840191530887,
+        "window": 166,
+        "position_size": 1,
+        "entry_threshold": 0.21670164541745068,
+        "exit_threshold": -0.045167486675173604
+    },
+    {
+        "returns": -5.558237027184759,
+        "window": 298,
+        "position_size": 1,
+        "entry_threshold": 0.23064770001649285,
+        "exit_threshold": -0.01900603111828053
+    },
+    {
+        "returns": -14.643238404220256,
+        "window": 227,
+        "position_size": 1,
+        "entry_threshold": 0.2580076624795684,
+        "exit_threshold": -0.052716321723115314
+    }
+]
