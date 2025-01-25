@@ -2,7 +2,7 @@ import bitget.v1.mix.order_api as maxOrderApi
 from bitget.bitget_api import BitgetApi
 from bitget.exceptions import BitgetAPIException
 from decouple import config
-from constants import SCALP_MARKETS
+#from constants import SCALP_MARKETS
 
 import time
 import pandas as pd
@@ -91,20 +91,19 @@ def process_order_responses(json_file_paths, parquet_file_path, bucket_name, s3_
 
 def main():
     # Get Unix times
-    current_unix_time, unix_time_minus_24h = get_unix_times()
+   # current_unix_time, unix_time_minus_24h = get_unix_times()
 
     # credentials
-    api_key = config('apiKey')
-    secret_key = config('secretKey')
-    passphrase = config('passphrase')
+    #secret_key = config('secretKey')
+    #passphrase = config('passphrase')
     bucket_name = config('s3_bucket_name')
 
     # Initialize the API
-    order_api = maxOrderApi.OrderApi(api_key, secret_key, passphrase)
+    #order_api = maxOrderApi.OrderApi(api_key, secret_key, passphrase)
 
 
     # Process order responses
-    parquet_file_path = f"/tmp/response_{datetime.now().strftime('%Y%m%d')}.parquet"
+    parquet_file_path = f"/tmp/response_momentum_{datetime.now().strftime('%Y%m%d')}.parquet"
     s3_key_parquet = f"response/daily/response_{datetime.now().strftime('%Y%m%d')}.parquet"
     json_file_paths = {
         "momentum_order_responses_normalized.json": "normalized_slope_momentum",
