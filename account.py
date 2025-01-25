@@ -110,7 +110,7 @@ def main():
         "momentum_order_responses_percentage.json": "percentage_slope_momentum"
     }
     process_order_responses(json_file_paths, "order_responses.parquet", bucket_name, "s3-key/order_responses.parquet")
-
+    upload_to_s3(parquet_file_path, bucket_name, s3_key_parquet)
 
 
 if __name__ == "__main__":
