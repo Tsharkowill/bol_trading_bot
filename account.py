@@ -3,6 +3,7 @@ import pandas as pd
 import json
 import boto3
 from datetime import datetime
+from decouple import config
 
 def upload_to_s3(local_file, bucket_name, s3_key):
     """Upload a file to S3."""
@@ -50,7 +51,7 @@ def process_order_responses(json_file_paths, parquet_file_path, bucket_name, s3_
 
 def main():
     # S3 bucket name from environment variables
-    bucket_name = os.getenv('S3_BUCKET_NAME')
+    bucket_name = config('s3_bucket_name')
 
     # Parquet file paths
     parquet_file_path = f"/tmp/response_momentum_{datetime.now().strftime('%Y%m%d')}.parquet"
