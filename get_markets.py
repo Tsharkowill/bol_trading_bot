@@ -9,7 +9,7 @@ from bitget.exceptions import BitgetAPIException
 
 from decouple import config
 from get_time import get_unix_times
-from constants import MOMENTUM_MARKETS
+from constants import MARKETS
 
 
 
@@ -20,7 +20,7 @@ passphrase = config('passphrase')
 # Create an instance of the BitgetApi class
 baseApi = BitgetApi(apiKey, secretKey, passphrase)
 
-markets = MOMENTUM_MARKETS
+markets = MARKETS
 
 
 
