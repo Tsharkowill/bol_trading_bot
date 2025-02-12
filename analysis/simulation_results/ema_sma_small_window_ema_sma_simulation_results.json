@@ -1,0 +1,4002 @@
+[
+    {
+        "returns": -20.374751117079768,
+        "ema_span": 98,
+        "sma_window": 98,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11254402372595099,
+        "ema_exit_threshold": 0.011906291141808942
+    },
+    {
+        "returns": -215.62403299140078,
+        "ema_span": 76,
+        "sma_window": 76,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12991980736124237,
+        "ema_exit_threshold": 0.009500261712361116
+    },
+    {
+        "returns": -877.0218911803645,
+        "ema_span": 64,
+        "sma_window": 64,
+        "position_size": 1,
+        "ema_entry_threshold": 0.054699502777135714,
+        "ema_exit_threshold": 0.005932197291073368
+    },
+    {
+        "returns": -699.2388330996478,
+        "ema_span": 52,
+        "sma_window": 52,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08043518607928367,
+        "ema_exit_threshold": -0.009662041829133678
+    },
+    {
+        "returns": -318.8850475097165,
+        "ema_span": 72,
+        "sma_window": 72,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10248819936139181,
+        "ema_exit_threshold": 0.0090436274750229
+    },
+    {
+        "returns": -944.0339880900335,
+        "ema_span": 48,
+        "sma_window": 48,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07137841953466291,
+        "ema_exit_threshold": 0.004567799897612566
+    },
+    {
+        "returns": -911.193557652645,
+        "ema_span": 45,
+        "sma_window": 45,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07765002595508123,
+        "ema_exit_threshold": 0.017810737792914207
+    },
+    {
+        "returns": -203.9997019642433,
+        "ema_span": 87,
+        "sma_window": 87,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07525439681026422,
+        "ema_exit_threshold": -0.012007281604001026
+    },
+    {
+        "returns": -460.7121261294908,
+        "ema_span": 96,
+        "sma_window": 96,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04636995610425297,
+        "ema_exit_threshold": -0.00010625786944175242
+    },
+    {
+        "returns": -1541.6311799765535,
+        "ema_span": 18,
+        "sma_window": 18,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1369232561047267,
+        "ema_exit_threshold": -0.0060779405504592324
+    },
+    {
+        "returns": -415.5935493312345,
+        "ema_span": 81,
+        "sma_window": 81,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06633604280413692,
+        "ema_exit_threshold": 0.01292927286535598
+    },
+    {
+        "returns": -243.8945845068231,
+        "ema_span": 80,
+        "sma_window": 80,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09612085404592369,
+        "ema_exit_threshold": -0.0070306088446813585
+    },
+    {
+        "returns": -213.77864807115702,
+        "ema_span": 80,
+        "sma_window": 80,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11851594567655938,
+        "ema_exit_threshold": -0.017605359756976788
+    },
+    {
+        "returns": -81.48685682761834,
+        "ema_span": 87,
+        "sma_window": 87,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14006687913397697,
+        "ema_exit_threshold": -0.017391298682680027
+    },
+    {
+        "returns": -686.1666150249832,
+        "ema_span": 38,
+        "sma_window": 38,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10707850253526738,
+        "ema_exit_threshold": -0.017424853008264133
+    },
+    {
+        "returns": -28.154573631308722,
+        "ema_span": 97,
+        "sma_window": 97,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11924849926848916,
+        "ema_exit_threshold": 0.0017827250495588158
+    },
+    {
+        "returns": -194.27508041770557,
+        "ema_span": 93,
+        "sma_window": 93,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06574525316598163,
+        "ema_exit_threshold": 0.015665351572323006
+    },
+    {
+        "returns": -800.7320527641975,
+        "ema_span": 45,
+        "sma_window": 45,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08694895790283827,
+        "ema_exit_threshold": 0.015966473708410884
+    },
+    {
+        "returns": -619.8797913290773,
+        "ema_span": 48,
+        "sma_window": 48,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09786023270476203,
+        "ema_exit_threshold": 0.013593443058893512
+    },
+    {
+        "returns": -249.77404353611018,
+        "ema_span": 71,
+        "sma_window": 71,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1392386521751926,
+        "ema_exit_threshold": -0.00179087901531149
+    },
+    {
+        "returns": -1448.3969411102814,
+        "ema_span": 30,
+        "sma_window": 30,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06455012364894142,
+        "ema_exit_threshold": -0.009083090248478896
+    },
+    {
+        "returns": -621.3192901961747,
+        "ema_span": 43,
+        "sma_window": 43,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10390984828245244,
+        "ema_exit_threshold": 0.0038335030074445994
+    },
+    {
+        "returns": -765.995988790143,
+        "ema_span": 78,
+        "sma_window": 78,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03927515606280899,
+        "ema_exit_threshold": 0.013431458178421648
+    },
+    {
+        "returns": -77.79241835201447,
+        "ema_span": 97,
+        "sma_window": 97,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0954429070085022,
+        "ema_exit_threshold": -0.014600719257513705
+    },
+    {
+        "returns": -2222.4558621426904,
+        "ema_span": 23,
+        "sma_window": 23,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05455936382504156,
+        "ema_exit_threshold": 0.00742603544544848
+    },
+    {
+        "returns": -566.2934415710267,
+        "ema_span": 79,
+        "sma_window": 79,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0576823674388708,
+        "ema_exit_threshold": -0.01432182674981124
+    },
+    {
+        "returns": -617.5910193343454,
+        "ema_span": 77,
+        "sma_window": 77,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05574358451264467,
+        "ema_exit_threshold": -0.008186176810551959
+    },
+    {
+        "returns": -1151.4596805973438,
+        "ema_span": 24,
+        "sma_window": 24,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12443491928341058,
+        "ema_exit_threshold": 0.005979222063476909
+    },
+    {
+        "returns": -2608.8546223768863,
+        "ema_span": 20,
+        "sma_window": 20,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05806275124846566,
+        "ema_exit_threshold": -0.003502123006223486
+    },
+    {
+        "returns": -1747.4091801256866,
+        "ema_span": 19,
+        "sma_window": 19,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11472439819804531,
+        "ema_exit_threshold": -0.0014443020253637221
+    },
+    {
+        "returns": -1055.6234316644482,
+        "ema_span": 53,
+        "sma_window": 53,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05168588019853205,
+        "ema_exit_threshold": -0.011562249323424808
+    },
+    {
+        "returns": -438.34816644357716,
+        "ema_span": 81,
+        "sma_window": 81,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06433809100089327,
+        "ema_exit_threshold": -0.0008885603681723509
+    },
+    {
+        "returns": -2899.9877260167596,
+        "ema_span": 18,
+        "sma_window": 18,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06143760695162073,
+        "ema_exit_threshold": -0.01754824319487138
+    },
+    {
+        "returns": -1148.2931665659219,
+        "ema_span": 33,
+        "sma_window": 33,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07675856554548771,
+        "ema_exit_threshold": -0.014274487855792866
+    },
+    {
+        "returns": -2223.97490931037,
+        "ema_span": 28,
+        "sma_window": 28,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03292182782412733,
+        "ema_exit_threshold": -0.0021488969715902652
+    },
+    {
+        "returns": -668.2740855851832,
+        "ema_span": 54,
+        "sma_window": 54,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08452865594606042,
+        "ema_exit_threshold": -0.0006507479626900904
+    },
+    {
+        "returns": -178.0822457679069,
+        "ema_span": 79,
+        "sma_window": 79,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13137307570030118,
+        "ema_exit_threshold": -0.005789094826000647
+    },
+    {
+        "returns": -1421.4678422418463,
+        "ema_span": 19,
+        "sma_window": 19,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14260934955085922,
+        "ema_exit_threshold": 0.00971137898758266
+    },
+    {
+        "returns": -2076.9646287429273,
+        "ema_span": 17,
+        "sma_window": 17,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10606627778988684,
+        "ema_exit_threshold": 0.0015046815427668635
+    },
+    {
+        "returns": -1515.3546673621236,
+        "ema_span": 56,
+        "sma_window": 56,
+        "position_size": 1,
+        "ema_entry_threshold": 0.032855587880696174,
+        "ema_exit_threshold": -0.018017503925737824
+    },
+    {
+        "returns": -2688.507901085881,
+        "ema_span": 18,
+        "sma_window": 18,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07060508462520662,
+        "ema_exit_threshold": -0.016100688301680575
+    },
+    {
+        "returns": -2200.34071909009,
+        "ema_span": 29,
+        "sma_window": 29,
+        "position_size": 1,
+        "ema_entry_threshold": 0.030083115812261006,
+        "ema_exit_threshold": 0.00028876239250951184
+    },
+    {
+        "returns": -256.5879287012647,
+        "ema_span": 57,
+        "sma_window": 57,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14418702052105595,
+        "ema_exit_threshold": -0.0006576753903798283
+    },
+    {
+        "returns": -1823.0330901000511,
+        "ema_span": 24,
+        "sma_window": 24,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07700331686441601,
+        "ema_exit_threshold": -0.016826729908781448
+    },
+    {
+        "returns": -187.68922512511176,
+        "ema_span": 80,
+        "sma_window": 80,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13549715184502953,
+        "ema_exit_threshold": -0.016812468049986425
+    },
+    {
+        "returns": -1119.398970341495,
+        "ema_span": 27,
+        "sma_window": 27,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10444565839318316,
+        "ema_exit_threshold": 0.0036872793088811137
+    },
+    {
+        "returns": -1347.3772708619574,
+        "ema_span": 24,
+        "sma_window": 24,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10661029426260571,
+        "ema_exit_threshold": 0.005515134550123239
+    },
+    {
+        "returns": -328.32613926046315,
+        "ema_span": 47,
+        "sma_window": 47,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1333630752483423,
+        "ema_exit_threshold": -0.0037816062357425343
+    },
+    {
+        "returns": -1827.1734915473332,
+        "ema_span": 32,
+        "sma_window": 32,
+        "position_size": 1,
+        "ema_entry_threshold": 0.031026630642056154,
+        "ema_exit_threshold": 0.014877689779357934
+    },
+    {
+        "returns": -2210.5536710591755,
+        "ema_span": 32,
+        "sma_window": 32,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03499158991609496,
+        "ema_exit_threshold": -0.019069214760366656
+    },
+    {
+        "returns": -1272.2192530383718,
+        "ema_span": 40,
+        "sma_window": 40,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05440805977103961,
+        "ema_exit_threshold": 0.015095465398335657
+    },
+    {
+        "returns": -376.7636176869976,
+        "ema_span": 49,
+        "sma_window": 49,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12215370121593357,
+        "ema_exit_threshold": -0.006226375761107176
+    },
+    {
+        "returns": -894.2090556413323,
+        "ema_span": 59,
+        "sma_window": 59,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05555255763329266,
+        "ema_exit_threshold": -0.009221265129680396
+    },
+    {
+        "returns": -1031.6653584807245,
+        "ema_span": 32,
+        "sma_window": 32,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09253922819764904,
+        "ema_exit_threshold": 0.009007725000601879
+    },
+    {
+        "returns": -23.90665904595744,
+        "ema_span": 97,
+        "sma_window": 97,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1220125387297541,
+        "ema_exit_threshold": 0.012478293301513012
+    },
+    {
+        "returns": -1501.4816975512251,
+        "ema_span": 27,
+        "sma_window": 27,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07030023796974566,
+        "ema_exit_threshold": 0.014230930582938901
+    },
+    {
+        "returns": -133.65289414737936,
+        "ema_span": 96,
+        "sma_window": 96,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08005155715024367,
+        "ema_exit_threshold": 0.0004796217687633805
+    },
+    {
+        "returns": -1008.4825622954388,
+        "ema_span": 49,
+        "sma_window": 49,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0595164249678846,
+        "ema_exit_threshold": -0.0006619039525482147
+    },
+    {
+        "returns": -951.1558769409455,
+        "ema_span": 39,
+        "sma_window": 39,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08456473312662686,
+        "ema_exit_threshold": 0.015563385365184796
+    },
+    {
+        "returns": -383.53545760329325,
+        "ema_span": 81,
+        "sma_window": 81,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0691359287750169,
+        "ema_exit_threshold": -0.0030612842736990812
+    },
+    {
+        "returns": -1353.0348644607188,
+        "ema_span": 45,
+        "sma_window": 45,
+        "position_size": 1,
+        "ema_entry_threshold": 0.042589991288040925,
+        "ema_exit_threshold": 0.006976422624413577
+    },
+    {
+        "returns": -845.5194448092936,
+        "ema_span": 32,
+        "sma_window": 32,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11668811636446083,
+        "ema_exit_threshold": -0.0014607688248578863
+    },
+    {
+        "returns": -322.015717020236,
+        "ema_span": 94,
+        "sma_window": 94,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0573309121689949,
+        "ema_exit_threshold": -0.01596923940264469
+    },
+    {
+        "returns": -275.03494533739536,
+        "ema_span": 45,
+        "sma_window": 45,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14938452450819242,
+        "ema_exit_threshold": 0.005668140709123214
+    },
+    {
+        "returns": -268.22386109286845,
+        "ema_span": 65,
+        "sma_window": 65,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12965700252726114,
+        "ema_exit_threshold": 0.015688272885367692
+    },
+    {
+        "returns": -1340.8867001621716,
+        "ema_span": 42,
+        "sma_window": 42,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04760852184318606,
+        "ema_exit_threshold": 0.008537231300868395
+    },
+    {
+        "returns": -2506.7509432455827,
+        "ema_span": 27,
+        "sma_window": 27,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03462911777225897,
+        "ema_exit_threshold": -0.015098765838252563
+    },
+    {
+        "returns": -808.1387495012116,
+        "ema_span": 53,
+        "sma_window": 53,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07126512605351684,
+        "ema_exit_threshold": -0.005753193000573081
+    },
+    {
+        "returns": -590.7239743069292,
+        "ema_span": 64,
+        "sma_window": 64,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07522974020107816,
+        "ema_exit_threshold": 0.01659089007139501
+    },
+    {
+        "returns": -867.5062813950419,
+        "ema_span": 62,
+        "sma_window": 62,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05381890102319027,
+        "ema_exit_threshold": -0.012289205752056801
+    },
+    {
+        "returns": -674.0882778401697,
+        "ema_span": 55,
+        "sma_window": 55,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08526283822869181,
+        "ema_exit_threshold": 0.0038564869954302848
+    },
+    {
+        "returns": -76.35848298311998,
+        "ema_span": 86,
+        "sma_window": 86,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11370756375390051,
+        "ema_exit_threshold": -0.012336459600160676
+    },
+    {
+        "returns": -1624.4752672924662,
+        "ema_span": 18,
+        "sma_window": 18,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13087940091368144,
+        "ema_exit_threshold": -0.0017553207809624413
+    },
+    {
+        "returns": -135.4101447477517,
+        "ema_span": 84,
+        "sma_window": 84,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11835385229756117,
+        "ema_exit_threshold": 0.004516945803644835
+    },
+    {
+        "returns": -728.959030374016,
+        "ema_span": 68,
+        "sma_window": 68,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05846010403944227,
+        "ema_exit_threshold": -0.013003017836337491
+    },
+    {
+        "returns": -526.1341199053634,
+        "ema_span": 63,
+        "sma_window": 63,
+        "position_size": 1,
+        "ema_entry_threshold": 0.081917780228742,
+        "ema_exit_threshold": -0.0183926458369203
+    },
+    {
+        "returns": -589.5814972544372,
+        "ema_span": 52,
+        "sma_window": 52,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0926861197571874,
+        "ema_exit_threshold": 0.0016475393545863607
+    },
+    {
+        "returns": -925.3036966105053,
+        "ema_span": 34,
+        "sma_window": 34,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09981190071243441,
+        "ema_exit_threshold": 0.015328353453431963
+    },
+    {
+        "returns": -588.563350545355,
+        "ema_span": 41,
+        "sma_window": 41,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10868015862547982,
+        "ema_exit_threshold": -0.001999885755491395
+    },
+    {
+        "returns": -3127.977411372246,
+        "ema_span": 18,
+        "sma_window": 18,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03531366842127113,
+        "ema_exit_threshold": 0.011723541316394507
+    },
+    {
+        "returns": -437.92585308742423,
+        "ema_span": 38,
+        "sma_window": 38,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14054489104995307,
+        "ema_exit_threshold": -0.01604003089491369
+    },
+    {
+        "returns": -719.5957256346637,
+        "ema_span": 34,
+        "sma_window": 34,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1172601721021796,
+        "ema_exit_threshold": -0.013812517369218777
+    },
+    {
+        "returns": -189.18313367997916,
+        "ema_span": 82,
+        "sma_window": 82,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11188825139485124,
+        "ema_exit_threshold": -0.011787289444136236
+    },
+    {
+        "returns": -1008.5329571054422,
+        "ema_span": 67,
+        "sma_window": 67,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03971767788829472,
+        "ema_exit_threshold": 0.003919115749935311
+    },
+    {
+        "returns": -621.1005240117911,
+        "ema_span": 56,
+        "sma_window": 56,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08883065241893379,
+        "ema_exit_threshold": 0.010437126916285053
+    },
+    {
+        "returns": -172.05861953630756,
+        "ema_span": 80,
+        "sma_window": 80,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13369690327829983,
+        "ema_exit_threshold": -0.008200887782599213
+    },
+    {
+        "returns": -1145.1620065747265,
+        "ema_span": 60,
+        "sma_window": 60,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03543380974627191,
+        "ema_exit_threshold": 0.017238495286754356
+    },
+    {
+        "returns": -992.6401713252437,
+        "ema_span": 61,
+        "sma_window": 61,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04718095661871395,
+        "ema_exit_threshold": 0.005642918468994978
+    },
+    {
+        "returns": -306.9964654874225,
+        "ema_span": 78,
+        "sma_window": 78,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08670294475470432,
+        "ema_exit_threshold": 0.016645454010791424
+    },
+    {
+        "returns": -849.1160006486141,
+        "ema_span": 52,
+        "sma_window": 52,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07138460448264307,
+        "ema_exit_threshold": 0.0017745029000435582
+    },
+    {
+        "returns": -182.51169583896444,
+        "ema_span": 81,
+        "sma_window": 81,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12624949275448558,
+        "ema_exit_threshold": -0.00380502564343023
+    },
+    {
+        "returns": -1904.6439224212274,
+        "ema_span": 20,
+        "sma_window": 20,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09789121455819741,
+        "ema_exit_threshold": 0.0019004349946375278
+    },
+    {
+        "returns": -1222.4513355444071,
+        "ema_span": 28,
+        "sma_window": 28,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09017839761895112,
+        "ema_exit_threshold": -8.072610733490393e-05
+    },
+    {
+        "returns": -745.5381260676443,
+        "ema_span": 54,
+        "sma_window": 54,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0754232463993111,
+        "ema_exit_threshold": -0.013300449081246299
+    },
+    {
+        "returns": -156.7476887468299,
+        "ema_span": 84,
+        "sma_window": 84,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1068581811601912,
+        "ema_exit_threshold": -0.002932130002475282
+    },
+    {
+        "returns": -654.7362308565976,
+        "ema_span": 30,
+        "sma_window": 30,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14547038063800757,
+        "ema_exit_threshold": -0.006071327239891978
+    },
+    {
+        "returns": -540.8455848991362,
+        "ema_span": 67,
+        "sma_window": 67,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07547074797423965,
+        "ema_exit_threshold": -0.011092844220633082
+    },
+    {
+        "returns": -1088.8147314602834,
+        "ema_span": 63,
+        "sma_window": 63,
+        "position_size": 1,
+        "ema_entry_threshold": 0.039962333182121834,
+        "ema_exit_threshold": -0.012068907388750114
+    },
+    {
+        "returns": -525.8743021839105,
+        "ema_span": 73,
+        "sma_window": 73,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06991066144506995,
+        "ema_exit_threshold": -0.0051166344111530865
+    },
+    {
+        "returns": -841.622979776103,
+        "ema_span": 28,
+        "sma_window": 28,
+        "position_size": 1,
+        "ema_entry_threshold": 0.131229856850458,
+        "ema_exit_threshold": -0.002065665549870176
+    },
+    {
+        "returns": -38.517514716807455,
+        "ema_span": 99,
+        "sma_window": 99,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1303662283907073,
+        "ema_exit_threshold": -0.008768018561012357
+    },
+    {
+        "returns": -3046.4024571703108,
+        "ema_span": 23,
+        "sma_window": 23,
+        "position_size": 1,
+        "ema_entry_threshold": 0.034047447812238826,
+        "ema_exit_threshold": -0.015445897594243736
+    },
+    {
+        "returns": -735.0641597882507,
+        "ema_span": 51,
+        "sma_window": 51,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08089121523186077,
+        "ema_exit_threshold": -0.0026678770312784958
+    },
+    {
+        "returns": -335.6306385876535,
+        "ema_span": 78,
+        "sma_window": 78,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08881948493748616,
+        "ema_exit_threshold": -0.017172332475993816
+    },
+    {
+        "returns": -918.1065726465697,
+        "ema_span": 49,
+        "sma_window": 49,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0656383902998251,
+        "ema_exit_threshold": -0.00424116976055023
+    },
+    {
+        "returns": -1306.9046786454173,
+        "ema_span": 31,
+        "sma_window": 31,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06690000602845148,
+        "ema_exit_threshold": 0.005367099419414378
+    },
+    {
+        "returns": -322.920093927622,
+        "ema_span": 77,
+        "sma_window": 77,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08611539025476116,
+        "ema_exit_threshold": -0.0049750073375257955
+    },
+    {
+        "returns": -802.2146683940482,
+        "ema_span": 29,
+        "sma_window": 29,
+        "position_size": 1,
+        "ema_entry_threshold": 0.131299752368485,
+        "ema_exit_threshold": -0.015432067025130333
+    },
+    {
+        "returns": -970.1234922826468,
+        "ema_span": 33,
+        "sma_window": 33,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09623937187806343,
+        "ema_exit_threshold": 0.01895064503421241
+    },
+    {
+        "returns": -296.3287968372704,
+        "ema_span": 69,
+        "sma_window": 69,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11744936747274638,
+        "ema_exit_threshold": -0.012069123706046118
+    },
+    {
+        "returns": -35.19559046532527,
+        "ema_span": 94,
+        "sma_window": 94,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12679313519073382,
+        "ema_exit_threshold": -0.018967351879707512
+    },
+    {
+        "returns": -550.2103279385772,
+        "ema_span": 89,
+        "sma_window": 89,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04120732917577826,
+        "ema_exit_threshold": -0.019158901252573794
+    },
+    {
+        "returns": -695.483523639992,
+        "ema_span": 45,
+        "sma_window": 45,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09085253627970864,
+        "ema_exit_threshold": -0.01880828961077578
+    },
+    {
+        "returns": -681.7508732751346,
+        "ema_span": 69,
+        "sma_window": 69,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06520980224814733,
+        "ema_exit_threshold": -0.00322561925435224
+    },
+    {
+        "returns": -88.88836117774508,
+        "ema_span": 85,
+        "sma_window": 85,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14526350967044924,
+        "ema_exit_threshold": -0.01374139236927781
+    },
+    {
+        "returns": -302.9363411107588,
+        "ema_span": 67,
+        "sma_window": 67,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1201054044134356,
+        "ema_exit_threshold": -0.018576430034524694
+    },
+    {
+        "returns": -457.4079492512071,
+        "ema_span": 63,
+        "sma_window": 63,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09489256985994364,
+        "ema_exit_threshold": 0.005113761273951433
+    },
+    {
+        "returns": -1855.3345968731426,
+        "ema_span": 28,
+        "sma_window": 28,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05241969140787298,
+        "ema_exit_threshold": -0.010521875818095196
+    },
+    {
+        "returns": -1139.6137327287927,
+        "ema_span": 52,
+        "sma_window": 52,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04824770883473381,
+        "ema_exit_threshold": -0.016658170652917526
+    },
+    {
+        "returns": -741.3220544310655,
+        "ema_span": 76,
+        "sma_window": 76,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04813593945202607,
+        "ema_exit_threshold": -0.016249540109212746
+    },
+    {
+        "returns": -1187.3767789178626,
+        "ema_span": 32,
+        "sma_window": 32,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07818847231317928,
+        "ema_exit_threshold": -0.01838869069508303
+    },
+    {
+        "returns": -271.7507939039724,
+        "ema_span": 57,
+        "sma_window": 57,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14083682456610688,
+        "ema_exit_threshold": 0.01307317854480902
+    },
+    {
+        "returns": -653.0192184195232,
+        "ema_span": 68,
+        "sma_window": 68,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06664169385513412,
+        "ema_exit_threshold": 0.012544526682246515
+    },
+    {
+        "returns": -258.04061455781493,
+        "ema_span": 77,
+        "sma_window": 77,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10817039250679035,
+        "ema_exit_threshold": 0.013829303204683882
+    },
+    {
+        "returns": -459.6356530522096,
+        "ema_span": 94,
+        "sma_window": 94,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04571114596274451,
+        "ema_exit_threshold": -0.003005781586524197
+    },
+    {
+        "returns": -598.4756228152032,
+        "ema_span": 63,
+        "sma_window": 63,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0756059371640543,
+        "ema_exit_threshold": 0.003411526483265108
+    },
+    {
+        "returns": -722.9019234862349,
+        "ema_span": 67,
+        "sma_window": 67,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06123790457568541,
+        "ema_exit_threshold": 0.0006511340626275196
+    },
+    {
+        "returns": -710.4481975380534,
+        "ema_span": 33,
+        "sma_window": 33,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12382914263857529,
+        "ema_exit_threshold": -0.016914457055191647
+    },
+    {
+        "returns": -788.0835924333785,
+        "ema_span": 79,
+        "sma_window": 79,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03930726506848638,
+        "ema_exit_threshold": -0.0011561581086540933
+    },
+    {
+        "returns": -1237.6564161282981,
+        "ema_span": 29,
+        "sma_window": 29,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08745731770813855,
+        "ema_exit_threshold": -0.014019372926502505
+    },
+    {
+        "returns": -1157.5752097722452,
+        "ema_span": 27,
+        "sma_window": 27,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10347717805149596,
+        "ema_exit_threshold": 0.01898535828619199
+    },
+    {
+        "returns": -1410.8097461929315,
+        "ema_span": 49,
+        "sma_window": 49,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03958083565618218,
+        "ema_exit_threshold": -0.014833415821710733
+    },
+    {
+        "returns": -899.8575537447055,
+        "ema_span": 50,
+        "sma_window": 50,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0653796323219251,
+        "ema_exit_threshold": -0.01700441850589334
+    },
+    {
+        "returns": -1188.777244803468,
+        "ema_span": 64,
+        "sma_window": 64,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0340685274377314,
+        "ema_exit_threshold": -0.005808349156723777
+    },
+    {
+        "returns": -900.0820900684437,
+        "ema_span": 32,
+        "sma_window": 32,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1043040114731076,
+        "ema_exit_threshold": -0.013269514365620131
+    },
+    {
+        "returns": -1297.9269613752974,
+        "ema_span": 43,
+        "sma_window": 43,
+        "position_size": 1,
+        "ema_entry_threshold": 0.050294128434515716,
+        "ema_exit_threshold": -0.015667540960502324
+    },
+    {
+        "returns": -302.49741780983095,
+        "ema_span": 59,
+        "sma_window": 59,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12821040482524562,
+        "ema_exit_threshold": 0.0007289500139821738
+    },
+    {
+        "returns": -1307.833931938013,
+        "ema_span": 57,
+        "sma_window": 57,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03170837196188513,
+        "ema_exit_threshold": 0.013715594420934177
+    },
+    {
+        "returns": -1344.4608225557579,
+        "ema_span": 39,
+        "sma_window": 39,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04887664946263929,
+        "ema_exit_threshold": 0.000851271856362324
+    },
+    {
+        "returns": -452.3680679817678,
+        "ema_span": 74,
+        "sma_window": 74,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07775165875946825,
+        "ema_exit_threshold": -0.017890329536632436
+    },
+    {
+        "returns": -691.9951249008141,
+        "ema_span": 67,
+        "sma_window": 67,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06594717287767311,
+        "ema_exit_threshold": 0.004620085365886329
+    },
+    {
+        "returns": -113.94666555709728,
+        "ema_span": 84,
+        "sma_window": 84,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14810879506545763,
+        "ema_exit_threshold": -0.008182171415505769
+    },
+    {
+        "returns": -1654.7055549891625,
+        "ema_span": 26,
+        "sma_window": 26,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07302844965183358,
+        "ema_exit_threshold": -0.016774618081146202
+    },
+    {
+        "returns": -1738.7285658788448,
+        "ema_span": 26,
+        "sma_window": 26,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06939997507076634,
+        "ema_exit_threshold": -0.01804998258623464
+    },
+    {
+        "returns": -706.7303472186652,
+        "ema_span": 81,
+        "sma_window": 81,
+        "position_size": 1,
+        "ema_entry_threshold": 0.040949345948568326,
+        "ema_exit_threshold": 0.006455969142992247
+    },
+    {
+        "returns": -719.2699861152048,
+        "ema_span": 67,
+        "sma_window": 67,
+        "position_size": 1,
+        "ema_entry_threshold": 0.061207543270683326,
+        "ema_exit_threshold": 0.003958762859952488
+    },
+    {
+        "returns": -109.08730817481319,
+        "ema_span": 91,
+        "sma_window": 91,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0816954531427212,
+        "ema_exit_threshold": 0.0004936734092684487
+    },
+    {
+        "returns": -50.65537047186581,
+        "ema_span": 98,
+        "sma_window": 98,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1399012316362017,
+        "ema_exit_threshold": 0.015966826773735263
+    },
+    {
+        "returns": -3192.44596247369,
+        "ema_span": 17,
+        "sma_window": 17,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04440588436550206,
+        "ema_exit_threshold": 0.00345629959753017
+    },
+    {
+        "returns": -1985.9776530109236,
+        "ema_span": 25,
+        "sma_window": 25,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05260746110278382,
+        "ema_exit_threshold": 0.007589613009768281
+    },
+    {
+        "returns": -1525.0521036305202,
+        "ema_span": 39,
+        "sma_window": 39,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03681534716020637,
+        "ema_exit_threshold": 0.007795312454428007
+    },
+    {
+        "returns": -465.0305392990638,
+        "ema_span": 96,
+        "sma_window": 96,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04499127413708277,
+        "ema_exit_threshold": -0.015264181936703855
+    },
+    {
+        "returns": -1561.1873656352655,
+        "ema_span": 24,
+        "sma_window": 24,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0893682060685265,
+        "ema_exit_threshold": -0.00044966037295133155
+    },
+    {
+        "returns": -151.3603080184098,
+        "ema_span": 84,
+        "sma_window": 84,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11425351700725514,
+        "ema_exit_threshold": -0.017965761206509123
+    },
+    {
+        "returns": -599.8711839390123,
+        "ema_span": 53,
+        "sma_window": 53,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0903980664875063,
+        "ema_exit_threshold": -0.0018190057420832027
+    },
+    {
+        "returns": -1397.8033851158298,
+        "ema_span": 54,
+        "sma_window": 54,
+        "position_size": 1,
+        "ema_entry_threshold": 0.033191749026288526,
+        "ema_exit_threshold": -0.005449862961666754
+    },
+    {
+        "returns": -3596.8202623633847,
+        "ema_span": 18,
+        "sma_window": 18,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03181745676313215,
+        "ema_exit_threshold": -0.009320374749728492
+    },
+    {
+        "returns": -13.536015212306665,
+        "ema_span": 95,
+        "sma_window": 95,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11791874842534299,
+        "ema_exit_threshold": 0.01453096477153575
+    },
+    {
+        "returns": -137.31366754955843,
+        "ema_span": 97,
+        "sma_window": 97,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07855197376846838,
+        "ema_exit_threshold": -0.011900544174471403
+    },
+    {
+        "returns": -456.77667654835295,
+        "ema_span": 59,
+        "sma_window": 59,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09812639260785977,
+        "ema_exit_threshold": -0.002963566635631318
+    },
+    {
+        "returns": -262.2244207214651,
+        "ema_span": 58,
+        "sma_window": 58,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1400437975956637,
+        "ema_exit_threshold": 0.0025455977552502297
+    },
+    {
+        "returns": -964.4667755106477,
+        "ema_span": 40,
+        "sma_window": 40,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07713517331840299,
+        "ema_exit_threshold": 0.00919031592137965
+    },
+    {
+        "returns": -1668.1367611129594,
+        "ema_span": 20,
+        "sma_window": 20,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11158875174665207,
+        "ema_exit_threshold": 0.011493501715345557
+    },
+    {
+        "returns": -339.2085458282313,
+        "ema_span": 76,
+        "sma_window": 76,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08939068657531282,
+        "ema_exit_threshold": -0.01488038582805396
+    },
+    {
+        "returns": -415.68755901032205,
+        "ema_span": 71,
+        "sma_window": 71,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09052914827321026,
+        "ema_exit_threshold": 0.004014212491069051
+    },
+    {
+        "returns": -58.7593583581297,
+        "ema_span": 88,
+        "sma_window": 88,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1049643762494337,
+        "ema_exit_threshold": -0.003987508557260672
+    },
+    {
+        "returns": -1451.9745618811041,
+        "ema_span": 23,
+        "sma_window": 23,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1070438991474018,
+        "ema_exit_threshold": 0.006818470696335594
+    },
+    {
+        "returns": -760.2661647116856,
+        "ema_span": 82,
+        "sma_window": 82,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03412103779805545,
+        "ema_exit_threshold": 0.006059702937536469
+    },
+    {
+        "returns": -256.9256881074821,
+        "ema_span": 71,
+        "sma_window": 71,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13958770600710324,
+        "ema_exit_threshold": -0.01661183128499654
+    },
+    {
+        "returns": -255.72595744631258,
+        "ema_span": 70,
+        "sma_window": 70,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1358634686655582,
+        "ema_exit_threshold": 0.012802087222747085
+    },
+    {
+        "returns": -1206.2057993373594,
+        "ema_span": 22,
+        "sma_window": 22,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14066347001636192,
+        "ema_exit_threshold": 0.00872195636494453
+    },
+    {
+        "returns": -789.4588706021275,
+        "ema_span": 71,
+        "sma_window": 71,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05294374431026675,
+        "ema_exit_threshold": -0.01555595705164239
+    },
+    {
+        "returns": -35.64129037745215,
+        "ema_span": 95,
+        "sma_window": 95,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13087838294599477,
+        "ema_exit_threshold": -0.017445474681012506
+    },
+    {
+        "returns": -262.2795333177296,
+        "ema_span": 73,
+        "sma_window": 73,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12537956097311517,
+        "ema_exit_threshold": -0.017094917157949693
+    },
+    {
+        "returns": -685.7512012179045,
+        "ema_span": 62,
+        "sma_window": 62,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0714821912695443,
+        "ema_exit_threshold": -0.0029144108191117993
+    },
+    {
+        "returns": -822.6708153097675,
+        "ema_span": 75,
+        "sma_window": 75,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04349894092563529,
+        "ema_exit_threshold": 0.0013669428980796626
+    },
+    {
+        "returns": -77.68936235308047,
+        "ema_span": 86,
+        "sma_window": 86,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10621416788377899,
+        "ema_exit_threshold": 0.01058047456916036
+    },
+    {
+        "returns": -1493.0431558361997,
+        "ema_span": 48,
+        "sma_window": 48,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03203690804443546,
+        "ema_exit_threshold": 0.0026290012459852406
+    },
+    {
+        "returns": -1065.4435365694228,
+        "ema_span": 48,
+        "sma_window": 48,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05806639229605867,
+        "ema_exit_threshold": 0.002854080683125515
+    },
+    {
+        "returns": -18.61408294090893,
+        "ema_span": 95,
+        "sma_window": 95,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12175410494253763,
+        "ema_exit_threshold": -0.015000800007384942
+    },
+    {
+        "returns": -698.2085346456263,
+        "ema_span": 30,
+        "sma_window": 30,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13941311784860191,
+        "ema_exit_threshold": -0.00012757447298138725
+    },
+    {
+        "returns": -107.63013075465233,
+        "ema_span": 89,
+        "sma_window": 89,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0849205440204186,
+        "ema_exit_threshold": -0.0006747023248009147
+    },
+    {
+        "returns": -439.61895734754944,
+        "ema_span": 75,
+        "sma_window": 75,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07564277363159919,
+        "ema_exit_threshold": 0.007576412369787864
+    },
+    {
+        "returns": -1022.5455139021858,
+        "ema_span": 59,
+        "sma_window": 59,
+        "position_size": 1,
+        "ema_entry_threshold": 0.047740935632882654,
+        "ema_exit_threshold": 0.000438977769637388
+    },
+    {
+        "returns": -2915.016543001325,
+        "ema_span": 22,
+        "sma_window": 22,
+        "position_size": 1,
+        "ema_entry_threshold": 0.038590363254057194,
+        "ema_exit_threshold": -0.011899570805980733
+    },
+    {
+        "returns": -583.2898900449932,
+        "ema_span": 36,
+        "sma_window": 36,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1275463614040047,
+        "ema_exit_threshold": -0.004578659824988141
+    },
+    {
+        "returns": -1350.2257328520643,
+        "ema_span": 38,
+        "sma_window": 38,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05118324054818796,
+        "ema_exit_threshold": 0.0002906117133316017
+    },
+    {
+        "returns": -2139.676978855309,
+        "ema_span": 18,
+        "sma_window": 18,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09430116764921213,
+        "ema_exit_threshold": 0.010963541913832048
+    },
+    {
+        "returns": -874.6880429613066,
+        "ema_span": 57,
+        "sma_window": 57,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06262927090015633,
+        "ema_exit_threshold": -0.006007047784314866
+    },
+    {
+        "returns": -320.5559231714442,
+        "ema_span": 66,
+        "sma_window": 66,
+        "position_size": 1,
+        "ema_entry_threshold": 0.115519373761157,
+        "ema_exit_threshold": 0.009503645678827326
+    },
+    {
+        "returns": -675.4383445254145,
+        "ema_span": 78,
+        "sma_window": 78,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05025416358159793,
+        "ema_exit_threshold": -0.015667353756083302
+    },
+    {
+        "returns": -1306.3824300169622,
+        "ema_span": 29,
+        "sma_window": 29,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07592578191467737,
+        "ema_exit_threshold": 0.01319741877156724
+    },
+    {
+        "returns": -31.316856988469908,
+        "ema_span": 97,
+        "sma_window": 97,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11416752755880422,
+        "ema_exit_threshold": -0.017414022279627354
+    },
+    {
+        "returns": -854.9760756453006,
+        "ema_span": 71,
+        "sma_window": 71,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0467960473918463,
+        "ema_exit_threshold": 0.007492519890042923
+    },
+    {
+        "returns": -1746.3824151014503,
+        "ema_span": 23,
+        "sma_window": 23,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08569900138806105,
+        "ema_exit_threshold": 0.016307649693445527
+    },
+    {
+        "returns": -1540.1004590142131,
+        "ema_span": 21,
+        "sma_window": 21,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11693240856212676,
+        "ema_exit_threshold": 0.0076989924938859755
+    },
+    {
+        "returns": -773.6791993572504,
+        "ema_span": 44,
+        "sma_window": 44,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08980509593827608,
+        "ema_exit_threshold": 0.006140908315846922
+    },
+    {
+        "returns": -310.48840661385543,
+        "ema_span": 56,
+        "sma_window": 56,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13689186905828465,
+        "ema_exit_threshold": 0.01707841339233957
+    },
+    {
+        "returns": -2512.2199379653084,
+        "ema_span": 17,
+        "sma_window": 17,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07597861270277025,
+        "ema_exit_threshold": 0.01342421184088367
+    },
+    {
+        "returns": -110.70232769619793,
+        "ema_span": 97,
+        "sma_window": 97,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08877083957997715,
+        "ema_exit_threshold": 0.018544479996115006
+    },
+    {
+        "returns": -52.06227876918024,
+        "ema_span": 96,
+        "sma_window": 96,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10462877798284934,
+        "ema_exit_threshold": 0.013648774831381326
+    },
+    {
+        "returns": -932.7531206430651,
+        "ema_span": 53,
+        "sma_window": 53,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06479674531956997,
+        "ema_exit_threshold": 0.005292547516447133
+    },
+    {
+        "returns": -589.3427657654865,
+        "ema_span": 63,
+        "sma_window": 63,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07620671886543402,
+        "ema_exit_threshold": -0.0006368456927278941
+    },
+    {
+        "returns": -158.1819449855434,
+        "ema_span": 97,
+        "sma_window": 97,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07273845922933542,
+        "ema_exit_threshold": 0.003020323102632938
+    },
+    {
+        "returns": -708.2864247945072,
+        "ema_span": 34,
+        "sma_window": 34,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11805654811356102,
+        "ema_exit_threshold": -0.014249588007524206
+    },
+    {
+        "returns": -277.46870832810123,
+        "ema_span": 49,
+        "sma_window": 49,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13705014217718683,
+        "ema_exit_threshold": 0.00653168502669595
+    },
+    {
+        "returns": -1244.738809560368,
+        "ema_span": 31,
+        "sma_window": 31,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07331410311902739,
+        "ema_exit_threshold": -0.006209966965808557
+    },
+    {
+        "returns": -572.3464991004905,
+        "ema_span": 57,
+        "sma_window": 57,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09183805173308894,
+        "ema_exit_threshold": 0.00826919606030585
+    },
+    {
+        "returns": -931.4055282129725,
+        "ema_span": 66,
+        "sma_window": 66,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04699750674636436,
+        "ema_exit_threshold": -0.0046957073958686915
+    },
+    {
+        "returns": -423.7845611535545,
+        "ema_span": 57,
+        "sma_window": 57,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11210994796285906,
+        "ema_exit_threshold": -0.01008439174074472
+    },
+    {
+        "returns": -183.532987286168,
+        "ema_span": 83,
+        "sma_window": 83,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09714853493646274,
+        "ema_exit_threshold": 0.009533378327321913
+    },
+    {
+        "returns": -1179.9433963622303,
+        "ema_span": 33,
+        "sma_window": 33,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07399168579058976,
+        "ema_exit_threshold": -0.013007157590149343
+    },
+    {
+        "returns": -1454.454513311896,
+        "ema_span": 21,
+        "sma_window": 21,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12215512467947316,
+        "ema_exit_threshold": -0.003271123352466941
+    },
+    {
+        "returns": -204.06418606326224,
+        "ema_span": 84,
+        "sma_window": 84,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09323743410895988,
+        "ema_exit_threshold": -0.01838699900353797
+    },
+    {
+        "returns": -690.8177055984311,
+        "ema_span": 40,
+        "sma_window": 40,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10310491753655204,
+        "ema_exit_threshold": -0.004244466887042742
+    },
+    {
+        "returns": -1048.7956708604472,
+        "ema_span": 46,
+        "sma_window": 46,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06402488745436237,
+        "ema_exit_threshold": 0.01384939296437433
+    },
+    {
+        "returns": -1828.0836376688173,
+        "ema_span": 24,
+        "sma_window": 24,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0744830589619037,
+        "ema_exit_threshold": -0.01039452823367661
+    },
+    {
+        "returns": -1039.7631142139016,
+        "ema_span": 31,
+        "sma_window": 31,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08935657762745178,
+        "ema_exit_threshold": -0.007403273474578403
+    },
+    {
+        "returns": -2838.9554891822554,
+        "ema_span": 20,
+        "sma_window": 20,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03999331078403063,
+        "ema_exit_threshold": 0.008347799336365355
+    },
+    {
+        "returns": -840.3612308532565,
+        "ema_span": 39,
+        "sma_window": 39,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09037055889852921,
+        "ema_exit_threshold": -0.015580236167751999
+    },
+    {
+        "returns": -2115.313281820385,
+        "ema_span": 28,
+        "sma_window": 28,
+        "position_size": 1,
+        "ema_entry_threshold": 0.037866551334517225,
+        "ema_exit_threshold": -0.0035006400287246335
+    },
+    {
+        "returns": -352.6231773800314,
+        "ema_span": 63,
+        "sma_window": 63,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11241523648824678,
+        "ema_exit_threshold": -0.007182489366623829
+    },
+    {
+        "returns": -287.7499732181418,
+        "ema_span": 89,
+        "sma_window": 89,
+        "position_size": 1,
+        "ema_entry_threshold": 0.060885356469016494,
+        "ema_exit_threshold": -0.008624923089482114
+    },
+    {
+        "returns": -294.1615694419297,
+        "ema_span": 60,
+        "sma_window": 60,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12664860968935826,
+        "ema_exit_threshold": 0.01245994697219421
+    },
+    {
+        "returns": -891.4161579614172,
+        "ema_span": 41,
+        "sma_window": 41,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08413358586190775,
+        "ema_exit_threshold": 0.0045629148325227065
+    },
+    {
+        "returns": -651.5409399096859,
+        "ema_span": 65,
+        "sma_window": 65,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0685382574395669,
+        "ema_exit_threshold": -0.010017284594290774
+    },
+    {
+        "returns": -1515.329343687714,
+        "ema_span": 43,
+        "sma_window": 43,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03194694710774909,
+        "ema_exit_threshold": 0.009694975905201648
+    },
+    {
+        "returns": -693.298621812213,
+        "ema_span": 78,
+        "sma_window": 78,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04674263787832458,
+        "ema_exit_threshold": 0.009125345179665066
+    },
+    {
+        "returns": -1398.0926860979014,
+        "ema_span": 51,
+        "sma_window": 51,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03620694294286653,
+        "ema_exit_threshold": -0.009171435559301666
+    },
+    {
+        "returns": -2985.2908674362784,
+        "ema_span": 19,
+        "sma_window": 19,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03702219503862589,
+        "ema_exit_threshold": 0.010659802769545118
+    },
+    {
+        "returns": -2015.8597490590682,
+        "ema_span": 34,
+        "sma_window": 34,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03623212614934634,
+        "ema_exit_threshold": -0.018417303358761995
+    },
+    {
+        "returns": -1428.8596434120384,
+        "ema_span": 34,
+        "sma_window": 34,
+        "position_size": 1,
+        "ema_entry_threshold": 0.054208040408580835,
+        "ema_exit_threshold": -0.011420401648129616
+    },
+    {
+        "returns": -543.7162095782592,
+        "ema_span": 37,
+        "sma_window": 37,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13048343008073462,
+        "ema_exit_threshold": -0.013142722022008398
+    },
+    {
+        "returns": -1345.9206181718898,
+        "ema_span": 33,
+        "sma_window": 33,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06310438971463775,
+        "ema_exit_threshold": -0.015881093943622183
+    },
+    {
+        "returns": -245.5781520519172,
+        "ema_span": 72,
+        "sma_window": 72,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13587261441651158,
+        "ema_exit_threshold": -0.010562248091737662
+    },
+    {
+        "returns": -540.4300213325464,
+        "ema_span": 60,
+        "sma_window": 60,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08296194864544881,
+        "ema_exit_threshold": -0.015145722866399244
+    },
+    {
+        "returns": -764.3885851664086,
+        "ema_span": 47,
+        "sma_window": 47,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08529670098070319,
+        "ema_exit_threshold": 0.0019135822245287609
+    },
+    {
+        "returns": -2946.1229098868107,
+        "ema_span": 16,
+        "sma_window": 16,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0634912533766385,
+        "ema_exit_threshold": 0.010273050477774453
+    },
+    {
+        "returns": -74.32292346034524,
+        "ema_span": 97,
+        "sma_window": 97,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14381999736614795,
+        "ema_exit_threshold": 0.009691419689536613
+    },
+    {
+        "returns": -704.0992918926695,
+        "ema_span": 60,
+        "sma_window": 60,
+        "position_size": 1,
+        "ema_entry_threshold": 0.069564808861432,
+        "ema_exit_threshold": -0.006918372294346318
+    },
+    {
+        "returns": -693.5487385149402,
+        "ema_span": 76,
+        "sma_window": 76,
+        "position_size": 1,
+        "ema_entry_threshold": 0.049923559021418776,
+        "ema_exit_threshold": 0.01201546178809268
+    },
+    {
+        "returns": -708.6185275461801,
+        "ema_span": 84,
+        "sma_window": 84,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03820487546777441,
+        "ema_exit_threshold": -0.009185090745527808
+    },
+    {
+        "returns": -162.45986703480867,
+        "ema_span": 79,
+        "sma_window": 79,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14804310194260745,
+        "ema_exit_threshold": 0.006581239319715025
+    },
+    {
+        "returns": -838.9735879044892,
+        "ema_span": 66,
+        "sma_window": 66,
+        "position_size": 1,
+        "ema_entry_threshold": 0.054683280183275396,
+        "ema_exit_threshold": -0.002141603782718498
+    },
+    {
+        "returns": -340.82514138828924,
+        "ema_span": 53,
+        "sma_window": 53,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1228887954509913,
+        "ema_exit_threshold": -0.01900769878115041
+    },
+    {
+        "returns": -2390.766033376138,
+        "ema_span": 25,
+        "sma_window": 25,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03873461425766841,
+        "ema_exit_threshold": -0.0018824485852626095
+    },
+    {
+        "returns": -949.856593202202,
+        "ema_span": 36,
+        "sma_window": 36,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09450252205636818,
+        "ema_exit_threshold": 0.0076031544798667115
+    },
+    {
+        "returns": -710.5517971272077,
+        "ema_span": 30,
+        "sma_window": 30,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13876334829306908,
+        "ema_exit_threshold": 0.004759776366564197
+    },
+    {
+        "returns": -556.9102931134462,
+        "ema_span": 34,
+        "sma_window": 34,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14553076652711272,
+        "ema_exit_threshold": 0.0038499582312678552
+    },
+    {
+        "returns": -1410.3363130848197,
+        "ema_span": 41,
+        "sma_window": 41,
+        "position_size": 1,
+        "ema_entry_threshold": 0.047998947183032555,
+        "ema_exit_threshold": -0.016556799852480156
+    },
+    {
+        "returns": -3865.839736969134,
+        "ema_span": 15,
+        "sma_window": 15,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03302173984747726,
+        "ema_exit_threshold": 0.009828907559894151
+    },
+    {
+        "returns": -1434.624509873637,
+        "ema_span": 22,
+        "sma_window": 22,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11665986377699294,
+        "ema_exit_threshold": -0.0016731307712722057
+    },
+    {
+        "returns": -609.8796588608734,
+        "ema_span": 96,
+        "sma_window": 96,
+        "position_size": 1,
+        "ema_entry_threshold": 0.032092594519688794,
+        "ema_exit_threshold": 0.0015646948078459563
+    },
+    {
+        "returns": -315.4078405674211,
+        "ema_span": 55,
+        "sma_window": 55,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1349182001371893,
+        "ema_exit_threshold": 0.011818234785620173
+    },
+    {
+        "returns": -338.0903518968721,
+        "ema_span": 91,
+        "sma_window": 91,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05680242324453482,
+        "ema_exit_threshold": -0.01684044807957161
+    },
+    {
+        "returns": -790.5521485763568,
+        "ema_span": 77,
+        "sma_window": 77,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04397280596892687,
+        "ema_exit_threshold": -0.015193797178120144
+    },
+    {
+        "returns": -705.426536304011,
+        "ema_span": 64,
+        "sma_window": 64,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06445060493411552,
+        "ema_exit_threshold": -0.013799045577857088
+    },
+    {
+        "returns": -179.32474171030117,
+        "ema_span": 81,
+        "sma_window": 81,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1174769929973358,
+        "ema_exit_threshold": 0.011855150384310011
+    },
+    {
+        "returns": -1331.8013263283956,
+        "ema_span": 44,
+        "sma_window": 44,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04258666261594145,
+        "ema_exit_threshold": 0.009674438923789878
+    },
+    {
+        "returns": -285.4973655353358,
+        "ema_span": 53,
+        "sma_window": 53,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13856933279289524,
+        "ema_exit_threshold": -0.009408933223254473
+    },
+    {
+        "returns": -2438.486856429866,
+        "ema_span": 25,
+        "sma_window": 25,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04592342339141578,
+        "ema_exit_threshold": -0.01922522950778876
+    },
+    {
+        "returns": -1004.9430936764222,
+        "ema_span": 45,
+        "sma_window": 45,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0647475689422602,
+        "ema_exit_threshold": -0.018018066139645506
+    },
+    {
+        "returns": -26.966069576878,
+        "ema_span": 99,
+        "sma_window": 99,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12275923164484452,
+        "ema_exit_threshold": 0.009464721764794876
+    },
+    {
+        "returns": -253.45254022464223,
+        "ema_span": 87,
+        "sma_window": 87,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06456195831998204,
+        "ema_exit_threshold": 0.012717827768821294
+    },
+    {
+        "returns": -779.3771364230076,
+        "ema_span": 53,
+        "sma_window": 53,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07166526986362896,
+        "ema_exit_threshold": -0.0157455037213856
+    },
+    {
+        "returns": -37.2304104057373,
+        "ema_span": 88,
+        "sma_window": 88,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1314377127307174,
+        "ema_exit_threshold": 0.01761867824756901
+    },
+    {
+        "returns": -685.5740982545308,
+        "ema_span": 29,
+        "sma_window": 29,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14909393986419456,
+        "ema_exit_threshold": 0.005818735365262406
+    },
+    {
+        "returns": -830.0850239282274,
+        "ema_span": 55,
+        "sma_window": 55,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07218357612289561,
+        "ema_exit_threshold": 0.003923664832444694
+    },
+    {
+        "returns": -1139.5770623745739,
+        "ema_span": 37,
+        "sma_window": 37,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06746609414881499,
+        "ema_exit_threshold": 0.008021706253691393
+    },
+    {
+        "returns": -735.8787402899384,
+        "ema_span": 61,
+        "sma_window": 61,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0653601868567143,
+        "ema_exit_threshold": -0.004349292391053185
+    },
+    {
+        "returns": -127.25188800562432,
+        "ema_span": 97,
+        "sma_window": 97,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08159219275399389,
+        "ema_exit_threshold": 0.01539166642701989
+    },
+    {
+        "returns": -29.371591504112075,
+        "ema_span": 99,
+        "sma_window": 99,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12864957728130869,
+        "ema_exit_threshold": -0.007450586451978387
+    },
+    {
+        "returns": -941.1758174040328,
+        "ema_span": 43,
+        "sma_window": 43,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07382779119507506,
+        "ema_exit_threshold": 0.008589914426711477
+    },
+    {
+        "returns": -3145.0644226949216,
+        "ema_span": 15,
+        "sma_window": 15,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06303993955071172,
+        "ema_exit_threshold": 0.016937378534287294
+    },
+    {
+        "returns": -2343.1564557346737,
+        "ema_span": 15,
+        "sma_window": 15,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11163223258224163,
+        "ema_exit_threshold": 0.006414215153471476
+    },
+    {
+        "returns": -582.5212155149927,
+        "ema_span": 54,
+        "sma_window": 54,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09516567734856282,
+        "ema_exit_threshold": 0.014189221528160692
+    },
+    {
+        "returns": -651.5759455598077,
+        "ema_span": 38,
+        "sma_window": 38,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11454981115965988,
+        "ema_exit_threshold": 0.004130995996530971
+    },
+    {
+        "returns": -3121.4455339472615,
+        "ema_span": 17,
+        "sma_window": 17,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05787599198878178,
+        "ema_exit_threshold": -0.015588110957793553
+    },
+    {
+        "returns": -869.3548904389488,
+        "ema_span": 69,
+        "sma_window": 69,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04945443143463901,
+        "ema_exit_threshold": 0.0022816630392153326
+    },
+    {
+        "returns": -730.7335409047769,
+        "ema_span": 34,
+        "sma_window": 34,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1164803628435127,
+        "ema_exit_threshold": -0.005025564478159057
+    },
+    {
+        "returns": -348.15328891338004,
+        "ema_span": 55,
+        "sma_window": 55,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12747147205785359,
+        "ema_exit_threshold": 0.017936446682078104
+    },
+    {
+        "returns": -919.9583818074423,
+        "ema_span": 46,
+        "sma_window": 46,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07056284031472732,
+        "ema_exit_threshold": -0.009756428621100046
+    },
+    {
+        "returns": -263.25575603103425,
+        "ema_span": 80,
+        "sma_window": 80,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09182889676030087,
+        "ema_exit_threshold": 0.007982613171804402
+    },
+    {
+        "returns": -23.258457960087753,
+        "ema_span": 93,
+        "sma_window": 93,
+        "position_size": 1,
+        "ema_entry_threshold": 0.131101674357748,
+        "ema_exit_threshold": 0.0179186609493428
+    },
+    {
+        "returns": -205.6761319181728,
+        "ema_span": 77,
+        "sma_window": 77,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1436911147314315,
+        "ema_exit_threshold": -0.018813524357633966
+    },
+    {
+        "returns": -711.0786186012347,
+        "ema_span": 58,
+        "sma_window": 58,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07666765672575852,
+        "ema_exit_threshold": 0.0028154794061534655
+    },
+    {
+        "returns": -770.7800763512494,
+        "ema_span": 75,
+        "sma_window": 75,
+        "position_size": 1,
+        "ema_entry_threshold": 0.048552479498285894,
+        "ema_exit_threshold": -0.0095174350382558
+    },
+    {
+        "returns": -652.9018350883068,
+        "ema_span": 99,
+        "sma_window": 99,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03307594667527385,
+        "ema_exit_threshold": -0.015612422387475879
+    },
+    {
+        "returns": -1294.653788490438,
+        "ema_span": 54,
+        "sma_window": 54,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03845612713996129,
+        "ema_exit_threshold": -0.005711587211663007
+    },
+    {
+        "returns": -1972.6985534564706,
+        "ema_span": 26,
+        "sma_window": 26,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04909180678640668,
+        "ema_exit_threshold": 0.004887630053520991
+    },
+    {
+        "returns": -647.1083845507248,
+        "ema_span": 58,
+        "sma_window": 58,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08197370778920261,
+        "ema_exit_threshold": 0.013598542547673382
+    },
+    {
+        "returns": -793.9150832872265,
+        "ema_span": 44,
+        "sma_window": 44,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08608792500137459,
+        "ema_exit_threshold": -0.004056477952920733
+    },
+    {
+        "returns": -244.41791084298507,
+        "ema_span": 81,
+        "sma_window": 81,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0978369596231598,
+        "ema_exit_threshold": -0.019582697592815425
+    },
+    {
+        "returns": -142.85763015612224,
+        "ema_span": 99,
+        "sma_window": 99,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07571804342576798,
+        "ema_exit_threshold": 0.00264199321487
+    },
+    {
+        "returns": -2355.716207768348,
+        "ema_span": 25,
+        "sma_window": 25,
+        "position_size": 1,
+        "ema_entry_threshold": 0.036565246847036825,
+        "ema_exit_threshold": 0.004363796225950774
+    },
+    {
+        "returns": -1031.3059856633158,
+        "ema_span": 67,
+        "sma_window": 67,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03473610782692078,
+        "ema_exit_threshold": 0.014402425128993153
+    },
+    {
+        "returns": -1749.0060345267586,
+        "ema_span": 30,
+        "sma_window": 30,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05257289046812657,
+        "ema_exit_threshold": -0.016368452710998165
+    },
+    {
+        "returns": -739.353889502041,
+        "ema_span": 69,
+        "sma_window": 69,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05764760545453645,
+        "ema_exit_threshold": 0.011106742012885033
+    },
+    {
+        "returns": -566.9404099286742,
+        "ema_span": 54,
+        "sma_window": 54,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09810045257005227,
+        "ema_exit_threshold": 0.012238808036317852
+    },
+    {
+        "returns": -727.1565892627691,
+        "ema_span": 72,
+        "sma_window": 72,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05626061244092413,
+        "ema_exit_threshold": 0.0033702726143474025
+    },
+    {
+        "returns": -277.557004470126,
+        "ema_span": 95,
+        "sma_window": 95,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0596871961414463,
+        "ema_exit_threshold": -0.015372036762346528
+    },
+    {
+        "returns": -1435.7144007691202,
+        "ema_span": 39,
+        "sma_window": 39,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04532459981661344,
+        "ema_exit_threshold": -0.003697726288196757
+    },
+    {
+        "returns": -325.0507615641859,
+        "ema_span": 49,
+        "sma_window": 49,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1308451699202749,
+        "ema_exit_threshold": 0.009926100520744262
+    },
+    {
+        "returns": -1597.519356325451,
+        "ema_span": 32,
+        "sma_window": 32,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0478692901093911,
+        "ema_exit_threshold": -0.0009064154751396667
+    },
+    {
+        "returns": -2869.729492596366,
+        "ema_span": 18,
+        "sma_window": 18,
+        "position_size": 1,
+        "ema_entry_threshold": 0.047034781620548555,
+        "ema_exit_threshold": 0.01405693621074342
+    },
+    {
+        "returns": -280.7065469697311,
+        "ema_span": 71,
+        "sma_window": 71,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12031228340813369,
+        "ema_exit_threshold": -0.012752162684789565
+    },
+    {
+        "returns": -44.31411825790133,
+        "ema_span": 93,
+        "sma_window": 93,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14554228716700895,
+        "ema_exit_threshold": -0.0022610273873879447
+    },
+    {
+        "returns": -391.60543946109624,
+        "ema_span": 68,
+        "sma_window": 68,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09753132488555004,
+        "ema_exit_threshold": 0.0007984792705439114
+    },
+    {
+        "returns": -723.0813037085404,
+        "ema_span": 69,
+        "sma_window": 69,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05832905893356013,
+        "ema_exit_threshold": -0.00990951533241766
+    },
+    {
+        "returns": -227.23376804290592,
+        "ema_span": 78,
+        "sma_window": 78,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11774128780230718,
+        "ema_exit_threshold": -0.012215379501083687
+    },
+    {
+        "returns": -2372.795649356878,
+        "ema_span": 17,
+        "sma_window": 17,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0917295733343492,
+        "ema_exit_threshold": -0.018550135949431355
+    },
+    {
+        "returns": -928.5917954321408,
+        "ema_span": 29,
+        "sma_window": 29,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11922613259800399,
+        "ema_exit_threshold": 0.007511374181756181
+    },
+    {
+        "returns": -504.7076900648419,
+        "ema_span": 89,
+        "sma_window": 89,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04100168880286627,
+        "ema_exit_threshold": 0.00248756799096042
+    },
+    {
+        "returns": -2029.099969561608,
+        "ema_span": 30,
+        "sma_window": 30,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04487817201887176,
+        "ema_exit_threshold": -0.019895351650951562
+    },
+    {
+        "returns": -1440.9927522302366,
+        "ema_span": 43,
+        "sma_window": 43,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04512638115709555,
+        "ema_exit_threshold": -0.019500708449662348
+    },
+    {
+        "returns": -917.6116966998648,
+        "ema_span": 62,
+        "sma_window": 62,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05132153996818738,
+        "ema_exit_threshold": 0.00474455085659576
+    },
+    {
+        "returns": -735.9352751351519,
+        "ema_span": 48,
+        "sma_window": 48,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08627709572449432,
+        "ema_exit_threshold": 0.004512145974528296
+    },
+    {
+        "returns": -1029.681540498435,
+        "ema_span": 24,
+        "sma_window": 24,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13814860572999613,
+        "ema_exit_threshold": 0.010315136990619339
+    },
+    {
+        "returns": -100.85430096660707,
+        "ema_span": 91,
+        "sma_window": 91,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08018975023199033,
+        "ema_exit_threshold": 0.013252377461811102
+    },
+    {
+        "returns": -1414.8765893579082,
+        "ema_span": 38,
+        "sma_window": 38,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0447596985437821,
+        "ema_exit_threshold": 0.016230322866365044
+    },
+    {
+        "returns": -2344.251343923217,
+        "ema_span": 25,
+        "sma_window": 25,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04186426175821983,
+        "ema_exit_threshold": -0.004335295860780213
+    },
+    {
+        "returns": -670.8201391002963,
+        "ema_span": 93,
+        "sma_window": 93,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03193303830864857,
+        "ema_exit_threshold": -0.012756624658054024
+    },
+    {
+        "returns": -1229.5068485823303,
+        "ema_span": 46,
+        "sma_window": 46,
+        "position_size": 1,
+        "ema_entry_threshold": 0.049848833040678046,
+        "ema_exit_threshold": 0.00738986117188986
+    },
+    {
+        "returns": -859.130932976107,
+        "ema_span": 45,
+        "sma_window": 45,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07676429007792014,
+        "ema_exit_threshold": -0.015112204374847974
+    },
+    {
+        "returns": -793.6634767119149,
+        "ema_span": 28,
+        "sma_window": 28,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1376270879957317,
+        "ema_exit_threshold": 0.009731564484723669
+    },
+    {
+        "returns": -394.31877034689114,
+        "ema_span": 60,
+        "sma_window": 60,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10894314961146354,
+        "ema_exit_threshold": 0.0067944337761449754
+    },
+    {
+        "returns": -1511.7530178703107,
+        "ema_span": 24,
+        "sma_window": 24,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09368475014602748,
+        "ema_exit_threshold": -0.010581083007453635
+    },
+    {
+        "returns": -326.19625650085027,
+        "ema_span": 73,
+        "sma_window": 73,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09730507778498115,
+        "ema_exit_threshold": -0.00218298318711009
+    },
+    {
+        "returns": -264.6446364071601,
+        "ema_span": 73,
+        "sma_window": 73,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11569160350640645,
+        "ema_exit_threshold": 0.014467935611609908
+    },
+    {
+        "returns": -275.373693465011,
+        "ema_span": 47,
+        "sma_window": 47,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14143361163816728,
+        "ema_exit_threshold": -0.013275757557927082
+    },
+    {
+        "returns": -639.0734365246635,
+        "ema_span": 59,
+        "sma_window": 59,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07552474261973312,
+        "ema_exit_threshold": -0.01969701028925733
+    },
+    {
+        "returns": -384.788301001189,
+        "ema_span": 52,
+        "sma_window": 52,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11744771804921364,
+        "ema_exit_threshold": 0.011924991437361206
+    },
+    {
+        "returns": -306.6000473146928,
+        "ema_span": 75,
+        "sma_window": 75,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09520989548507801,
+        "ema_exit_threshold": 0.009284708087483138
+    },
+    {
+        "returns": -1374.5338986217616,
+        "ema_span": 36,
+        "sma_window": 36,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0584920843025397,
+        "ema_exit_threshold": -0.019465207527082255
+    },
+    {
+        "returns": -360.39860796164385,
+        "ema_span": 90,
+        "sma_window": 90,
+        "position_size": 1,
+        "ema_entry_threshold": 0.052861097530178404,
+        "ema_exit_threshold": 0.007862500537161456
+    },
+    {
+        "returns": -2381.5975705678206,
+        "ema_span": 17,
+        "sma_window": 17,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08653013475509135,
+        "ema_exit_threshold": 0.0024057424104639547
+    },
+    {
+        "returns": -962.1776829814751,
+        "ema_span": 40,
+        "sma_window": 40,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07445873976275182,
+        "ema_exit_threshold": -0.006737389187843689
+    },
+    {
+        "returns": -82.33194804508344,
+        "ema_span": 87,
+        "sma_window": 87,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1444064831254795,
+        "ema_exit_threshold": -0.015577107938667657
+    },
+    {
+        "returns": -1078.2328201141668,
+        "ema_span": 28,
+        "sma_window": 28,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10532897307032671,
+        "ema_exit_threshold": 0.0060077847472614476
+    },
+    {
+        "returns": -596.3401885755543,
+        "ema_span": 87,
+        "sma_window": 87,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03551607720491903,
+        "ema_exit_threshold": 0.012593397242935333
+    },
+    {
+        "returns": -821.6187389833922,
+        "ema_span": 70,
+        "sma_window": 70,
+        "position_size": 1,
+        "ema_entry_threshold": 0.048744859012363057,
+        "ema_exit_threshold": 0.013089503467067469
+    },
+    {
+        "returns": -217.09344176955096,
+        "ema_span": 86,
+        "sma_window": 86,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07225960963210326,
+        "ema_exit_threshold": -0.002332371332057583
+    },
+    {
+        "returns": -59.948777994761485,
+        "ema_span": 86,
+        "sma_window": 86,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13510571901109253,
+        "ema_exit_threshold": -0.01302451902289699
+    },
+    {
+        "returns": -315.2853449006932,
+        "ema_span": 70,
+        "sma_window": 70,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11059737907574475,
+        "ema_exit_threshold": -0.0016079640594086396
+    },
+    {
+        "returns": -231.0514021641343,
+        "ema_span": 73,
+        "sma_window": 73,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14927388634741662,
+        "ema_exit_threshold": -0.004398058008978343
+    },
+    {
+        "returns": -142.7422969886993,
+        "ema_span": 83,
+        "sma_window": 83,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13570667500058417,
+        "ema_exit_threshold": -0.01739540933553581
+    },
+    {
+        "returns": -89.02563509386641,
+        "ema_span": 88,
+        "sma_window": 88,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09938431293406587,
+        "ema_exit_threshold": -0.0036346267554449954
+    },
+    {
+        "returns": -869.72040049939,
+        "ema_span": 70,
+        "sma_window": 70,
+        "position_size": 1,
+        "ema_entry_threshold": 0.046651881687487066,
+        "ema_exit_threshold": 0.0006299981829900478
+    },
+    {
+        "returns": -606.0789589964356,
+        "ema_span": 61,
+        "sma_window": 61,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07808435266450324,
+        "ema_exit_threshold": 0.014083290669218792
+    },
+    {
+        "returns": -2751.4439632389876,
+        "ema_span": 19,
+        "sma_window": 19,
+        "position_size": 1,
+        "ema_entry_threshold": 0.058442244678103744,
+        "ema_exit_threshold": -0.008939593915393096
+    },
+    {
+        "returns": -553.9292215474618,
+        "ema_span": 54,
+        "sma_window": 54,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0978640640886916,
+        "ema_exit_threshold": -0.0012087215600638226
+    },
+    {
+        "returns": -58.94933900911883,
+        "ema_span": 97,
+        "sma_window": 97,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10333229999079066,
+        "ema_exit_threshold": 0.007230742604616451
+    },
+    {
+        "returns": -2215.327631013655,
+        "ema_span": 18,
+        "sma_window": 18,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08730561852839722,
+        "ema_exit_threshold": 0.0166968937476761
+    },
+    {
+        "returns": -471.6858980236798,
+        "ema_span": 53,
+        "sma_window": 53,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10326459517422981,
+        "ema_exit_threshold": -0.012389599444789602
+    },
+    {
+        "returns": -1663.557145872359,
+        "ema_span": 21,
+        "sma_window": 21,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10555103957826162,
+        "ema_exit_threshold": -0.006392191465526998
+    },
+    {
+        "returns": -67.13673031394933,
+        "ema_span": 99,
+        "sma_window": 99,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09692899086183417,
+        "ema_exit_threshold": -0.003474631855697953
+    },
+    {
+        "returns": -424.98334045914135,
+        "ema_span": 92,
+        "sma_window": 92,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04773100368895378,
+        "ema_exit_threshold": 0.003893145314227715
+    },
+    {
+        "returns": -1844.534700965412,
+        "ema_span": 32,
+        "sma_window": 32,
+        "position_size": 1,
+        "ema_entry_threshold": 0.030884094818254004,
+        "ema_exit_threshold": 0.013656389071003725
+    },
+    {
+        "returns": -177.99553491066968,
+        "ema_span": 93,
+        "sma_window": 93,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06856953831427864,
+        "ema_exit_threshold": 0.002686664911351439
+    },
+    {
+        "returns": -857.7646269915156,
+        "ema_span": 68,
+        "sma_window": 68,
+        "position_size": 1,
+        "ema_entry_threshold": 0.051296972936847936,
+        "ema_exit_threshold": 0.002179727697614864
+    },
+    {
+        "returns": -1269.822006787951,
+        "ema_span": 56,
+        "sma_window": 56,
+        "position_size": 1,
+        "ema_entry_threshold": 0.034883016310404656,
+        "ema_exit_threshold": 0.01161391932140577
+    },
+    {
+        "returns": -214.55368497774793,
+        "ema_span": 78,
+        "sma_window": 78,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1166262652813316,
+        "ema_exit_threshold": 0.003396258328834433
+    },
+    {
+        "returns": -284.49254454603806,
+        "ema_span": 84,
+        "sma_window": 84,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07783019166929007,
+        "ema_exit_threshold": -0.015833933110988633
+    },
+    {
+        "returns": -603.3943997186141,
+        "ema_span": 65,
+        "sma_window": 65,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07358012214301499,
+        "ema_exit_threshold": 0.01874102427011332
+    },
+    {
+        "returns": -182.39993244820653,
+        "ema_span": 97,
+        "sma_window": 97,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06553966039172231,
+        "ema_exit_threshold": 0.007043608699951524
+    },
+    {
+        "returns": -3264.38824610683,
+        "ema_span": 18,
+        "sma_window": 18,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03156073478160431,
+        "ema_exit_threshold": 0.008025357499614302
+    },
+    {
+        "returns": -493.711239137185,
+        "ema_span": 97,
+        "sma_window": 97,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04363898200965031,
+        "ema_exit_threshold": -0.012180311937148984
+    },
+    {
+        "returns": -253.31967078136927,
+        "ema_span": 79,
+        "sma_window": 79,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08999459436086603,
+        "ema_exit_threshold": 0.00654180017343475
+    },
+    {
+        "returns": -88.23507233757846,
+        "ema_span": 92,
+        "sma_window": 92,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08162797866693315,
+        "ema_exit_threshold": 0.016605046705657232
+    },
+    {
+        "returns": -144.25645524401557,
+        "ema_span": 93,
+        "sma_window": 93,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07309437718478973,
+        "ema_exit_threshold": -0.00017385672260909714
+    },
+    {
+        "returns": -1402.5764697647412,
+        "ema_span": 23,
+        "sma_window": 23,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11057520421199517,
+        "ema_exit_threshold": -0.0020731522651240082
+    },
+    {
+        "returns": -2068.2293612855337,
+        "ema_span": 15,
+        "sma_window": 15,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1299462237608124,
+        "ema_exit_threshold": -0.0070548587368903255
+    },
+    {
+        "returns": -848.4942508193849,
+        "ema_span": 48,
+        "sma_window": 48,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07906520887765964,
+        "ema_exit_threshold": 0.008958185345632488
+    },
+    {
+        "returns": -1015.4732011481703,
+        "ema_span": 41,
+        "sma_window": 41,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06823267706673351,
+        "ema_exit_threshold": -0.006118401385005437
+    },
+    {
+        "returns": -527.678901899335,
+        "ema_span": 37,
+        "sma_window": 37,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13791753475109583,
+        "ema_exit_threshold": 0.009402177712257362
+    },
+    {
+        "returns": -277.7964468485534,
+        "ema_span": 93,
+        "sma_window": 93,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06042000340694248,
+        "ema_exit_threshold": 0.0018272549997011322
+    },
+    {
+        "returns": -1300.3740671024182,
+        "ema_span": 53,
+        "sma_window": 53,
+        "position_size": 1,
+        "ema_entry_threshold": 0.038494232150605455,
+        "ema_exit_threshold": -0.007155567349259175
+    },
+    {
+        "returns": -215.892737889209,
+        "ema_span": 77,
+        "sma_window": 77,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12924220813588025,
+        "ema_exit_threshold": -0.010830803753126903
+    },
+    {
+        "returns": -1529.8667590248551,
+        "ema_span": 23,
+        "sma_window": 23,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09893208399676016,
+        "ema_exit_threshold": 0.009141105576937
+    },
+    {
+        "returns": -105.51208878552416,
+        "ema_span": 99,
+        "sma_window": 99,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14985045705946312,
+        "ema_exit_threshold": -0.0007918652043024384
+    },
+    {
+        "returns": -729.1315403357555,
+        "ema_span": 40,
+        "sma_window": 40,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09795586371149133,
+        "ema_exit_threshold": -0.012136464147129806
+    },
+    {
+        "returns": -1151.7447874469594,
+        "ema_span": 24,
+        "sma_window": 24,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1213363739851608,
+        "ema_exit_threshold": -0.0060701838497199505
+    },
+    {
+        "returns": -570.190376724895,
+        "ema_span": 68,
+        "sma_window": 68,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07298047507394519,
+        "ema_exit_threshold": 0.01353629938158273
+    },
+    {
+        "returns": -880.5486580387471,
+        "ema_span": 33,
+        "sma_window": 33,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10756354663284079,
+        "ema_exit_threshold": -0.007028851646962541
+    },
+    {
+        "returns": -1274.2893047844257,
+        "ema_span": 44,
+        "sma_window": 44,
+        "position_size": 1,
+        "ema_entry_threshold": 0.046933820419035314,
+        "ema_exit_threshold": 0.0013076554763510357
+    },
+    {
+        "returns": -389.6480685276106,
+        "ema_span": 40,
+        "sma_window": 40,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13853257691781926,
+        "ema_exit_threshold": -0.01107055354597155
+    },
+    {
+        "returns": -260.27579871996454,
+        "ema_span": 70,
+        "sma_window": 70,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13245321071059152,
+        "ema_exit_threshold": -0.004860424018179392
+    },
+    {
+        "returns": -425.1065288782213,
+        "ema_span": 69,
+        "sma_window": 69,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09037400999950149,
+        "ema_exit_threshold": -0.013370812173372094
+    },
+    {
+        "returns": -1100.421959988485,
+        "ema_span": 52,
+        "sma_window": 52,
+        "position_size": 1,
+        "ema_entry_threshold": 0.051274688754383756,
+        "ema_exit_threshold": 0.007456515351865663
+    },
+    {
+        "returns": -446.2463069284686,
+        "ema_span": 83,
+        "sma_window": 83,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05892957027477898,
+        "ema_exit_threshold": 0.012532682599113953
+    },
+    {
+        "returns": -820.4492644518875,
+        "ema_span": 73,
+        "sma_window": 73,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04715007949434607,
+        "ema_exit_threshold": 0.0027139933277120134
+    },
+    {
+        "returns": -1798.9828915463017,
+        "ema_span": 23,
+        "sma_window": 23,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08187361800173984,
+        "ema_exit_threshold": -0.005911372819268009
+    },
+    {
+        "returns": -324.36637762487453,
+        "ema_span": 53,
+        "sma_window": 53,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12727148590471404,
+        "ema_exit_threshold": 0.0038416580281249884
+    },
+    {
+        "returns": -965.1491124320542,
+        "ema_span": 43,
+        "sma_window": 43,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06977788444664274,
+        "ema_exit_threshold": -0.0024457777531915544
+    },
+    {
+        "returns": -22.589299625260537,
+        "ema_span": 99,
+        "sma_window": 99,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11265234383291878,
+        "ema_exit_threshold": 0.0019059495345742522
+    },
+    {
+        "returns": -980.2972562639729,
+        "ema_span": 47,
+        "sma_window": 47,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06889904957329872,
+        "ema_exit_threshold": 0.014196303983318894
+    },
+    {
+        "returns": -509.8434053447188,
+        "ema_span": 94,
+        "sma_window": 94,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03788619063084916,
+        "ema_exit_threshold": 0.014969215374332084
+    },
+    {
+        "returns": -1497.1083637011643,
+        "ema_span": 34,
+        "sma_window": 34,
+        "position_size": 1,
+        "ema_entry_threshold": 0.046603261547581515,
+        "ema_exit_threshold": 0.008191537922549789
+    },
+    {
+        "returns": -720.515676315985,
+        "ema_span": 42,
+        "sma_window": 42,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09553232385828961,
+        "ema_exit_threshold": -0.007090861315164709
+    },
+    {
+        "returns": -420.1093950373013,
+        "ema_span": 82,
+        "sma_window": 82,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06400865885377427,
+        "ema_exit_threshold": 0.012434141714427669
+    },
+    {
+        "returns": -331.2470669551187,
+        "ema_span": 64,
+        "sma_window": 64,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11385885076743242,
+        "ema_exit_threshold": 0.016882228877089483
+    },
+    {
+        "returns": -310.86973279422114,
+        "ema_span": 48,
+        "sma_window": 48,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1352438008422599,
+        "ema_exit_threshold": -0.008179638205449043
+    },
+    {
+        "returns": -1386.198473122562,
+        "ema_span": 47,
+        "sma_window": 47,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03880015946805608,
+        "ema_exit_threshold": 0.0016983958850271647
+    },
+    {
+        "returns": -2088.496710634311,
+        "ema_span": 18,
+        "sma_window": 18,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10020761113352122,
+        "ema_exit_threshold": -0.01771389795634239
+    },
+    {
+        "returns": -144.20250994021535,
+        "ema_span": 98,
+        "sma_window": 98,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0708322861443673,
+        "ema_exit_threshold": 0.015290774981281287
+    },
+    {
+        "returns": -540.7136788307037,
+        "ema_span": 87,
+        "sma_window": 87,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04417220185840651,
+        "ema_exit_threshold": -0.008352811568850782
+    },
+    {
+        "returns": -898.6576437348617,
+        "ema_span": 31,
+        "sma_window": 31,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10796600403100692,
+        "ema_exit_threshold": -0.014744207034729432
+    },
+    {
+        "returns": -1119.2074677272142,
+        "ema_span": 42,
+        "sma_window": 42,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06105599640597392,
+        "ema_exit_threshold": 0.0021160172494787614
+    },
+    {
+        "returns": -651.9279451206987,
+        "ema_span": 30,
+        "sma_window": 30,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14857103789588544,
+        "ema_exit_threshold": 0.0028707616452629398
+    },
+    {
+        "returns": -974.6882060248756,
+        "ema_span": 55,
+        "sma_window": 55,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05883181659596153,
+        "ema_exit_threshold": 0.006673263816783358
+    },
+    {
+        "returns": -247.6771387625099,
+        "ema_span": 71,
+        "sma_window": 71,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14040576787008174,
+        "ema_exit_threshold": 0.018825550092487334
+    },
+    {
+        "returns": -590.608352625236,
+        "ema_span": 32,
+        "sma_window": 32,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14690226559568395,
+        "ema_exit_threshold": -0.014123619937554793
+    },
+    {
+        "returns": -413.94317585029876,
+        "ema_span": 48,
+        "sma_window": 48,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12056311350881703,
+        "ema_exit_threshold": 0.004210382149641454
+    },
+    {
+        "returns": -850.3976231236893,
+        "ema_span": 63,
+        "sma_window": 63,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05442043225517055,
+        "ema_exit_threshold": -0.005901942275749841
+    },
+    {
+        "returns": -380.8269985723816,
+        "ema_span": 74,
+        "sma_window": 74,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08791392718249653,
+        "ema_exit_threshold": -0.01753321612802854
+    },
+    {
+        "returns": -2021.4130790551176,
+        "ema_span": 18,
+        "sma_window": 18,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10276959442002735,
+        "ema_exit_threshold": 0.007947166921438022
+    },
+    {
+        "returns": -372.430469325981,
+        "ema_span": 73,
+        "sma_window": 73,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08959110920707909,
+        "ema_exit_threshold": -0.012429214251361058
+    },
+    {
+        "returns": -790.3691022221121,
+        "ema_span": 27,
+        "sma_window": 27,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14331731070053547,
+        "ema_exit_threshold": -0.0003199603922481753
+    },
+    {
+        "returns": -10.755601325797215,
+        "ema_span": 92,
+        "sma_window": 92,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11680530550631663,
+        "ema_exit_threshold": -0.008466934801044664
+    },
+    {
+        "returns": -295.3575814924516,
+        "ema_span": 85,
+        "sma_window": 85,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0659552764684668,
+        "ema_exit_threshold": -0.0004124619563565139
+    },
+    {
+        "returns": -1084.4407453834515,
+        "ema_span": 28,
+        "sma_window": 28,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10289011459167156,
+        "ema_exit_threshold": -0.01572285966877171
+    },
+    {
+        "returns": -2290.4966163664585,
+        "ema_span": 25,
+        "sma_window": 25,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03369843852234801,
+        "ema_exit_threshold": 0.01657028071032814
+    },
+    {
+        "returns": -746.7250139632661,
+        "ema_span": 46,
+        "sma_window": 46,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09205263647720574,
+        "ema_exit_threshold": 0.013673242804385647
+    },
+    {
+        "returns": -72.70635381788543,
+        "ema_span": 87,
+        "sma_window": 87,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11931134566557022,
+        "ema_exit_threshold": -0.00021759611063705753
+    },
+    {
+        "returns": -1371.9494247848736,
+        "ema_span": 55,
+        "sma_window": 55,
+        "position_size": 1,
+        "ema_entry_threshold": 0.031427877543488095,
+        "ema_exit_threshold": 0.007948822214561925
+    },
+    {
+        "returns": -1382.4145765036508,
+        "ema_span": 26,
+        "sma_window": 26,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08558981497672219,
+        "ema_exit_threshold": 0.013260783778238826
+    },
+    {
+        "returns": -45.35502489965552,
+        "ema_span": 96,
+        "sma_window": 96,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12532116490818332,
+        "ema_exit_threshold": -0.019713610744848804
+    },
+    {
+        "returns": -885.3356126254478,
+        "ema_span": 36,
+        "sma_window": 36,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09931076013059398,
+        "ema_exit_threshold": 0.003122360768784458
+    },
+    {
+        "returns": -19.282911285196633,
+        "ema_span": 99,
+        "sma_window": 99,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10996446007945068,
+        "ema_exit_threshold": 0.007243582384315822
+    },
+    {
+        "returns": -94.56491953219711,
+        "ema_span": 88,
+        "sma_window": 88,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09940416512283094,
+        "ema_exit_threshold": -0.01159675258439436
+    },
+    {
+        "returns": -229.35743396462522,
+        "ema_span": 64,
+        "sma_window": 64,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14736317798038384,
+        "ema_exit_threshold": 0.0022571017620303326
+    },
+    {
+        "returns": -841.7707653740019,
+        "ema_span": 48,
+        "sma_window": 48,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07727721427775966,
+        "ema_exit_threshold": -0.0026568092183408003
+    },
+    {
+        "returns": -823.9254839352914,
+        "ema_span": 47,
+        "sma_window": 47,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0831397313528809,
+        "ema_exit_threshold": 0.004090479782426191
+    },
+    {
+        "returns": -26.93727191142966,
+        "ema_span": 99,
+        "sma_window": 99,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10559806601663718,
+        "ema_exit_threshold": -0.012473028648483916
+    },
+    {
+        "returns": -496.53680741682615,
+        "ema_span": 94,
+        "sma_window": 94,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04259806661702872,
+        "ema_exit_threshold": -0.004170799021573627
+    },
+    {
+        "returns": -462.81348422099177,
+        "ema_span": 63,
+        "sma_window": 63,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09374008457904211,
+        "ema_exit_threshold": -0.005341105730975903
+    },
+    {
+        "returns": -2512.68106224077,
+        "ema_span": 21,
+        "sma_window": 21,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06167272055937121,
+        "ema_exit_threshold": -0.016256797789013268
+    },
+    {
+        "returns": -366.92586527052845,
+        "ema_span": 50,
+        "sma_window": 50,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12246274301131338,
+        "ema_exit_threshold": -0.006851502884834542
+    },
+    {
+        "returns": -2696.6375677885744,
+        "ema_span": 20,
+        "sma_window": 20,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05289135221011286,
+        "ema_exit_threshold": -0.001490755689078748
+    },
+    {
+        "returns": -989.7882161955511,
+        "ema_span": 33,
+        "sma_window": 33,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09262160729526124,
+        "ema_exit_threshold": 0.00321643924306122
+    },
+    {
+        "returns": -396.9260292274139,
+        "ema_span": 77,
+        "sma_window": 77,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0793656915747241,
+        "ema_exit_threshold": -0.009767998455482074
+    },
+    {
+        "returns": -450.81099210957836,
+        "ema_span": 39,
+        "sma_window": 39,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1397840323503647,
+        "ema_exit_threshold": 0.011182326697125565
+    },
+    {
+        "returns": -938.6116760803275,
+        "ema_span": 35,
+        "sma_window": 35,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09654704923987883,
+        "ema_exit_threshold": 0.004850632337557166
+    },
+    {
+        "returns": -1254.5639631467518,
+        "ema_span": 26,
+        "sma_window": 26,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09863515747891824,
+        "ema_exit_threshold": -0.0166151628536876
+    },
+    {
+        "returns": -513.2310977112979,
+        "ema_span": 64,
+        "sma_window": 64,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08167934566399083,
+        "ema_exit_threshold": -0.01655214158639785
+    },
+    {
+        "returns": -952.1732091002079,
+        "ema_span": 37,
+        "sma_window": 37,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08921536193317375,
+        "ema_exit_threshold": 0.009596479513557469
+    },
+    {
+        "returns": -838.3278762962593,
+        "ema_span": 42,
+        "sma_window": 42,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08843095036295273,
+        "ema_exit_threshold": 0.009429523543105917
+    },
+    {
+        "returns": -600.226641103367,
+        "ema_span": 80,
+        "sma_window": 80,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05366627769376143,
+        "ema_exit_threshold": -0.017179410372807524
+    },
+    {
+        "returns": -660.6488511991909,
+        "ema_span": 64,
+        "sma_window": 64,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07011830132009186,
+        "ema_exit_threshold": -0.007993635157031834
+    },
+    {
+        "returns": -319.2400848673333,
+        "ema_span": 55,
+        "sma_window": 55,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13558405898064893,
+        "ema_exit_threshold": 0.0051056981266349825
+    },
+    {
+        "returns": -69.007333345603,
+        "ema_span": 86,
+        "sma_window": 86,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11734514473848941,
+        "ema_exit_threshold": 0.010002681951045785
+    },
+    {
+        "returns": -285.2833056811801,
+        "ema_span": 72,
+        "sma_window": 72,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11752371889444067,
+        "ema_exit_threshold": 0.0009221485938767622
+    },
+    {
+        "returns": -1115.403507445006,
+        "ema_span": 22,
+        "sma_window": 22,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1468922568694298,
+        "ema_exit_threshold": -0.0008960571993363755
+    },
+    {
+        "returns": -698.8112253786194,
+        "ema_span": 78,
+        "sma_window": 78,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04587872549255698,
+        "ema_exit_threshold": 0.0068876990346607376
+    },
+    {
+        "returns": -139.5355918432383,
+        "ema_span": 84,
+        "sma_window": 84,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11037067136490486,
+        "ema_exit_threshold": 0.012101002829171169
+    },
+    {
+        "returns": -55.25084640496948,
+        "ema_span": 90,
+        "sma_window": 90,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1016249977352275,
+        "ema_exit_threshold": 0.015679190828451078
+    },
+    {
+        "returns": -215.67336457777265,
+        "ema_span": 75,
+        "sma_window": 75,
+        "position_size": 1,
+        "ema_entry_threshold": 0.149818901296446,
+        "ema_exit_threshold": -0.01931619316398463
+    },
+    {
+        "returns": -1189.8444311477372,
+        "ema_span": 26,
+        "sma_window": 26,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10394301017481684,
+        "ema_exit_threshold": -0.019935418230232232
+    },
+    {
+        "returns": -492.7899300639965,
+        "ema_span": 43,
+        "sma_window": 43,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11389089768489397,
+        "ema_exit_threshold": -0.01800841477480244
+    },
+    {
+        "returns": -1116.1589440645223,
+        "ema_span": 41,
+        "sma_window": 41,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0610754025090253,
+        "ema_exit_threshold": -0.010717912218178
+    },
+    {
+        "returns": -1020.6688470963074,
+        "ema_span": 57,
+        "sma_window": 57,
+        "position_size": 1,
+        "ema_entry_threshold": 0.051276688589484296,
+        "ema_exit_threshold": 0.01537266853828032
+    },
+    {
+        "returns": -250.9414572422245,
+        "ema_span": 68,
+        "sma_window": 68,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12659489984792247,
+        "ema_exit_threshold": 0.001777719661965825
+    },
+    {
+        "returns": -202.07482045307688,
+        "ema_span": 80,
+        "sma_window": 80,
+        "position_size": 1,
+        "ema_entry_threshold": 0.111602547211977,
+        "ema_exit_threshold": 0.0016964513177702637
+    },
+    {
+        "returns": -1459.5088760103254,
+        "ema_span": 43,
+        "sma_window": 43,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03507663828382812,
+        "ema_exit_threshold": 0.009859796014064115
+    },
+    {
+        "returns": -1632.9973780455466,
+        "ema_span": 27,
+        "sma_window": 27,
+        "position_size": 1,
+        "ema_entry_threshold": 0.0694558401769403,
+        "ema_exit_threshold": -0.014882715824821932
+    },
+    {
+        "returns": -256.03296832282786,
+        "ema_span": 49,
+        "sma_window": 49,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14411782422384672,
+        "ema_exit_threshold": 0.012068270981446963
+    },
+    {
+        "returns": -1850.1397925267365,
+        "ema_span": 33,
+        "sma_window": 33,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03647718983551695,
+        "ema_exit_threshold": -0.0040258095604507995
+    },
+    {
+        "returns": -545.5176491436596,
+        "ema_span": 87,
+        "sma_window": 87,
+        "position_size": 1,
+        "ema_entry_threshold": 0.043609356951937635,
+        "ema_exit_threshold": 0.00014552999842332514
+    },
+    {
+        "returns": -680.2354454251977,
+        "ema_span": 77,
+        "sma_window": 77,
+        "position_size": 1,
+        "ema_entry_threshold": 0.048742099504149025,
+        "ema_exit_threshold": 0.013578393047630763
+    },
+    {
+        "returns": -19.452741611358533,
+        "ema_span": 89,
+        "sma_window": 89,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13162079106518898,
+        "ema_exit_threshold": 0.0012315389695561987
+    },
+    {
+        "returns": -344.61036003832874,
+        "ema_span": 73,
+        "sma_window": 73,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09879160522507968,
+        "ema_exit_threshold": -0.018563574273058905
+    },
+    {
+        "returns": -1447.1252214235387,
+        "ema_span": 35,
+        "sma_window": 35,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04575265879387954,
+        "ema_exit_threshold": 0.017745433535305225
+    },
+    {
+        "returns": -244.78928257707003,
+        "ema_span": 79,
+        "sma_window": 79,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10216918449714356,
+        "ema_exit_threshold": -0.01069137666803852
+    },
+    {
+        "returns": -1842.482128910843,
+        "ema_span": 23,
+        "sma_window": 23,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08117688812263193,
+        "ema_exit_threshold": -0.013627752209124409
+    },
+    {
+        "returns": -2094.78570032882,
+        "ema_span": 22,
+        "sma_window": 22,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07430377896646717,
+        "ema_exit_threshold": -0.0160194482989298
+    },
+    {
+        "returns": -1463.3257248825566,
+        "ema_span": 23,
+        "sma_window": 23,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10686783726201585,
+        "ema_exit_threshold": 0.017422699871647768
+    },
+    {
+        "returns": -1983.4069929719917,
+        "ema_span": 25,
+        "sma_window": 25,
+        "position_size": 1,
+        "ema_entry_threshold": 0.05529410283925156,
+        "ema_exit_threshold": -0.0008898070230494548
+    },
+    {
+        "returns": -2193.552276084014,
+        "ema_span": 30,
+        "sma_window": 30,
+        "position_size": 1,
+        "ema_entry_threshold": 0.03143159825450513,
+        "ema_exit_threshold": -0.00822926428699484
+    },
+    {
+        "returns": -47.388586992699175,
+        "ema_span": 93,
+        "sma_window": 93,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10062813772558371,
+        "ema_exit_threshold": 0.01582902862274631
+    },
+    {
+        "returns": -418.527078743218,
+        "ema_span": 47,
+        "sma_window": 47,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11951610829926895,
+        "ema_exit_threshold": -0.009888033322724978
+    },
+    {
+        "returns": -238.84808056952784,
+        "ema_span": 72,
+        "sma_window": 72,
+        "position_size": 1,
+        "ema_entry_threshold": 0.14330115839152527,
+        "ema_exit_threshold": -0.018211990544200737
+    },
+    {
+        "returns": -362.9605101260295,
+        "ema_span": 82,
+        "sma_window": 82,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07046514854786183,
+        "ema_exit_threshold": -0.00031165289367352233
+    },
+    {
+        "returns": -640.3000396999803,
+        "ema_span": 81,
+        "sma_window": 81,
+        "position_size": 1,
+        "ema_entry_threshold": 0.04765900398404846,
+        "ema_exit_threshold": 0.002687026970941609
+    },
+    {
+        "returns": -308.43945074538306,
+        "ema_span": 65,
+        "sma_window": 65,
+        "position_size": 1,
+        "ema_entry_threshold": 0.12122501473344384,
+        "ema_exit_threshold": -0.016555725862449758
+    },
+    {
+        "returns": -287.874455709974,
+        "ema_span": 88,
+        "sma_window": 88,
+        "position_size": 1,
+        "ema_entry_threshold": 0.061581656007156337,
+        "ema_exit_threshold": -0.008736309400209582
+    },
+    {
+        "returns": -351.4593443463468,
+        "ema_span": 68,
+        "sma_window": 68,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10534246205644703,
+        "ema_exit_threshold": 0.005284299802836118
+    },
+    {
+        "returns": -488.4916129081266,
+        "ema_span": 46,
+        "sma_window": 46,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11400968171064327,
+        "ema_exit_threshold": -0.0042337232300803645
+    },
+    {
+        "returns": -276.16562533242427,
+        "ema_span": 71,
+        "sma_window": 71,
+        "position_size": 1,
+        "ema_entry_threshold": 0.11988891916482076,
+        "ema_exit_threshold": 0.018856442549250445
+    },
+    {
+        "returns": -2571.918076973614,
+        "ema_span": 23,
+        "sma_window": 23,
+        "position_size": 1,
+        "ema_entry_threshold": 0.030906886716189748,
+        "ema_exit_threshold": 0.018945002789555226
+    },
+    {
+        "returns": -728.8040295730921,
+        "ema_span": 30,
+        "sma_window": 30,
+        "position_size": 1,
+        "ema_entry_threshold": 0.13365271212455915,
+        "ema_exit_threshold": -0.003305075175277196
+    },
+    {
+        "returns": -118.03232322927511,
+        "ema_span": 93,
+        "sma_window": 93,
+        "position_size": 1,
+        "ema_entry_threshold": 0.07590936248671003,
+        "ema_exit_threshold": 0.013714110490486712
+    },
+    {
+        "returns": -964.3695064410874,
+        "ema_span": 34,
+        "sma_window": 34,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09496814487118449,
+        "ema_exit_threshold": 0.01289710676414842
+    },
+    {
+        "returns": -1129.1225962860194,
+        "ema_span": 32,
+        "sma_window": 32,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08406833887718529,
+        "ema_exit_threshold": 0.017054168618144783
+    },
+    {
+        "returns": -379.98224288778056,
+        "ema_span": 66,
+        "sma_window": 66,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10291097957171562,
+        "ema_exit_threshold": -0.0031784370829337134
+    },
+    {
+        "returns": -576.0000343801883,
+        "ema_span": 47,
+        "sma_window": 47,
+        "position_size": 1,
+        "ema_entry_threshold": 0.09741594883981189,
+        "ema_exit_threshold": -0.017129806672499512
+    },
+    {
+        "returns": -672.5386096813004,
+        "ema_span": 57,
+        "sma_window": 57,
+        "position_size": 1,
+        "ema_entry_threshold": 0.08258923268317471,
+        "ema_exit_threshold": 0.006369569778572804
+    },
+    {
+        "returns": -531.1717109918629,
+        "ema_span": 74,
+        "sma_window": 74,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06733467687179058,
+        "ema_exit_threshold": 0.017918757774270384
+    },
+    {
+        "returns": -1543.4071129839065,
+        "ema_span": 18,
+        "sma_window": 18,
+        "position_size": 1,
+        "ema_entry_threshold": 0.1367137522517261,
+        "ema_exit_threshold": -0.005217679248973315
+    },
+    {
+        "returns": -809.1560484646122,
+        "ema_span": 36,
+        "sma_window": 36,
+        "position_size": 1,
+        "ema_entry_threshold": 0.10347544152832974,
+        "ema_exit_threshold": -0.019291659184282748
+    },
+    {
+        "returns": -2326.8413159064903,
+        "ema_span": 22,
+        "sma_window": 22,
+        "position_size": 1,
+        "ema_entry_threshold": 0.06053340683987876,
+        "ema_exit_threshold": -0.007220394837803416
+    }
+]

@@ -14,36 +14,24 @@ def upload_to_s3(local_file, bucket_name, s3_key):
     except Exception as e:
         print(f"Error uploading to S3: {e}")
 
-def process_order_responses(json_file_paths, parquet_file_path, bucket_name, s3_key_parquet):
-    """Process order responses from multiple JSON files and upload to S3."""
+def process_order_responses(json_file_path, parquet_file_path, bucket_name, s3_key_parquet):
+    """Process order responses from a JSON file and upload to S3."""
     try:
-        all_dataframes = []
+        if not os.path.exists(json_file_path):
+            raise FileNotFoundError(f"{json_file_path} does not exist.")
 
-        for json_file_path, strategy_name in json_file_paths.items():
-            if not os.path.exists(json_file_path):
-                print(f"Warning: {json_file_path} does not exist. Skipping...")
-                continue
+        with open(json_file_path, "r") as f:
+            responses = json.load(f)
 
-            with open(json_file_path, "r") as f:
-                responses = json.load(f)
+        df = pd.DataFrame([resp['data'] for resp in responses])
+        df['strategy'] = 'mean_reversion'
 
-            df = pd.DataFrame([resp['data'] for resp in responses])
-            df['strategy'] = strategy_name
-            all_dataframes.append(df)
-
-            os.remove(json_file_path)
-            print(f"JSON file deleted: {json_file_path}")
-
-        if not all_dataframes:
-            print("No data to process. Exiting...")
-            return
-
-        combined_df = pd.concat(all_dataframes, ignore_index=True)
-
-        combined_df.to_parquet(parquet_file_path, index=False)
+        df.to_parquet(parquet_file_path, index=False)
         print(f"Parquet file saved to: {parquet_file_path}")
 
         upload_to_s3(parquet_file_path, bucket_name, s3_key_parquet)
+        os.remove(json_file_path)
+        print(f"JSON file deleted: {json_file_path}")
     except FileNotFoundError as fnf_error:
         print(f"Error: {fnf_error}")
     except Exception as e:
@@ -56,15 +44,10 @@ def main():
     # Parquet file paths
     parquet_file_path = f"/tmp/response_momentum_{datetime.now().strftime('%Y%m%d')}.parquet"
     s3_key_parquet = f"response/daily/response_momentum_{datetime.now().strftime('%Y%m%d')}.parquet"
-
-    # JSON files and their corresponding strategies
-    json_file_paths = {
-        "momentum_order_responses_normalized.json": "normalized_slope_momentum",
-        "momentum_order_responses_percentage.json": "percentage_slope_momentum"
-    }
+    json_file_path = "order_responses.json"
 
     # Process and upload responses
-    process_order_responses(json_file_paths, parquet_file_path, bucket_name, s3_key_parquet)
+    process_order_responses(json_file_path, parquet_file_path, bucket_name, s3_key_parquet)
 
 if __name__ == "__main__":
     main()
