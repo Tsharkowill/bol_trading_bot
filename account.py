@@ -24,7 +24,7 @@ def process_order_responses(json_file_path, parquet_file_path, bucket_name, s3_k
             responses = json.load(f)
 
         df = pd.DataFrame([resp['data'] for resp in responses])
-        df['strategy'] = 'mean_reversion'
+        df['strategy'] = 'momentum'
 
         df.to_parquet(parquet_file_path, index=False)
         print(f"Parquet file saved to: {parquet_file_path}")
