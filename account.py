@@ -42,8 +42,8 @@ def main():
     bucket_name = config('s3_bucket_name')
 
     # Parquet file paths
-    parquet_file_path = f"/tmp/response_momentum_{datetime.now().strftime('%Y%m%d')}.parquet"
-    s3_key_parquet = f"response/daily/response_momentum_{datetime.now().strftime('%Y%m%d')}.parquet"
+    parquet_file_path = f"/tmp/response_bollinger_{datetime.now().strftime('%Y%m%d')}.parquet"
+    s3_key_parquet = f"response/daily/response_bollinger_{datetime.now().strftime('%Y%m%d')}.parquet"
     json_file_path = "order_responses.json"
 
     # Process and upload responses

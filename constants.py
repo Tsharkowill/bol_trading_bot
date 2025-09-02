@@ -1,8 +1,13 @@
-TRADE_SIZE = 100
-LONG_RATIO = 2.0
-SHORT_RATIO = 1.0
-EMA_ENTRY_THRESHOLD_HIGH = 0.012
-EMA_ENTRY_THRESHOLD_MEDIUM = 0.055
-WINDOW_HIGH = 100
-WINDOW_MEDIUM = 275
-MARKETS = ["ETHUSDT", "SOLUSDT", "INJUSDT", "NEARUSDT", "ENSUSDT", "JUPUSDT", "GMXUSDT", "HYPEUSDT", "AAVEUSDT", "UMAUSDT", "BCHUSDT", "LTCUSDT", "LINKUSDT", "LDOUSDT"]
+TRADE_SIZE = 200
+WINDOW = 200  # Rolling window for Bollinger Bands calculation
+NUM_STD = 2  # Number of standard deviations for Bollinger Bands
+
+# Strategy preferences for each asset: "long", "short", or "both"
+TRADING_STRATEGIES = {
+    "ETHUSDT": "long",
+    "SOLUSDT": "both", 
+    "INJUSDT": "short",
+    "NEARUSDT": "short",
+    "AAVEUSDT": "both",
+    "LTCUSDT": "short"
+}

@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 
-from constants import TRADE_SIZE, LONG_RATIO, SHORT_RATIO
+from constants import TRADE_SIZE, WINDOW, NUM_STD, TRADING_STRATEGIES
 import bitget.v1.mix.order_api as maxOrderApi
 from bitget.bitget_api import BitgetApi
 from bitget.exceptions import BitgetAPIException
@@ -32,37 +32,32 @@ def log_order_response(response, file_path):
         print(f"Failed to log order: {e}")
 
 
-def calculate_simple_moving_avg(price_series, window):
-        
-    return price_series.rolling(window=window).mean()
-
-def calculate_exponential_moving_avg(price_series, span):
-        
-    return price_series.ewm(span=span, adjust=False).mean()
-
-
-def calculate_ema_slope(price_series, window):
-   
-    ema = calculate_exponential_moving_avg(price_series, window)
-    current_ema_slope = (ema.diff(1) / ema.shift(1)) * 100
-    return current_ema_slope.fillna(0)
-
-def calculate_limit_percentage(cadence):
+def calculate_bollinger_bands(price_series, window, num_std):
+    """
+    Calculate Bollinger Bands for a given price series.
     
-    if cadence == 'high':
-        return 0.05  # 5% for high cadence data
-    elif cadence == 'medium':
-        return 0.1   # 10% for medium cadence data
-    else:
-        return 0.05
+    Args:
+        price_series: pandas Series of prices
+        window: rolling window size for the moving average
+        num_std: number of standard deviations for the bands
+    
+    Returns:
+        tuple: (upper_band, middle_band, lower_band)
+    """
+    middle_band = price_series.rolling(window=window).mean()
+    std = price_series.rolling(window=window).std()
+    upper_band = middle_band + (std * num_std)
+    lower_band = middle_band - (std * num_std)
+    
+    return upper_band, middle_band, lower_band
 
 
-def manage_trade(price_data_file, MARKETS, cadence, EMA_ENTRY_THRESHOLD, WINDOW):
+def manage_trade(price_data_file):
 
     price_data = pd.read_csv(price_data_file)
 
     try:
-        with open(f'open_trades_{cadence}.json', 'r') as json_file:
+        with open('open_trades.json', 'r') as json_file:
             open_trades = json.load(json_file)
         print(f'Open positions loaded: {open_trades}')
     except FileNotFoundError:
@@ -70,32 +65,52 @@ def manage_trade(price_data_file, MARKETS, cadence, EMA_ENTRY_THRESHOLD, WINDOW)
         print('No open positions found, starting fresh')
 
     keys_to_remove = []
-    limit_percentage = calculate_limit_percentage(cadence)
 
-    for market in MARKETS:
+    for market in TRADING_STRATEGIES.keys():
 
         price_series = price_data[market]
-        current_ema = calculate_exponential_moving_avg(price_series, WINDOW).iloc[-1]
-        current_sma = calculate_simple_moving_avg(price_series, WINDOW).iloc[-1]
-        current_ema_slope = calculate_ema_slope(price_series, WINDOW).iloc[-1]
+        upper_band, middle_band, lower_band = calculate_bollinger_bands(price_series, WINDOW, NUM_STD)
+        
+        current_price = price_series.iloc[-1]
+        current_upper = upper_band.iloc[-1]
+        current_middle = middle_band.iloc[-1]
+        current_lower = lower_band.iloc[-1]
 
         key_to_remove = None
+        strategy = TRADING_STRATEGIES.get(market, "both")
 
         if market not in open_trades:
-            if current_ema > current_sma and current_ema_slope >= EMA_ENTRY_THRESHOLD:
-                enter_momentum_trade(market, "long", price_data, open_trades)
-                enter_limit_trade(market, "long", price_data, limit_percentage)
-            elif current_ema < current_sma and current_ema_slope <= -EMA_ENTRY_THRESHOLD:
-                enter_momentum_trade(market, "short", price_data, open_trades)
-                enter_limit_trade(market, "short", price_data, limit_percentage)
+            # "Long" strategy: Close short at market when price touches lower band (oversold)
+            # Then open short limit at SMA band (middle band)
+            if strategy in ["long", "both"]:
+                if current_price <= current_lower:
+                    # Close short position at market (this is our "long" entry)
+                    enter_market_trade(market, "close_short", price_data, open_trades)
+                    # Open short limit at SMA band (middle band)
+                    enter_limit_trade(market, "open_short", price_data, current_middle)
+            
+            # "Short" strategy: Open short at market when price touches upper band (overbought)
+            # Then close short limit at SMA band (middle band)
+            if strategy in ["short", "both"]:
+                if current_price >= current_upper:
+                    # Open short position at market
+                    enter_market_trade(market, "open_short", price_data, open_trades)
+                    # Close short limit at SMA band (middle band)
+                    enter_limit_trade(market, "close_short", price_data, current_middle)
 
         elif market in open_trades:
             position_type = open_trades[market]['position_type']
-            if position_type == "long" and current_ema <= current_sma:
-                key_to_remove = market
-
-            elif position_type == "short" and current_ema >= current_sma:
-                key_to_remove = market
+            
+            # Exit conditions based on position type
+            if position_type == "open_short":
+                # Close short position when price reaches middle band (SMA)
+                if current_price <= current_middle:
+                    key_to_remove = market
+            elif position_type == "close_short":
+                # This represents a "long" position that was entered by closing a short
+                # Exit when price reaches middle band or upper band
+                if current_price >= current_middle or current_price >= current_upper:
+                    key_to_remove = market
 
             if key_to_remove is not None:
                 keys_to_remove.append(key_to_remove)
@@ -103,34 +118,34 @@ def manage_trade(price_data_file, MARKETS, cadence, EMA_ENTRY_THRESHOLD, WINDOW)
     for key in keys_to_remove:
         del open_trades[key]
 
-    with open(f'open_trades_{cadence}.json', 'w') as json_file:
+    with open('open_trades.json', 'w') as json_file:
         json.dump(open_trades, json_file, indent=4)
 
 
-def enter_momentum_trade(market, position_type, price_data, open_trades):
+def enter_market_trade(market, position_type, price_data, open_trades):
     
     asset_latest_price = price_data[market].iloc[-1]
 
     asset_position_size = round(TRADE_SIZE / asset_latest_price, 2)
     
-    if position_type == "long":
-        print(f"Opening long momentum trade on: {market}")
+    if position_type == "close_short":
+        print(f"Closing short position (long entry) on: {market}")
         market_params = {
             "symbol": f"{market}_UMCBL",
             "marginCoin": "USDT",
-            "side": "open_long",
+            "side": "close_short",
             "orderType": "market",
-            "size": round(asset_position_size * LONG_RATIO, 2),
+            "size": round(asset_position_size, 2),
             "timeInForceValue": "normal"
         }
-    elif position_type == "short":
-        print(f"Opening short momentum trade on: {market}")
+    elif position_type == "open_short":
+        print(f"Opening short position on: {market}")
         market_params = {
             "symbol": f"{market}_UMCBL",
             "marginCoin": "USDT",
             "side": "open_short",
             "orderType": "market",
-            "size": round(asset_position_size * SHORT_RATIO, 2),
+            "size": round(asset_position_size, 2),
             "timeInForceValue": "normal"
         }
     
@@ -155,34 +170,32 @@ def enter_momentum_trade(market, position_type, price_data, open_trades):
     }
 
 
-def enter_limit_trade(market, position_type, price_data, limit_percentage):
+def enter_limit_trade(market, position_type, price_data, limit_price):
 
     asset_latest_price = price_data[market].iloc[-1]
 
     asset_position_size = round(TRADE_SIZE / asset_latest_price, 2)
 
-    if position_type == "long":
-        limit_price = round(asset_latest_price * (1 + limit_percentage), 2)
-        print(f"Opening long limit trade on: {market}")
+    if position_type == "open_short":
+        print(f"Opening short limit trade on: {market} at {limit_price}")
         params = {
             "symbol": f"{market}_UMCBL",
             "marginCoin": "USDT",
-            "side": "close_long",
+            "side": "open_short",
             "orderType": "limit",
-            "size": round(asset_position_size * LONG_RATIO, 2),
+            "size": round(asset_position_size, 2),
             "price": limit_price,
             "timeInForceValue": "normal"
         }
 
-    elif position_type == "short":
-        limit_price = round(asset_latest_price * (1 - limit_percentage), 2)
-        print(f"Opening short trade on: {market}")
+    elif position_type == "close_short":
+        print(f"Closing short limit trade on: {market} at {limit_price}")
         params = {
             "symbol": f"{market}_UMCBL",
             "marginCoin": "USDT",
             "side": "close_short",
             "orderType": "limit",
-            "size": round(asset_position_size * SHORT_RATIO, 2),
+            "size": round(asset_position_size, 2),
             "price": limit_price,
             "timeInForceValue": "normal"
         }
