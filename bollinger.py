@@ -175,28 +175,31 @@ def enter_limit_trade(market, position_type, price_data, limit_price):
     asset_latest_price = price_data[market].iloc[-1]
 
     asset_position_size = round(TRADE_SIZE / asset_latest_price, 2)
+    
+    # Round the limit price to 2 decimal places
+    rounded_limit_price = round(limit_price, 2)
 
     if position_type == "open_short":
-        print(f"Opening short limit trade on: {market} at {limit_price}")
+        print(f"Opening short limit trade on: {market} at {rounded_limit_price}")
         params = {
             "symbol": f"{market}_UMCBL",
             "marginCoin": "USDT",
             "side": "open_short",
             "orderType": "limit",
             "size": round(asset_position_size, 2),
-            "price": limit_price,
+            "price": rounded_limit_price,
             "timeInForceValue": "normal"
         }
 
     elif position_type == "close_short":
-        print(f"Closing short limit trade on: {market} at {limit_price}")
+        print(f"Closing short limit trade on: {market} at {rounded_limit_price}")
         params = {
             "symbol": f"{market}_UMCBL",
             "marginCoin": "USDT",
             "side": "close_short",
             "orderType": "limit",
             "size": round(asset_position_size, 2),
-            "price": limit_price,
+            "price": rounded_limit_price,
             "timeInForceValue": "normal"
         }
 
