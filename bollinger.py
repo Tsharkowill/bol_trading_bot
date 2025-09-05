@@ -81,22 +81,24 @@ def manage_trade(price_data_file):
 
         if market not in open_trades:
             # "Long" strategy: Close short at market when price touches lower band (oversold)
-            # Then open short limit at SMA band (middle band)
+            # Then open short limit halfway between middle band and upper band
             if strategy in ["long", "both"]:
                 if current_price <= current_lower:
                     # Close short position at market (this is our "long" entry)
                     enter_market_trade(market, "close_short", price_data, open_trades)
-                    # Open short limit at SMA band (middle band)
-                    enter_limit_trade(market, "open_short", price_data, current_middle)
+                    # Open short limit halfway between middle and upper band
+                    limit_price = current_middle + (current_upper - current_middle) / 2
+                    enter_limit_trade(market, "open_short", price_data, limit_price)
             
             # "Short" strategy: Open short at market when price touches upper band (overbought)
-            # Then close short limit at SMA band (middle band)
+            # Then close short limit halfway between middle band and lower band
             if strategy in ["short", "both"]:
                 if current_price >= current_upper:
                     # Open short position at market
                     enter_market_trade(market, "open_short", price_data, open_trades)
-                    # Close short limit at SMA band (middle band)
-                    enter_limit_trade(market, "close_short", price_data, current_middle)
+                    # Close short limit halfway between middle and lower band
+                    limit_price = current_middle - (current_middle - current_lower) / 2
+                    enter_limit_trade(market, "close_short", price_data, limit_price)
 
         elif market in open_trades:
             position_type = open_trades[market]['position_type']
