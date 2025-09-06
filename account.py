@@ -24,7 +24,7 @@ def process_order_responses(json_file_path, parquet_file_path, bucket_name, s3_k
             responses = json.load(f)
 
         df = pd.DataFrame([resp['data'] for resp in responses])
-        df['strategy'] = 'momentum'
+        df['strategy'] = 'bollinger'
 
         df.to_parquet(parquet_file_path, index=False)
         print(f"Parquet file saved to: {parquet_file_path}")
@@ -43,7 +43,7 @@ def main():
 
     # Parquet file paths
     parquet_file_path = f"/tmp/response_bollinger_{datetime.now().strftime('%Y%m%d')}.parquet"
-    s3_key_parquet = f"response/daily/response_bollinger_{datetime.now().strftime('%Y%m%d')}.parquet"
+    s3_key_parquet = f"response/bollinger/daily/response_bollinger_{datetime.now().strftime('%Y%m%d')}.parquet"
     json_file_path = "order_responses.json"
 
     # Process and upload responses

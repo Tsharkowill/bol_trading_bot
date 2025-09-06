@@ -4,7 +4,6 @@ botocore==1.36.2
 certifi==2024.2.2
 charset-normalizer==3.3.2
 cramjam==2.9.1
-cx_Oracle==8.3.0
 dateparser==1.2.0
 fastparquet==2024.11.0
 fsspec==2024.12.0
