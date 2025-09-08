@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 
-from constants import TRADE_SIZE, WINDOW, NUM_STD, TRADING_STRATEGIES
+from constants import TRADE_SIZE, WINDOW, NUM_STD, TRADING_STRATEGIES, MIN_LIMIT_GAP
 import bitget.v1.mix.order_api as maxOrderApi
 from bitget.bitget_api import BitgetApi
 from bitget.exceptions import BitgetAPIException
@@ -84,21 +84,31 @@ def manage_trade(price_data_file):
             # Then open short limit halfway between middle band and upper band
             if strategy in ["long", "both"]:
                 if current_price <= current_lower:
-                    # Close short position at market (this is our "long" entry)
-                    enter_market_trade(market, "close_short", price_data, open_trades)
-                    # Open short limit halfway between middle and upper band
-                    limit_price = current_middle + (current_upper - current_middle) / 2
-                    enter_limit_trade(market, "open_short", price_data, limit_price)
+                    # Compute proposed limit price and ensure sufficient gap before entering
+                    proposed_limit_price = current_middle + (current_upper - current_middle) / 2
+                    gap_ratio = abs(proposed_limit_price - current_price) / current_price
+                    if gap_ratio >= MIN_LIMIT_GAP:
+                        # Close short position at market (this is our "long" entry)
+                        enter_market_trade(market, "close_short", price_data, open_trades)
+                        # Open short limit halfway between middle and upper band
+                        enter_limit_trade(market, "open_short", price_data, proposed_limit_price)
+                    else:
+                        print(f"Skipping long entry for {market}: gap {round(gap_ratio*100,2)}% < {int(MIN_LIMIT_GAP*100)}%")
             
             # "Short" strategy: Open short at market when price touches upper band (overbought)
             # Then close short limit halfway between middle band and lower band
             if strategy in ["short", "both"]:
                 if current_price >= current_upper:
-                    # Open short position at market
-                    enter_market_trade(market, "open_short", price_data, open_trades)
-                    # Close short limit halfway between middle and lower band
-                    limit_price = current_middle - (current_middle - current_lower) / 2
-                    enter_limit_trade(market, "close_short", price_data, limit_price)
+                    # Compute proposed limit price and ensure sufficient gap before entering
+                    proposed_limit_price = current_middle - (current_middle - current_lower) / 2
+                    gap_ratio = abs(proposed_limit_price - current_price) / current_price
+                    if gap_ratio >= MIN_LIMIT_GAP:
+                        # Open short position at market
+                        enter_market_trade(market, "open_short", price_data, open_trades)
+                        # Close short limit halfway between middle and lower band
+                        enter_limit_trade(market, "close_short", price_data, proposed_limit_price)
+                    else:
+                        print(f"Skipping short entry for {market}: gap {round(gap_ratio*100,2)}% < {int(MIN_LIMIT_GAP*100)}%")
 
         elif market in open_trades:
             position_type = open_trades[market]['position_type']
