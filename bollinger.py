@@ -87,6 +87,7 @@ def manage_trade(price_data_file):
                     # Compute proposed limit price and ensure sufficient gap before entering
                     proposed_limit_price = current_middle + (current_upper - current_middle) / 2
                     gap_ratio = abs(proposed_limit_price - current_price) / current_price
+                    print(f"Long entry check for {market}: current={current_price:.2f}, limit={proposed_limit_price:.2f}, gap={gap_ratio*100:.2f}%")
                     if gap_ratio >= MIN_LIMIT_GAP:
                         # Close short position at market (this is our "long" entry)
                         enter_market_trade(market, "close_short", price_data, open_trades)
@@ -102,6 +103,7 @@ def manage_trade(price_data_file):
                     # Compute proposed limit price and ensure sufficient gap before entering
                     proposed_limit_price = current_middle - (current_middle - current_lower) / 2
                     gap_ratio = abs(proposed_limit_price - current_price) / current_price
+                    print(f"Short entry check for {market}: current={current_price:.2f}, limit={proposed_limit_price:.2f}, gap={gap_ratio*100:.2f}%")
                     if gap_ratio >= MIN_LIMIT_GAP:
                         # Open short position at market
                         enter_market_trade(market, "open_short", price_data, open_trades)
